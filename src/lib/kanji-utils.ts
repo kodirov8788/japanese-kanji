@@ -22,7 +22,11 @@ export function getAllKanji(): Record<JLPTLevel, KanjiData[]> {
 }
 
 export function getKanjiByLevel(level: JLPTLevel): KanjiData[] {
-  return kanjiData[level] || [];
+  const kanjiList = kanjiData[level] || [];
+  if (kanjiList.length === 0) {
+    console.warn(`No kanji data available for level ${level}`);
+  }
+  return kanjiList;
 }
 
 export function getKanjiById(id: string): KanjiData | undefined {
@@ -47,6 +51,19 @@ export function calculateProgress(
   completedKanji: string[]
 ): LearningStats {
   const kanjiList = getKanjiByLevel(level);
+
+  if (kanjiList.length === 0) {
+    throw new Error(`No kanji data available for level ${level}`);
+  }
+
+  if (currentIndex < 0 || currentIndex >= kanjiList.length) {
+    throw new Error(
+      `Invalid index ${currentIndex} for level ${level} (available: 0-${
+        kanjiList.length - 1
+      })`
+    );
+  }
+
   const currentKanji = getNextKanji(level, currentIndex);
 
   if (!currentKanji) {
@@ -101,6 +118,28 @@ export function formatProgressMessage(stats: LearningStats): string {
   return `Perfect 👍 The next JLPT ${currentKanji.jlptLevel} kanji is ${currentKanji.kanji}（${readingText}）, meaning ${meanings}.
 We're at Kanji #${progress.current} of ${progress.total} → ${progress.remaining} left.
 (Progress: about ${progress.percentage}% complete ✅)`;
+}
+
+// Data validation utilities
+export function validateKanjiData(kanji: KanjiData): boolean {
+  return !!(
+    kanji.id &&
+    kanji.kanji &&
+    kanji.readings &&
+    Array.isArray(kanji.readings.on) &&
+    Array.isArray(kanji.readings.kun) &&
+    Array.isArray(kanji.meanings) &&
+    kanji.meanings.length > 0 &&
+    Array.isArray(kanji.examples) &&
+    kanji.examples.length > 0 &&
+    typeof kanji.strokes === "number" &&
+    kanji.strokes > 0
+  );
+}
+
+export function validateKanjiLevel(level: JLPTLevel): boolean {
+  const kanjiList = kanjiData[level] || [];
+  return kanjiList.length > 0 && kanjiList.every(validateKanjiData);
 }
 
 // Browser storage utilities

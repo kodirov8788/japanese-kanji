@@ -1,0 +1,362 @@
+[
+  {
+    "id": "n4-001",
+    "kanji": "教",
+    "readings": {
+      "on": ["きょう"],
+      "kun": ["おしえる", "おそわる"]
+    },
+    "meanings": ["teach", "instruct"],
+    "jlptLevel": "N4",
+    "frequency": 1,
+    "strokes": 11,
+    "examples": [
+      {
+        "word": "教える",
+        "reading": "おしえる",
+        "meaning": "to teach, to tell",
+        "sentence": {
+          "japanese": "先生が日本語を教える。",
+          "romaji": "Sensei ga Nihongo o oshieru.",
+          "english": "The teacher teaches Japanese.",
+          "uzbek": "O'qituvchi yapon tilini o'qitadi."
+        }
+      },
+      {
+        "word": "教室",
+        "reading": "きょうしつ",
+        "meaning": "classroom",
+        "sentence": {
+          "japanese": "学生は教室に集まった。",
+          "romaji": "Gakusei wa kyōshitsu ni atsumatta.",
+          "english": "The students gathered in the classroom.",
+          "uzbek": "Talabalar sinfxonaga yig'ildilar."
+        }
+      }
+    ]
+  },
+  {
+    "id": "n4-002",
+    "kanji": "来",
+    "readings": {
+      "on": ["らい", "り"],
+      "kun": ["く", "くる", "きた"]
+    },
+    "meanings": ["come", "next", "arrive"],
+    "jlptLevel": "N4",
+    "frequency": 2,
+    "strokes": 7,
+    "examples": [
+      {
+        "word": "来る",
+        "reading": "くる",
+        "meaning": "to come",
+        "sentence": {
+          "japanese": "友達が来る予定です。",
+          "romaji": "Tomodachi ga kuru yotei desu.",
+          "english": "My friend is coming.",
+          "uzbek": "Do'stim keladi."
+        }
+      },
+      {
+        "word": "未来",
+        "reading": "みらい",
+        "meaning": "future",
+        "sentence": {
+          "japanese": "未来について考えています。",
+          "romaji": "Mirai ni tsuite kangaete imasu.",
+          "english": "I am thinking about the future.",
+          "uzbek": "Men kelajak haqida o'ylayapman."
+        }
+      }
+    ]
+  },
+  {
+    "id": "n4-003",
+    "kanji": "学",
+    "readings": {
+      "on": ["がく", "がっか"],
+      "kun": ["まなぶ"]
+    },
+    "meanings": ["study", "learn", "school"],
+    "jlptLevel": "N4",
+    "frequency": 3,
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "学ぶ",
+        "reading": "まなぶ",
+        "meaning": "to learn, to study",
+        "sentence": {
+          "japanese": "毎日新しいことを学んでいます。",
+          "romaji": "Mainichi atarashii koto o manande imasu.",
+          "english": "I learn something new every day.",
+          "uzbek": "Men har kuni yangi narsalarni o'rganaman."
+        }
+      },
+      {
+        "word": "学校",
+        "reading": "がっこう",
+        "meaning": "school",
+        "sentence": {
+          "japanese": "学校は朝八時に始まります。",
+          "romaji": "Gakkō wa asa hachiji ni hajimarimasu.",
+          "english": "School starts at 8 AM.",
+          "uzbek": "Maktab ertalab saat sakkizda boshlanadi."
+        }
+      }
+    ]
+  },
+  {
+    "id": "n4-004",
+    "kanji": "会",
+    "readings": {
+      "on": ["かい"],
+      "kun": ["あう"]
+    },
+    "meanings": ["meet", "meeting", "association"],
+    "jlptLevel": "N4",
+    "frequency": 4,
+    "strokes": 6,
+    "examples": [
+      {
+        "word": "会う",
+        "reading": "あう",
+        "meaning": "to meet",
+        "sentence": {
+          "japanese": "友達と会う約束をした。",
+          "romaji": "Tomodachi to au yakusoku o shita.",
+          "english": "I made an appointment to meet my friend.",
+          "uzbek": "Men do'stim bilan uchrashishga kelishdim."
+        }
+      },
+      {
+        "word": "会議",
+        "reading": "かいぎ",
+        "meaning": "meeting, conference",
+        "sentence": {
+          "japanese": "午後に会議があります。",
+          "romaji": "Gogo ni kaigi ga arimasu.",
+          "english": "There is a meeting in the afternoon.",
+          "uzbek": "Tushdan keyin yig'ilish bor."
+        }
+      }
+    ]
+  },
+  {
+    "id": "n4-005",
+    "kanji": "同",
+    "readings": {
+      "on": ["どう"],
+      "kun": ["おなじ"]
+    },
+    "meanings": ["same", "equal", "together"],
+    "jlptLevel": "N4",
+    "frequency": 5,
+    "strokes": 6,
+    "examples": [
+      {
+        "word": "同じ",
+        "reading": "おなじ",
+        "meaning": "same, identical",
+        "sentence": {
+          "japanese": "私たちは同じ学校に通っています。",
+          "romaji": "Watashitachi wa onaji gakkō ni kayotte imasu.",
+          "english": "We go to the same school.",
+          "uzbek": "Biz bir xil maktabga boramiz."
+        }
+      },
+      {
+        "word": "同時",
+        "reading": "どうじ",
+        "meaning": "simultaneous, same time",
+        "sentence": {
+          "japanese": "二人が同時に話し始めた。",
+          "romaji": "Futari ga dōji ni hanashi hajimeta.",
+          "english": "The two started talking at the same time.",
+          "uzbek": "Ikki kishi bir vaqtda gapirishni boshladi."
+        }
+      }
+    ]
+  },
+  {
+    "id": "n4-006",
+    "kanji": "事",
+    "readings": {
+      "on": ["じ"],
+      "kun": ["こと"]
+    },
+    "meanings": ["thing", "matter", "affair"],
+    "jlptLevel": "N4",
+    "frequency": 6,
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "事",
+        "reading": "こと",
+        "meaning": "thing, matter",
+        "sentence": {
+          "japanese": "その事について話しましょう。",
+          "romaji": "Sono koto ni tsuite hanashimashou.",
+          "english": "Let's talk about that matter.",
+          "uzbek": "Bu masala haqida gaplashaylik."
+        }
+      },
+      {
+        "word": "仕事",
+        "reading": "しごと",
+        "meaning": "work, job",
+        "sentence": {
+          "japanese": "新しい仕事を始めました。",
+          "romaji": "Atarashii shigoto o hajimemashita.",
+          "english": "I started a new job.",
+          "uzbek": "Men yangi ishni boshladim."
+        }
+      }
+    ]
+  },
+  {
+    "id": "n4-007",
+    "kanji": "自",
+    "readings": {
+      "on": ["じ"],
+      "kun": ["みずから"]
+    },
+    "meanings": ["self", "oneself", "automatic"],
+    "jlptLevel": "N4",
+    "frequency": 7,
+    "strokes": 6,
+    "examples": [
+      {
+        "word": "自分",
+        "reading": "じぶん",
+        "meaning": "oneself, myself",
+        "sentence": {
+          "japanese": "自分のことを考えてください。",
+          "romaji": "Jibun no koto o kangaete kudasai.",
+          "english": "Please think about yourself.",
+          "uzbek": "O'zingiz haqingizda o'ylang."
+        }
+      },
+      {
+        "word": "自動",
+        "reading": "じどう",
+        "meaning": "automatic",
+        "sentence": {
+          "japanese": "自動ドアが開きました。",
+          "romaji": "Jidō doa ga hirakimashita.",
+          "english": "The automatic door opened.",
+          "uzbek": "Avtomatik eshik ochildi."
+        }
+      }
+    ]
+  },
+  {
+    "id": "n4-008",
+    "kanji": "社",
+    "readings": {
+      "on": ["しゃ"],
+      "kun": ["やしろ"]
+    },
+    "meanings": ["company", "shrine", "society"],
+    "jlptLevel": "N4",
+    "frequency": 8,
+    "strokes": 7,
+    "examples": [
+      {
+        "word": "会社",
+        "reading": "かいしゃ",
+        "meaning": "company, corporation",
+        "sentence": {
+          "japanese": "大きな会社で働いています。",
+          "romaji": "Ōkina kaisha de hataraite imasu.",
+          "english": "I work at a large company.",
+          "uzbek": "Men katta kompaniyada ishlayman."
+        }
+      },
+      {
+        "word": "神社",
+        "reading": "じんじゃ",
+        "meaning": "shrine",
+        "sentence": {
+          "japanese": "神社にお参りに行きました。",
+          "romaji": "Jinja ni omairi ni ikimashita.",
+          "english": "I went to visit the shrine.",
+          "uzbek": "Men ibodatxonaga borib kelishdim."
+        }
+      }
+    ]
+  },
+  {
+    "id": "n4-009",
+    "kanji": "発",
+    "readings": {
+      "on": ["はつ", "はっ"],
+      "kun": []
+    },
+    "meanings": ["departure", "send", "emit"],
+    "jlptLevel": "N4",
+    "frequency": 9,
+    "strokes": 9,
+    "examples": [
+      {
+        "word": "出発",
+        "reading": "しゅっぱつ",
+        "meaning": "departure",
+        "sentence": {
+          "japanese": "電車の出発時刻を確認しました。",
+          "romaji": "Densha no shuppatsu jikoku o kakunin shimashita.",
+          "english": "I checked the train departure time.",
+          "uzbek": "Men poyezd jo'nash vaqtini tekshirdim."
+        }
+      },
+      {
+        "word": "発音",
+        "reading": "はつおん",
+        "meaning": "pronunciation",
+        "sentence": {
+          "japanese": "日本語の発音は難しいです。",
+          "romaji": "Nihongo no hatsuon wa muzukashii desu.",
+          "english": "Japanese pronunciation is difficult.",
+          "uzbek": "Yapon tilining talaffuzi qiyin."
+        }
+      }
+    ]
+  },
+  {
+    "id": "n4-010",
+    "kanji": "者",
+    "readings": {
+      "on": ["しゃ"],
+      "kun": ["もの"]
+    },
+    "meanings": ["person", "someone", "thing"],
+    "jlptLevel": "N4",
+    "frequency": 10,
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "者",
+        "reading": "もの",
+        "meaning": "person, someone",
+        "sentence": {
+          "japanese": "その者は誰ですか。",
+          "romaji": "Sono mono wa dare desu ka.",
+          "english": "Who is that person?",
+          "uzbek": "U kishi kim?"
+        }
+      },
+      {
+        "word": "学者",
+        "reading": "がくしゃ",
+        "meaning": "scholar, academic",
+        "sentence": {
+          "japanese": "彼は有名な学者です。",
+          "romaji": "Kare wa yūmei na gakusha desu.",
+          "english": "He is a famous scholar.",
+          "uzbek": "U mashhur olim."
+        }
+      }
+    ]
+  }
+]

@@ -31,6 +31,14 @@ export function FlashCard({
   const example = kanji.examples[currentExampleIndex];
   const totalExamples = kanji.examples.length;
 
+  // Safety check for example data
+  if (!example) {
+    console.error(
+      `No example found at index ${currentExampleIndex} for kanji ${kanji.kanji}`
+    );
+    return null;
+  }
+
   const resetShowStates = () => {
     setShowRomaji(false);
     setShowEnglish(false);

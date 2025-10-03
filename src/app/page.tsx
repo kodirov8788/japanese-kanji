@@ -51,6 +51,8 @@ export default function HomePage() {
       setStats(newStats);
     } catch (error) {
       console.error("Error calculating stats:", error);
+      // Reset to safe state if calculation fails
+      setStats(null);
     }
   }, [progress]);
 
