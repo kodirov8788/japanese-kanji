@@ -6,9 +6,14 @@ import { ThemeProvider } from "@/components/theme-provider";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Japanese Kanji Learner | JLPT N5-N1",
+  title: "KANJI APP | Japanese Kanji Learner | JLPT N5-N1",
   description:
     "Master Japanese kanji from JLPT N5 to N1 levels with comprehensive examples and progress tracking.",
+  icons: {
+    icon: "/kanji-app.png",
+    shortcut: "/kanji-app.png",
+    apple: "/kanji-app.png",
+  },
 };
 
 export default function RootLayout({

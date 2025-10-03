@@ -6,6 +6,7 @@ import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import { JLPT_LEVELS } from "@/data/jlpt-levels";
 import { BookOpen, Star, Users, Briefcase, Award } from "lucide-react";
+import Image from "next/image";
 
 interface LevelSelectorProps {
   selectedLevel: JLPTLevel;
@@ -30,6 +31,24 @@ export function LevelSelector({
 
   return (
     <div className="space-y-3">
+      {/* Logo Section */}
+      <div className="text-center mb-6 sm:mb-8">
+        <div className="flex justify-center mb-4">
+          <div className="relative h-16 w-16 sm:h-20 sm:w-20">
+            <Image
+              src="/kanji-app.png"
+              alt="KANJI APP Logo"
+              fill
+              className="object-contain"
+              priority
+            />
+          </div>
+        </div>
+        <p className="text-sm sm:text-base text-muted-foreground">
+          Master Japanese kanji from JLPT N5 to N1 levels
+        </p>
+      </div>
+
       <h2 className="text-lg sm:text-xl font-semibold text-center mb-4 sm:mb-6">
         Choose Your JLPT Level
       </h2>

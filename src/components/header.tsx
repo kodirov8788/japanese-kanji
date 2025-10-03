@@ -1,9 +1,10 @@
 "use client";
 
 import { Button } from "@/components/ui/button";
-import { Moon, Sun, BookOpen } from "lucide-react";
+import { Moon, Sun } from "lucide-react";
 import { useTheme } from "next-themes";
 import { JLPTLevel } from "@/types/kanji";
+import Image from "next/image";
 
 interface HeaderProps {
   currentLevel: JLPTLevel;
@@ -22,11 +23,17 @@ export function Header({ currentLevel, onLevelChange }: HeaderProps) {
       <div className="container mx-auto px-3 sm:px-4 py-3 sm:py-4">
         <div className="flex items-center justify-between">
           <div className="flex items-center gap-2 sm:gap-3">
-            <BookOpen className="h-6 w-6 sm:h-8 sm:w-8 text-primary" />
+            <div className="relative h-8 w-8 sm:h-10 sm:w-10">
+              <Image
+                src="/kanji-app.png"
+                alt="KANJI APP Logo"
+                fill
+                className="object-contain"
+                priority
+              />
+            </div>
             <div>
-              <h1 className="text-lg sm:text-2xl font-bold">
-                Japanese Kanji Learner
-              </h1>
+              {/* <h1 className="text-lg sm:text-2xl font-bold">KANJI APP</h1> */}
               <p className="text-xs sm:text-sm text-muted-foreground hidden sm:block">
                 Master JLPT kanji from N5 to N1
               </p>
