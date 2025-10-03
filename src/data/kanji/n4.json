@@ -1,0 +1,143 @@
+[
+  {
+    "id": "n4-001",
+    "kanji": "教",
+    "readings": {
+      "on": ["きょう"],
+      "kun": ["おしえる", "おそわる"]
+    },
+    "meanings": ["teach", "instruct"],
+    "jlptLevel": "N4",
+    "frequency": 1,
+    "strokes": 11,
+    "examples": [
+      {
+        "word": "教える",
+        "reading": "おしえる",
+        "meaning": "to teach, to tell",
+        "sentence": {
+          "japanese": "先生が日本語を教える。",
+          "romaji": "Sensei ga Nihongo o oshieru.",
+          "english": "The teacher teaches Japanese.",
+          "uzbek": "O'qituvchi yapon tilini o'qitadi."
+        }
+      },
+      {
+        "word": "教わる",
+        "reading": "おそわる",
+        "meaning": "to be taught, to learn",
+        "sentence": {
+          "japanese": "彼にピアノを教わった。",
+          "romaji": "Kare ni piano o osowatta.",
+          "english": "I learned piano from him.",
+          "uzbek": "Men undan pianino chalishni o'rgandim."
+        }
+      },
+      {
+        "word": "教室",
+        "reading": "きょうしつ",
+        "meaning": "classroom",
+        "sentence": {
+          "japanese": "学生は教室に集まった。",
+          "romaji": "Gakusei wa kyōshitsu ni atsumatta.",
+          "english": "The students gathered in the classroom.",
+          "uzbek": "Talabalar sinfxonaga yig'ildilar."
+        }
+      },
+      {
+        "word": "教科書",
+        "reading": "きょうかしょ",
+        "meaning": "textbook",
+        "sentence": {
+          "japanese": "新しい教科書を買った。",
+          "romaji": "Atarashii kyōkasho o katta.",
+          "english": "I bought a new textbook.",
+          "uzbek": "Men yangi darslik sotib oldim."
+        }
+      },
+      {
+        "word": "宗教",
+        "reading": "しゅうきょう",
+        "meaning": "religion",
+        "sentence": {
+          "japanese": "日本には多くの宗教がある。",
+          "romaji": "Nihon ni wa ōku no shūkyō ga aru.",
+          "english": "There are many religions in Japan.",
+          "uzbek": "Yaponiyada ko'plab dinlar mavjud."
+        }
+      }
+    ]
+  },
+  {
+    "id": "n4-002",
+    "kanji": "来",
+    "readings": {
+      "on": ["らい", "り"],
+      "kun": ["く", "くる", "きた"]
+    },
+    "meanings": ["come", "next", "arrive"],
+    "jlptLevel": "N4",
+    "frequency": 2,
+    "strokes": 7,
+    "examples": [
+      {
+        "word": "来る",
+        "reading": "くる",
+        "meaning": "to come",
+        "sentence": {
+          "japanese": "友達が来る予定です。",
+          "romaji": "Tomodachi ga kuru yotei desu.",
+          "english": "My friend is coming.",
+          "uzbek": "Do'stim keladi."
+        }
+      },
+      {
+        "word": "未来",
+        "reading": "みらい",
+        "meaning": "future",
+        "sentence": {
+          "japanese": "未来について考えています。",
+          "romaji": "Mirai ni tsuite kangaete imasu.",
+          "english": "I am thinking about the future.",
+          "uzbek": "Men kelajak haqida o'ylayapman."
+        }
+      }
+    ]
+  },
+  {
+    "id": "n4-003",
+    "kanji": "学",
+    "readings": {
+      "on": ["がく", "がっか"],
+      "kun": ["まなぶ"]
+    },
+    "meanings": ["study", "learn", "school"],
+    "jlptLevel": "N4",
+    "frequency": 3,
+    "strokes": 8,
+    "examples": [
+      {
+        "word": "学ぶ",
+        "reading": "まなぶ",
+        "meaning": "to learn, to study",
+        "sentence": {
+          "japanese": "毎日新しいことを学んでいます。",
+          "romaji": "Mainichi atarashii koto o manande imasu.",
+          "english": "I learn something new every day.",
+          "uzbek": "Men har kuni yangi narsalarni o'rganaman."
+        }
+      },
+      {
+        "word": "学校",
+        "reading": "がっこう",
+        "meaning": "school",
+        "sentence": {
+          "japanese": "学校は朝八時に始まります。",
+          "romaji": "Gakkō wa asa hachiji ni hajimarimasu.",
+          "english": "School starts at 8 AM.",
+          "uzbek": "Maktab ertalab saat sakkizda boshlanadi."
+        }
+      }
+    ]
+  }
+]

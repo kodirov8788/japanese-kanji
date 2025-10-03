@@ -1,0 +1,110 @@
+[
+  {
+    "id": "n5-001",
+    "kanji": "一",
+    "readings": {
+      "on": ["いつ", "いち"],
+      "kun": ["ひと-", "ひい-", "そつ"]
+    },
+    "meanings": ["one", "first", "single"],
+    "jlptLevel": "N5",
+    "frequency": 1,
+    "strokes": 1,
+    "examples": [
+      {
+        "word": "一つ",
+        "reading": "ひとつ",
+        "meaning": "one thing",
+        "sentence": {
+          "japanese": "りんごを一つ買った。",
+          "romaji": "Ringo o hitotsu katta.",
+          "english": "I bought one apple.",
+          "uzbek": "Men bir olma sotib oldim."
+        }
+      },
+      {
+        "word": "一年生",
+        "reading": "いちねんせい",
+        "meaning": "first year student",
+        "sentence": {
+          "japanese": "私は一年生です。",
+          "romaji": "Watashi wa ichinensei desu.",
+          "english": "I am a first year student.",
+          "uzbek": "Men birinchi kurs talabasiman."
+        }
+      }
+    ]
+  },
+  {
+    "id": "n5-002",
+    "kanji": "二",
+    "readings": {
+      "on": ["に"],
+      "kun": ["ふた", "ふたつ"]
+    },
+    "meanings": ["two", "second"],
+    "jlptLevel": "N5",
+    "frequency": 2,
+    "strokes": 2,
+    "examples": [
+      {
+        "word": "二つ",
+        "reading": "ふたつ",
+        "meaning": "two things",
+        "sentence": {
+          "japanese": "本を二つ読みました。",
+          "romaji": "Hon o futatsu yomimashita.",
+          "english": "I read two books.",
+          "uzbek": "Men ikki kitobni o'qidim."
+        }
+      },
+      {
+        "word": "二月",
+        "reading": "にがつ",
+        "meaning": "February",
+        "sentence": {
+          "japanese": "二月は寒いです。",
+          "romaji": "Nigatsu wa samui desu.",
+          "english": "February is cold.",
+          "uzbek": "Fevral sovuq oy."
+        }
+      }
+    ]
+  },
+  {
+    "id": "n5-003",
+    "kanji": "三",
+    "readings": {
+      "on": ["さん"],
+      "kun": ["み", "みつ"]
+    },
+    "meanings": ["three", "third"],
+    "jlptLevel": "N5",
+    "frequency": 3,
+    "strokes": 3,
+    "examples": [
+      {
+        "word": "三つ",
+        "reading": "みっつ",
+        "meaning": "three things",
+        "sentence": {
+          "japanese": "りんごを三つ食べました。",
+          "romaji": "Ringo o mittsu tabemashita.",
+          "english": "I ate three apples.",
+          "uzbek": "Men uchta olma yedim."
+        }
+      },
+      {
+        "word": "三月",
+        "reading": "さんがつ",
+        "meaning": "March",
+        "sentence": {
+          "japanese": "三月に桜が咲きます。",
+          "romaji": "Sangatsu ni sakura ga sakimasu.",
+          "english": "Cherry blossoms bloom in March.",
+          "uzbek": "Mart oyida gilos gullari ochiladi."
+        }
+      }
+    ]
+  }
+]
