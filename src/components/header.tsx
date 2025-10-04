@@ -23,7 +23,7 @@ export function Header({ currentLevel, onLevelChange }: HeaderProps) {
       <div className="container mx-auto px-3 sm:px-4 py-3 sm:py-4">
         <div className="flex items-center justify-between">
           <div className="flex items-center gap-2 sm:gap-3">
-            <div className="relative h-8 w-8 sm:h-10 sm:w-10">
+            <div className="relative h-10 w-10 sm:h-12 sm:w-12">
               <Image
                 src="/kanji-app.png"
                 alt="KANJI APP Logo"
@@ -31,12 +31,6 @@ export function Header({ currentLevel, onLevelChange }: HeaderProps) {
                 className="object-contain"
                 priority
               />
-            </div>
-            <div>
-              {/* <h1 className="text-lg sm:text-2xl font-bold">KANJI APP</h1> */}
-              <p className="text-xs sm:text-sm text-muted-foreground hidden sm:block">
-                Master JLPT kanji from N5 to N1
-              </p>
             </div>
           </div>
 
