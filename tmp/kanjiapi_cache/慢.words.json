@@ -1,0 +1,1156 @@
+[
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "(arrogance and) insolence"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ごうまんぶれい",
+        "written": "傲慢無礼"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "I don't want to boast but"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "じまんじゃないが",
+        "written": "自慢じゃないが"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "becoming chronic"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "まんせいか",
+        "written": "慢性化"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "boastful"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "じまんたらしい",
+        "written": "自慢たらしい"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "boasting of one's hometown"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おくにじまん",
+        "written": "お国自慢"
+      },
+      {
+        "priorities": [],
+        "pronounced": "おくにじまん",
+        "written": "御国自慢"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "boasting of one's humility"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ひげじまん",
+        "written": "卑下自慢"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "boasting of one's strength"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ちからじまん",
+        "written": "力自慢"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "bragging of one's misfortune"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ふこうじまん",
+        "written": "不幸自慢"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "chronic"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news1",
+          "nf20"
+        ],
+        "pronounced": "まんせいてき",
+        "written": "慢性的"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "chronic (illness)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "ichi1",
+          "news1",
+          "nf10"
+        ],
+        "pronounced": "まんせい",
+        "written": "慢性"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "chronic bronchitis"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "まんせいきかんしえん",
+        "written": "慢性気管支炎"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "chronic disease"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "まんせいびょう",
+        "written": "慢性病"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "chronic hepatitis"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "まんせいかんえん",
+        "written": "慢性肝炎"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "chronic obstructive respiratory disease"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "まんせいへいそくせいこきゅうきしっかん",
+        "written": "慢性閉塞性呼吸器疾患"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "chronic phase"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "まんせいき",
+        "written": "慢性期"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "indirect bragging (esp. on social media; by casually showing off something bragworthy as if it were unintended)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "かんせつじまん",
+        "written": "間接自慢"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "obstinate and self-assertive"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ごうじょうがまん",
+        "written": "強情我慢"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "pride in one's strength or skill"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "うでじまん",
+        "written": "腕自慢"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "rheumatoid arthritis"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "まんせいかんせつリウマチ",
+        "written": "慢性関節リウマチ"
+      },
+      {
+        "priorities": [],
+        "pronounced": "まんせいかんせつリウマチ",
+        "written": "慢性関節リュウマチ"
+      },
+      {
+        "priorities": [],
+        "pronounced": "まんせいかんせつリウマチ",
+        "written": "慢性関節リューマチ"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to be conceited"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "まんじる",
+        "written": "慢じる"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to be conceited"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "まんずる",
+        "written": "慢ずる"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "(very) patient",
+          "persevering"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "がまんづよい",
+        "written": "がまん強い"
+      },
+      {
+        "priorities": [],
+        "pronounced": "がまんづよい",
+        "written": "我慢強い"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "boastful speech",
+          "bragging"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "じまんばなし",
+        "written": "自慢ばなし"
+      },
+      {
+        "priorities": [
+          "news2",
+          "nf41"
+        ],
+        "pronounced": "じまんばなし",
+        "written": "自慢話"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "chronic addiction",
+          "chronic intoxication"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "まんせいちゅうどく",
+        "written": "慢性中毒"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "chronic disease",
+          "chronic illness"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "まんせいしっかん",
+        "written": "慢性疾患"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "chronic fatigue syndrome",
+          "CFS"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "まんせいひろうしょうこうぐん",
+        "written": "慢性疲労症候群"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "chronic myelogenous (myeloid) leukemia",
+          "CML"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "まんせいこつずいせいはっけつびょう",
+        "written": "慢性骨髄性白血病"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "chronic obstructive pulmonary disease",
+          "COPD"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "まんせいへいそくせいはいしっかん",
+        "written": "慢性閉塞性肺疾患"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "chronic thyroiditis",
+          "Hashimoto's disease"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "まんせいこうじょうせんえん",
+        "written": "慢性甲状腺炎"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "ill-mannered",
+          "overbearing"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ぼうまん",
+        "written": "暴慢"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "national or local pride",
+          "the pride of one's native place"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "くにじまん",
+        "written": "国自慢"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "neglect (dereliction) of duty",
+          "negligence"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しょくむたいまん",
+        "written": "職務怠慢"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "pride",
+          "boast"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "ichi1",
+          "news1",
+          "nf10"
+        ],
+        "pronounced": "じまん",
+        "written": "自慢"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "self-conceit",
+          "pride"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news2",
+          "nf43"
+        ],
+        "pronounced": "まんしん",
+        "written": "慢心"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "slow",
+          "at ease"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "マンマンデ",
+        "written": "慢慢的"
+      },
+      {
+        "priorities": [],
+        "pronounced": "マンマンデ",
+        "written": "漫々的"
+      },
+      {
+        "priorities": [],
+        "pronounced": "マンマンデー",
+        "written": "慢慢的"
+      },
+      {
+        "priorities": [],
+        "pronounced": "マンマンデー",
+        "written": "漫々的"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "arrogance",
+          "haughtiness",
+          "pride"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "きょうまん",
+        "written": "憍慢"
+      },
+      {
+        "priorities": [],
+        "pronounced": "きょうまん",
+        "written": "驕慢"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "boastful",
+          "bragging",
+          "conceited"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "じまんたらたら",
+        "written": "自慢たらたら"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "enduring something out of pride",
+          "putting up with it",
+          "grinning and bearing it"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "やせがまん",
+        "written": "やせ我慢"
+      },
+      {
+        "priorities": [],
+        "pronounced": "やせがまん",
+        "written": "痩せ我慢"
+      },
+      {
+        "priorities": [],
+        "pronounced": "やせがまん",
+        "written": "痩我慢"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "haughty",
+          "arrogant",
+          "overbearing"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ごうまんふそん",
+        "written": "傲慢不遜"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "slipshod",
+          "sloppy",
+          "shoddy"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "そまん",
+        "written": "疎慢"
+      },
+      {
+        "priorities": [],
+        "pronounced": "そまん",
+        "written": "粗慢"
+      },
+      {
+        "priorities": [],
+        "pronounced": "そまん",
+        "written": "粗漫"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "taking pride in one's humility is a form of bragging",
+          "he that humbleth himself wishes to be exalted",
+          "too much humility is pride"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ひげもじまんのうち",
+        "written": "卑下も自慢のうち"
+      },
+      {
+        "priorities": [],
+        "pronounced": "ひげもじまんのうち",
+        "written": "卑下も自慢の中"
+      },
+      {
+        "priorities": [],
+        "pronounced": "ひげもじまんのうち",
+        "written": "卑下も自慢の内"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "test of patience",
+          "battle of wills",
+          "endurance contest"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "がまんくらべ",
+        "written": "我慢くらべ"
+      },
+      {
+        "priorities": [],
+        "pronounced": "がまんくらべ",
+        "written": "我慢比べ"
+      },
+      {
+        "priorities": [],
+        "pronounced": "がまんくらべ",
+        "written": "我慢競べ"
+      },
+      {
+        "priorities": [],
+        "pronounced": "ガマンくらべ",
+        "written": "ガマン比べ"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "unbearable",
+          "intolerable",
+          "insufferable"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "がまんならない",
+        "written": "我慢ならない"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "without restraint",
+          "without hesitation",
+          "without holding back"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "がまんしないで",
+        "written": "我慢しないで"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "contempt",
+          "insult",
+          "offense",
+          "offence"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ぶまん",
+        "written": "侮慢"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "haughty",
+          "arrogant",
+          "proud",
+          "stuck-up"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news2",
+          "nf31"
+        ],
+        "pronounced": "こうまん",
+        "written": "高慢"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "negligence",
+          "neglect",
+          "carelessness",
+          "procrastination"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news1",
+          "nf21"
+        ],
+        "pronounced": "たいまん",
+        "written": "怠慢"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "pre-ejaculate",
+          "pre-ejaculatory fluid",
+          "Cowper's fluid",
+          "pre-cum"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "がまんじる",
+        "written": "がまん汁"
+      },
+      {
+        "priorities": [],
+        "pronounced": "がまんじる",
+        "written": "我慢汁"
+      },
+      {
+        "priorities": [],
+        "pronounced": "ガマンじる",
+        "written": "ガマン汁"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "proud",
+          "boastful",
+          "bragging",
+          "conceited"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "じまんげ",
+        "written": "自慢げ"
+      },
+      {
+        "priorities": [],
+        "pronounced": "じまんげ",
+        "written": "自慢気"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "haughty",
+          "arrogant",
+          "insolent",
+          "proud",
+          "overbearing"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ごうまん",
+        "written": "ごう慢"
+      },
+      {
+        "priorities": [],
+        "pronounced": "ごうまん",
+        "written": "強慢"
+      },
+      {
+        "priorities": [
+          "news2",
+          "nf35",
+          "spec1"
+        ],
+        "pronounced": "ごうまん",
+        "written": "傲慢"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "a man bragging about his wife or mistress"
+        ]
+      },
+      {
+        "glosses": [
+          "female bragging",
+          "female conceit"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おんなじまん",
+        "written": "女自慢"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "amateur singing contest"
+        ]
+      },
+      {
+        "glosses": [
+          "person proud of their voice"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "のどじまん",
+        "written": "のど自慢"
+      },
+      {
+        "priorities": [],
+        "pronounced": "のどじまん",
+        "written": "喉自慢"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "bragging about one's husband or (male) lover"
+        ]
+      },
+      {
+        "glosses": [
+          "male bragging",
+          "male conceit"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おとこじまん",
+        "written": "男自慢"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "arrogant bastard",
+          "snob"
+        ]
+      },
+      {
+        "glosses": [
+          "arrogant",
+          "haughty",
+          "stuck-up"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "こうまんちき",
+        "written": "高慢ちき"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "self-control",
+          "self-restraint"
+        ]
+      },
+      {
+        "glosses": [
+          "endurance",
+          "patience",
+          "perseverance",
+          "bearing (with something)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "ichi1",
+          "news1",
+          "nf14"
+        ],
+        "pronounced": "がまん",
+        "written": "我慢"
+      },
+      {
+        "priorities": [
+          "ichi1",
+          "news1",
+          "nf14"
+        ],
+        "pronounced": "ガマン",
+        "written": "我慢"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "lax",
+          "sloppy",
+          "lenient"
+        ]
+      },
+      {
+        "glosses": [
+          "slow",
+          "sluggish",
+          "dull"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news2",
+          "nf30",
+          "spec2"
+        ],
+        "pronounced": "かんまん",
+        "written": "緩慢"
+      }
+    ]
+  }
+]

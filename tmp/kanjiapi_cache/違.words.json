@@ -1,0 +1,4835 @@
+[
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "(gymnastics) uneven parallel bars"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "だんちがいへいこうぼう",
+        "written": "段違い平行棒"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "(points of) difference"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "そういてん",
+        "written": "相違点"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "abuse of confidentiality"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しゅひぎむいはん",
+        "written": "守秘義務違反"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "act of praying or performing an incantation so that a bad dream does not come true"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ゆめたがえ",
+        "written": "夢違え"
+      },
+      {
+        "priorities": [],
+        "pronounced": "ゆめちがえ",
+        "written": "夢違え"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "alternate"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "たがいちがいに",
+        "written": "互い違いに"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "barely miss (meeting someone, catching a train, etc.)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ひとあしちがい",
+        "written": "ひと足違い"
+      },
+      {
+        "priorities": [],
+        "pronounced": "ひとあしちがい",
+        "written": "一足違い"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "breach of contract"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "けいやくいはん",
+        "written": "契約違反"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "breach of the rules"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "きそくいはん",
+        "written": "規則違反"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "breaking (a contract, promise, etc.)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "いへん",
+        "written": "違反"
+      },
+      {
+        "priorities": [],
+        "pronounced": "いへん",
+        "written": "違変"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "contrary to one's expectations"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "あんにそういして",
+        "written": "案に相違して"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "contravention of precedent"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "はんれいいはん",
+        "written": "判例違反"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "cultural differences"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ぶんかのちがい",
+        "written": "文化の違い"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "disobedience"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "いめい",
+        "written": "違命"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "disobeying the emperor's order"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "いちょく",
+        "written": "違勅"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "double sliding door"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ひきちがいど",
+        "written": "引違い戸"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "double sliding window"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ひきちがいまど",
+        "written": "引違い窓"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "electoral irregularities"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "せんきょいはん",
+        "written": "選挙違反"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "fickle weather"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "きちがいびより",
+        "written": "気違い日和"
+      },
+      {
+        "priorities": [],
+        "pronounced": "きちがいびより",
+        "written": "気違日和"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "gender dysphoria"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "せいべついわ",
+        "written": "性別違和"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "great mistake"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おおまちがい",
+        "written": "大間違い"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "illegal act"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "いほうこうい",
+        "written": "違法行為"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "illegal downloading (e.g. of copyrighted works)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "いほうダウンロード",
+        "written": "違法ダウンロード"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "illegal drug"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "いほうやくぶつ",
+        "written": "違法薬物"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "illegal fishing"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "いほうそうぎょう",
+        "written": "違法操業"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "illegal parking"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "いほうちゅうしゃ",
+        "written": "違法駐車"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "illegality"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "いほうせい",
+        "written": "違法性"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "justifiable cause for noncompliance with the law"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "いほうせいそきゃくじゆう",
+        "written": "違法性阻却事由"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "law-breaker"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "いはんしゃ",
+        "written": "違犯者"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "lawbreaker"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "いほうしゃ",
+        "written": "違法者"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "living up to (one's, its) reputation"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "うわさにたがわぬ",
+        "written": "うわさに違わぬ"
+      },
+      {
+        "priorities": [],
+        "pronounced": "うわさにたがわぬ",
+        "written": "噂にたがわぬ"
+      },
+      {
+        "priorities": [],
+        "pronounced": "うわさにたがわぬ",
+        "written": "噂に違わぬ"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "marked difference"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "かくだんのそうい",
+        "written": "格段の相違"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "miscalculation"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "かんじょうちがい",
+        "written": "勘定違い"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "miscalculation"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "けいさんちがい",
+        "written": "計算違い"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "miscalculation"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "みこみちがい",
+        "written": "見込み違い"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "miscalculation"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "いさん",
+        "written": "違算"
+      },
+      {
+        "priorities": [],
+        "pronounced": "いさん",
+        "written": "遺算"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "misdemeanor"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "いけいざい",
+        "written": "違警罪"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "mishearing"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ききちがい",
+        "written": "聞き違い"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "mishearing"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ききまちがい",
+        "written": "聞き間違い"
+      },
+      {
+        "priorities": [],
+        "pronounced": "ききまちがい",
+        "written": "聞間違い"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "misprint"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "すりちがい",
+        "written": "刷り違い"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "misreading"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "よみちがい",
+        "written": "読み違い"
+      },
+      {
+        "priorities": [],
+        "pronounced": "よみちがい",
+        "written": "読違い"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "misreading"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "よみちがえ",
+        "written": "読み違え"
+      },
+      {
+        "priorities": [],
+        "pronounced": "よみちがえ",
+        "written": "読違え"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "off-topic (on an online thread)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "スレちがい",
+        "written": "スレ違い"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "off-topic (on an online thread)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "スレち",
+        "written": "スレ違"
+      },
+      {
+        "priorities": [],
+        "pronounced": "スレチ",
+        "written": "スレ違"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "office in Heian Kyoto responsible for police and judicial duties"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "けびいしちょう",
+        "written": "検非違使庁"
+      },
+      {
+        "priorities": [],
+        "pronounced": "けんびいしちょう",
+        "written": "検非違使庁"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "overruling referee's decision of bout outcome"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "さしちがえ",
+        "written": "差違え"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "parking violation"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ちゅうしゃいはん",
+        "written": "駐車違反"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "passing each other"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "いれちがい",
+        "written": "入れ違い"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "passing each other"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "いりちがい",
+        "written": "入り違い"
+      },
+      {
+        "priorities": [],
+        "pronounced": "いりちがい",
+        "written": "入違い"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "physical disorder"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "いわ",
+        "written": "違和"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "place where one spends the night to avoid travelling in an unlucky direction"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "かたたがえどころ",
+        "written": "方違え所"
+      },
+      {
+        "priorities": [],
+        "pronounced": "かたたがへどころ",
+        "written": "方違へ所"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "point of difference"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "たがいめ",
+        "written": "違いめ"
+      },
+      {
+        "priorities": [],
+        "pronounced": "たがいめ",
+        "written": "違い目"
+      },
+      {
+        "priorities": [],
+        "pronounced": "ちがいめ",
+        "written": "違いめ"
+      },
+      {
+        "priorities": [],
+        "pronounced": "ちがいめ",
+        "written": "違い目"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "police and judicial chief (Heian and Kamakura periods)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "けいびいし",
+        "written": "検非違使"
+      },
+      {
+        "priorities": [],
+        "pronounced": "けびいし",
+        "written": "検非違使"
+      },
+      {
+        "priorities": [],
+        "pronounced": "けんびいし",
+        "written": "検非違使"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "set of staggered shelves"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ちがいだな",
+        "written": "違い棚"
+      },
+      {
+        "priorities": [],
+        "pronounced": "ちがいだな",
+        "written": "違棚"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "setting off the night before one normally would have departed, travelling in a different direction, spending the night there, and leaving for one's destination in the morning (done to avoid travelling in an unlucky direction; a common practice during the Heian period)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "かたたがい",
+        "written": "方違い"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "setting off the night before one normally would have departed, travelling in a different direction, spending the night there, and leaving for one's destination in the morning (done to avoid travelling in an unlucky direction; a common practice during the Heian period)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "かたたがえ",
+        "written": "方違え"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "speeding"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "そくどいはん",
+        "written": "速度違反"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "there is a great difference between being told about something and actually seeing it with your own eyes"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "みるときくとはおおちがい",
+        "written": "見ると聞くとは大違い"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "ticket (e.g. for a traffic violation)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "いはんきっぷ",
+        "written": "違反切符"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to be somewhat different (from before, from others, etc.)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ひとあじちがう",
+        "written": "ひと味違う"
+      },
+      {
+        "priorities": [
+          "spec1"
+        ],
+        "pronounced": "ひとあじちがう",
+        "written": "一味違う"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to differ a little (esp. of two or several versions)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "すこしずつちがう",
+        "written": "少しずつ違う"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to flit about"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "とびちがう",
+        "written": "飛び違う"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to get a crick in one's neck (while sleeping)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ねちがえる",
+        "written": "寝違える"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to get on the wrong vehicle (bus, train, etc.)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "のりまちがえる",
+        "written": "乗り間違える"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to mishear"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ききちがう",
+        "written": "聞き違う"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to mishear"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ききちがえる",
+        "written": "聞き違える"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to misplace"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "いれちがえる",
+        "written": "入れ違える"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to miss a visitor"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "でちがう",
+        "written": "出違う"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to miswrite"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "かきちがえる",
+        "written": "書き違える"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to wrench one's neck"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "くびすじをちがえる",
+        "written": "首筋を違える"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "traffic violation"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "こうつういはん",
+        "written": "交通違反"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "unconstitutionality"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "いけんせい",
+        "written": "違憲性"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "unconstitutionality"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news1",
+          "nf05"
+        ],
+        "pronounced": "いけん",
+        "written": "違憲"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "unconventionality"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "いれい",
+        "written": "違例"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "using two different chopsticks together (a breach of etiquette)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ちがいばし",
+        "written": "違い箸"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "violating vehicles (esp. vehicles violating parking regulations)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "いはんしゃ",
+        "written": "違反車"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "violation of law"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "いれい",
+        "written": "違令"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "violation of the constitution"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "けんぽういはん",
+        "written": "憲法違反"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "violation of the law"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ほうりついはん",
+        "written": "法律違反"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "while passing each other"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "すれちがいざま",
+        "written": "すれ違いざま"
+      },
+      {
+        "priorities": [],
+        "pronounced": "すれちがいざま",
+        "written": "すれ違い様"
+      },
+      {
+        "priorities": [],
+        "pronounced": "すれちがいざま",
+        "written": "擦れ違いざま"
+      },
+      {
+        "priorities": [],
+        "pronounced": "すれちがいざま",
+        "written": "擦れ違い様"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "wrong number"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "まちがいでんわ",
+        "written": "間違い電話"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "wrong number"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "まちがえでんわ",
+        "written": "間違え電話"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "(being in the) wrong category",
+          "being wrongly categorized"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "カテちがい",
+        "written": "カテ違い"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "alternate",
+          "alternation"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "ichi1"
+        ],
+        "pronounced": "たがいちがい",
+        "written": "互い違い"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "barking up the wrong tree",
+          "calling at the wrong house"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "かどちがい",
+        "written": "門違い"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "barking up the wrong tree",
+          "calling at the wrong house"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おかどちがい",
+        "written": "おかど違い"
+      },
+      {
+        "priorities": [],
+        "pronounced": "おかどちがい",
+        "written": "お門違い"
+      },
+      {
+        "priorities": [],
+        "pronounced": "おかどちがい",
+        "written": "御門違い"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "breach of contract",
+          "default"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news2",
+          "nf31"
+        ],
+        "pronounced": "いやく",
+        "written": "違約"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "certainly",
+          "surely"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "そういなく",
+        "written": "相違なく"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "diagonal cross",
+          "x-shaped cross"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ぶっちがい",
+        "written": "ぶっ違い"
+      },
+      {
+        "priorities": [],
+        "pronounced": "ぶっちがい",
+        "written": "打っ違い"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "difference in social standing",
+          "difference in social position"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "みぶんちがい",
+        "written": "身分違い"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "different (from)",
+          "not the same (as)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ちがうくて",
+        "written": "違うくて"
+      },
+      {
+        "priorities": [],
+        "pronounced": "ちがうくて",
+        "written": "違くて"
+      },
+      {
+        "priorities": [],
+        "pronounced": "ちがくて",
+        "written": "違くて"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "discord",
+          "breaking up (e.g. friendship)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "なかたがい",
+        "written": "仲たがい"
+      },
+      {
+        "priorities": [],
+        "pronounced": "なかたがい",
+        "written": "仲違い"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "error in judgment",
+          "error in judgement"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "めちがい",
+        "written": "目違い"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "exceeding the speed limit",
+          "speeding"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "スピードいはん",
+        "written": "スピード違反"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "general protection fault",
+          "GPF"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "いっぱんほごいはん",
+        "written": "一般保護違反"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "half- (sibling by a different mother)",
+          "paternal"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "はらちがい",
+        "written": "腹違い"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "if things go wrong",
+          "if the worst happens"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "まかりまちがえば",
+        "written": "まかり間違えば"
+      },
+      {
+        "priorities": [],
+        "pronounced": "まかりまちがえば",
+        "written": "罷り間違えば"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "illegal construction",
+          "illegally built house"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "いほうけんちく",
+        "written": "違法建築"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "illegal copy",
+          "pirate copy"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "いほうコピー",
+        "written": "違法コピー"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "illegal possession",
+          "unlawful possession"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "いほうしょじ",
+        "written": "違法所持"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "in wine there is truth",
+          "being under the influence doesn't change our true character"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "なまよいほんしょうたがわず",
+        "written": "生酔い本性違わず"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "incredible danger",
+          "(handing a) sword to an insane person"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "きちがいにはもの",
+        "written": "きちがいに刃物"
+      },
+      {
+        "priorities": [],
+        "pronounced": "きちがいにはもの",
+        "written": "気狂いに刃物"
+      },
+      {
+        "priorities": [],
+        "pronounced": "きちがいにはもの",
+        "written": "気違いに刃物"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "informality",
+          "breach of etiquette"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "いしき",
+        "written": "違式"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "insane behavior",
+          "madness"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "きちがいざた",
+        "written": "きちがい沙汰"
+      },
+      {
+        "priorities": [],
+        "pronounced": "きちがいざた",
+        "written": "気狂い沙汰"
+      },
+      {
+        "priorities": [],
+        "pronounced": "きちがいざた",
+        "written": "気違い沙汰"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "kink in one's neck",
+          "sprained neck"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ねちがえ",
+        "written": "寝違え"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "kink in one's neck",
+          "sprained neck"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ねちがい",
+        "written": "寝ちがい"
+      },
+      {
+        "priorities": [],
+        "pronounced": "ねちがい",
+        "written": "寝違い"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "make one wrong move and...",
+          "take one wrong step and..."
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "いっぽまちがうと",
+        "written": "一歩間違うと"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "miscalculation",
+          "disappointment"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おもわくちがい",
+        "written": "思惑違い"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "misjudgment",
+          "misjudgement"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "めがねちがい",
+        "written": "眼鏡違い"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "mistaken identity",
+          "person so changed that it's hard to recognize him (recognise)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ひとちがえ",
+        "written": "人違え"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "mistaking one person for another",
+          "(case of) mistaken identity"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "ichi1",
+          "news2",
+          "nf44"
+        ],
+        "pronounced": "ひとちがい",
+        "written": "人違い"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "out of one's line",
+          "out of one's field"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news2",
+          "nf41"
+        ],
+        "pronounced": "はたけちがい",
+        "written": "畑違い"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "page fault",
+          "access violation"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ページいはん",
+        "written": "ページ違反"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "parent's cousin",
+          "first-cousin once removed"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "いとこちがい",
+        "written": "いとこ違い"
+      },
+      {
+        "priorities": [],
+        "pronounced": "いとこちがい",
+        "written": "従兄弟違い"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "penalty clause",
+          "breach of contract clause"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "いやくきんじょうこう",
+        "written": "違約金条項"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "penalty for contract breach",
+          "forfeit"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "いやくきん",
+        "written": "違約金"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "power of judicial review",
+          "the Supreme Court's power to determine the constitutionality of a law"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "いけんりっぽうしんさけん",
+        "written": "違憲立法審査権"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "segmentation fault",
+          "segfault"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "セグメンテーションいはん",
+        "written": "セグメンテーション違反"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "slip of the tongue",
+          "misstatement"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "いいちがい",
+        "written": "言い違い"
+      },
+      {
+        "priorities": [],
+        "pronounced": "いいちがい",
+        "written": "言違い"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "spot the difference (puzzle)",
+          "photo hunt"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "まちがいさがし",
+        "written": "間違い探し"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to be confusing",
+          "to be different from what one is used to"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "かってがちがう",
+        "written": "勝手が違う"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to be different from what was previously said",
+          "to be different from what was promised"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "はなしがちがう",
+        "written": "話が違う"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to go wrong",
+          "to turn for the worse"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "まかりまちがう",
+        "written": "まかり間違う"
+      },
+      {
+        "priorities": [],
+        "pronounced": "まかりまちがう",
+        "written": "罷り間違う"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to hardly recognise",
+          "to mistake for something or someone else"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "みちがう",
+        "written": "見ちがう"
+      },
+      {
+        "priorities": [],
+        "pronounced": "みちがう",
+        "written": "見違う"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to hardly recognise",
+          "to mistake for something or someone else"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "みちがえる",
+        "written": "見ちがえる"
+      },
+      {
+        "priorities": [
+          "ichi1",
+          "news2",
+          "nf26"
+        ],
+        "pronounced": "みちがえる",
+        "written": "見違える"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to miscount",
+          "to count wrongly (e.g. pages)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "かぞえちがえる",
+        "written": "数え違える"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to miss sending",
+          "to miss delivering"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "だしちがう",
+        "written": "出し違う"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to misstep",
+          "to stray"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ふみちがえる",
+        "written": "踏み違える"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to not turn out as one wishes",
+          "to not go as one expected"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ことこころざしとたがう",
+        "written": "事志と違う"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to pass each other",
+          "to cross paths"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "いれちがう",
+        "written": "入れ違う"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to pull a muscle",
+          "to strain a muscle"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "すじをちがえる",
+        "written": "筋を違える"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to put something in the wrong place",
+          "to misplace"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おきちがえる",
+        "written": "置き違える"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to say by mistake",
+          "to make a slip of the tongue"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "いいちがえる",
+        "written": "言い違える"
+      },
+      {
+        "priorities": [],
+        "pronounced": "いいちがえる",
+        "written": "言違える"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to write incorrectly (e.g. character)",
+          "to make a mistake in writing"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "かきまちがえる",
+        "written": "書き間違える"
+      },
+      {
+        "priorities": [],
+        "pronounced": "かきまちがえる",
+        "written": "書間違える"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "traffic infringement",
+          "traffic law violation"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "どうこうほういはん",
+        "written": "道交法違反"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "treachery",
+          "treacherous designs"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "いしん",
+        "written": "異心"
+      },
+      {
+        "priorities": [],
+        "pronounced": "いしん",
+        "written": "違心"
+      },
+      {
+        "priorities": [],
+        "pronounced": "ことごころ",
+        "written": "異心"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "typo",
+          "typing error"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "うちまちがい",
+        "written": "打ち間違い"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "variation in color (colour)",
+          "having a different color"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "いろちがい",
+        "written": "色違い"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "violation",
+          "transgression"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "いはい",
+        "written": "違背"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "being at cross-purposes from the start",
+          "getting off on the wrong foot",
+          "doing up one's buttons wrongly"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ボタンのかけちがえ",
+        "written": "ボタンの掛け違え"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "being at cross-purposes from the start",
+          "getting off on the wrong foot",
+          "doing up one's buttons wrongly"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ボタンのかけちがい",
+        "written": "ボタンのかけ違い"
+      },
+      {
+        "priorities": [],
+        "pronounced": "ボタンのかけちがい",
+        "written": "ボタンの掛け違い"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "breach of manners",
+          "breach of etiquette",
+          "faux pas"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "マナーいはん",
+        "written": "マナー違反"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "certain",
+          "sure",
+          "no doubt"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "まちがいなし",
+        "written": "間違いなし"
+      },
+      {
+        "priorities": [],
+        "pronounced": "まちがいなし",
+        "written": "間違い無し"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "diagonal",
+          "oblique",
+          "brace"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "すじかい",
+        "written": "筋交い"
+      },
+      {
+        "priorities": [],
+        "pronounced": "すじかい",
+        "written": "筋違い"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "difference",
+          "discrepancy",
+          "variation"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "そうい",
+        "written": "相異"
+      },
+      {
+        "priorities": [
+          "ichi1",
+          "news1",
+          "nf10"
+        ],
+        "pronounced": "そうい",
+        "written": "相違"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "difference",
+          "disparity",
+          "gap"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "さい",
+        "written": "差違"
+      },
+      {
+        "priorities": [
+          "news1",
+          "nf17"
+        ],
+        "pronounced": "さい",
+        "written": "差異"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "don't believe everything you hear",
+          "seeing is believing",
+          "to have heard of is not to have seen"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "きくとみるとはおおちがい",
+        "written": "聞くと見るとは大違い"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "failing to recognize",
+          "failing to recognise",
+          "mistaking for"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "みちがい",
+        "written": "見違い"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "half- (sibling by a different father)",
+          "uterine",
+          "maternal"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "たねちがい",
+        "written": "たね違い"
+      },
+      {
+        "priorities": [],
+        "pronounced": "たねちがい",
+        "written": "種違い"
+      },
+      {
+        "priorities": [],
+        "pronounced": "たねちがい",
+        "written": "胤違い"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "illegal",
+          "illicit",
+          "unlawful"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "ichi1",
+          "news1",
+          "nf06"
+        ],
+        "pronounced": "いほう",
+        "written": "違法"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "illegal tuning (of cars, motorcycles, etc)",
+          "illegal customization",
+          "illegal modification"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "いほうかいぞう",
+        "written": "違法改造"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "law-evading drug (e.g. amyl nitrates, MiPT)",
+          "quasi-legal drug",
+          "designer drug"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "いほうドラッグ",
+        "written": "違法ドラッグ"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "living up to (one's, its) reputation",
+          "true to the rumours",
+          "just as people say"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "うわさにたがわず",
+        "written": "うわさに違わず"
+      },
+      {
+        "priorities": [],
+        "pronounced": "うわさにたがわず",
+        "written": "噂にたがわず"
+      },
+      {
+        "priorities": [],
+        "pronounced": "うわさにたがわず",
+        "written": "噂に違わず"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "misjudgement",
+          "misjudgment",
+          "mistake in vision"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "みまちがい",
+        "written": "見間違い"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "misremembering",
+          "remembering incorrectly",
+          "mistaken memory"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おぼえちがい",
+        "written": "覚え違い"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "mistake",
+          "blunder",
+          "slipup"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news2",
+          "nf35"
+        ],
+        "pronounced": "てちがい",
+        "written": "手違い"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "mistaken idea",
+          "misunderstanding",
+          "wrong impression"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "かんがえちがい",
+        "written": "考え違い"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "mistaken memory",
+          "trick of the memory",
+          "slip of the memory"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "きおくちがい",
+        "written": "記憶違い"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "misunderstanding",
+          "mistaken idea",
+          "wrong guess"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "ichi1",
+          "news2",
+          "nf27"
+        ],
+        "pronounced": "かんちがい",
+        "written": "勘違い"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "offender",
+          "transgressor",
+          "violator"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "いはんしゃ",
+        "written": "違反者"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "offense (against the law)",
+          "offence",
+          "violation"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "いはん",
+        "written": "違犯"
+      },
+      {
+        "priorities": [],
+        "pronounced": "いぼん",
+        "written": "違犯"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "rule violation",
+          "rule infraction",
+          "infringement of the rules"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ルールいはん",
+        "written": "ルール違反"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "slip of the tongue",
+          "misstatement",
+          "verbal slip-up"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "いいまちがい",
+        "written": "言い間違い"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "slip of the tongue",
+          "misstatement",
+          "verbal slip-up"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "いいまちがえ",
+        "written": "言い間違え"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to be incomparable",
+          "to be completely different matters",
+          "to be completely different things"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "わけがちがう",
+        "written": "わけが違う"
+      },
+      {
+        "priorities": [],
+        "pronounced": "わけがちがう",
+        "written": "訳が違う"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to be mad",
+          "to go mad",
+          "to go insane"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "きがちがう",
+        "written": "気が違う"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to look mad",
+          "to act nuts",
+          "to seem crazy"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "きちがいじみる",
+        "written": "気狂いじみる"
+      },
+      {
+        "priorities": [],
+        "pronounced": "きちがいじみる",
+        "written": "気狂い染みる"
+      },
+      {
+        "priorities": [],
+        "pronounced": "きちがいじみる",
+        "written": "気違いじみる"
+      },
+      {
+        "priorities": [],
+        "pronounced": "きちがいじみる",
+        "written": "気違い染みる"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to make a mistake",
+          "to be incorrect",
+          "to be mistaken"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "ichi1",
+          "news2",
+          "nf32"
+        ],
+        "pronounced": "まちがう",
+        "written": "間違う"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to mishear",
+          "to hear wrongly",
+          "to misunderstand"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ききまちがえる",
+        "written": "聞き間違える"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to misperceive visually",
+          "to misread",
+          "to mistake for something or someone else"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "みまちがう",
+        "written": "見間違う"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to misperceive visually",
+          "to misread",
+          "to mistake for something or someone else"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "みまちがえる",
+        "written": "見まちがえる"
+      },
+      {
+        "priorities": [],
+        "pronounced": "みまちがえる",
+        "written": "見間違える"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to misread",
+          "to misinterpret",
+          "to misunderstand"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "よみまちがえる",
+        "written": "読み間違える"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to misread",
+          "to read wrongly",
+          "to misinterpret"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "よみちがう",
+        "written": "読み違う"
+      },
+      {
+        "priorities": [],
+        "pronounced": "よみちがう",
+        "written": "読違う"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to misread",
+          "to read wrongly",
+          "to misinterpret"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "よみちがえる",
+        "written": "読み違える"
+      },
+      {
+        "priorities": [],
+        "pronounced": "よみちがえる",
+        "written": "読違える"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "violation",
+          "offense",
+          "offence"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "いはんこうい",
+        "written": "違犯行為"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "without doubt",
+          "certain",
+          "sure"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "そういない",
+        "written": "相違ない"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "clearly",
+          "unmistakably",
+          "certainly",
+          "without a doubt"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "まちがいなく",
+        "written": "間違いなく"
+      },
+      {
+        "priorities": [],
+        "pronounced": "まちがいなく",
+        "written": "間違い無く"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "exactly the same",
+          "identical",
+          "exact",
+          "perfect"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "すんぶんたがわぬ",
+        "written": "寸分たがわぬ"
+      },
+      {
+        "priorities": [],
+        "pronounced": "すんぶんたがわぬ",
+        "written": "寸分違わぬ"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "imprudence",
+          "misbehavior",
+          "misbehaviour",
+          "misunderstanding"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "こころえちがい",
+        "written": "心得違い"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "never (even in error)",
+          "never, ever",
+          "never, no matter what happens",
+          "by no means"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "まちがっても",
+        "written": "間違っても"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "slip of the pen",
+          "mistake in writing",
+          "misspelling",
+          "lapsus calami"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "かきまちがい",
+        "written": "書きまちがい"
+      },
+      {
+        "priorities": [],
+        "pronounced": "かきまちがい",
+        "written": "書き間違い"
+      },
+      {
+        "priorities": [],
+        "pronounced": "かきまちがい",
+        "written": "書間違い"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "smaller harvest than expected",
+          "poor crop",
+          "bad harvest",
+          "crop failure"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "いさく",
+        "written": "違作"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "sure",
+          "no mistaking it",
+          "for certain",
+          "without doubt"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ちがいない",
+        "written": "違い無い"
+      },
+      {
+        "priorities": [
+          "ichi1"
+        ],
+        "pronounced": "ちがいない",
+        "written": "違いない"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to miss each other",
+          "to cross (in the post)",
+          "to go astray",
+          "to go wrong"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "いきちがいになる",
+        "written": "行き違いになる"
+      },
+      {
+        "priorities": [],
+        "pronounced": "ゆきちがいになる",
+        "written": "行き違いになる"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to mistakenly say",
+          "to misspeak",
+          "to misstate (the facts)",
+          "to make a slip of the tongue"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "いいまちがえる",
+        "written": "言い間違える"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "without the least difference",
+          "exactly",
+          "perfectly",
+          "to the inch"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "すんぶんたがわず",
+        "written": "寸分たがわず"
+      },
+      {
+        "priorities": [],
+        "pronounced": "すんぶんたがわず",
+        "written": "寸分違わず"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "wrong (guess or estimate)",
+          "misdirected",
+          "irrelevant",
+          "off the point"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "けんとうちがい",
+        "written": "見当ちがい"
+      },
+      {
+        "priorities": [
+          "news2",
+          "nf44"
+        ],
+        "pronounced": "けんとうちがい",
+        "written": "見当違い"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "misunderstanding",
+          "misapprehension",
+          "misconception",
+          "false impression",
+          "wrong idea"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おもいちがい",
+        "written": "思いちがい"
+      },
+      {
+        "priorities": [
+          "news2",
+          "nf31"
+        ],
+        "pronounced": "おもいちがい",
+        "written": "思い違い"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to be on a (completely) different level",
+          "to be on a different scale",
+          "to be in a different league",
+          "to be of a different order of magnitude",
+          "to stand no comparison"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "けたがちがう",
+        "written": "けたが違う"
+      },
+      {
+        "priorities": [],
+        "pronounced": "けたがちがう",
+        "written": "ケタが違う"
+      },
+      {
+        "priorities": [],
+        "pronounced": "けたがちがう",
+        "written": "桁がちがう"
+      },
+      {
+        "priorities": [],
+        "pronounced": "けたがちがう",
+        "written": "桁が違う"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "wrong idea",
+          "delusion",
+          "indiscretion",
+          "false step",
+          "misstep"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "りょうけんちがい",
+        "written": "了簡違い"
+      },
+      {
+        "priorities": [],
+        "pronounced": "りょうけんちがい",
+        "written": "了見違い"
+      },
+      {
+        "priorities": [],
+        "pronounced": "りょうけんちがい",
+        "written": "料簡違い"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "an order of magnitude higher",
+          "off by a digit",
+          "in a different league",
+          "unbelievable",
+          "incomparable",
+          "unimaginable"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "けたちがい",
+        "written": "けた違い"
+      },
+      {
+        "priorities": [],
+        "pronounced": "けたちがい",
+        "written": "桁違い"
+      },
+      {
+        "priorities": [],
+        "pronounced": "ケタちがい",
+        "written": "ケタ違い"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "difference",
+          "disagreement",
+          "conflict",
+          "clash",
+          "discrepancy",
+          "inconsistency"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "くいちがい",
+        "written": "くい違い"
+      },
+      {
+        "priorities": [],
+        "pronounced": "くいちがい",
+        "written": "食違い"
+      },
+      {
+        "priorities": [
+          "ichi1",
+          "news1",
+          "nf12"
+        ],
+        "pronounced": "くいちがい",
+        "written": "食い違い"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "violation",
+          "offense",
+          "offence",
+          "breach",
+          "transgression",
+          "infringement",
+          "contravention"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "ichi1",
+          "news1",
+          "nf01"
+        ],
+        "pronounced": "いはん",
+        "written": "違反"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "great difference"
+        ]
+      },
+      {
+        "glosses": [
+          "major mistake"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おおちがい",
+        "written": "大違い"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "illegality"
+        ]
+      },
+      {
+        "glosses": [
+          "police and judicial chief (Heian and Kamakura periods)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ひい",
+        "written": "非違"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "misunderstanding"
+        ]
+      },
+      {
+        "glosses": [
+          "mix-up",
+          "mistake"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "とりちがえ",
+        "written": "取り違え"
+      },
+      {
+        "priorities": [],
+        "pronounced": "とりちがえ",
+        "written": "取違え"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "produced at an unorthodox location"
+        ]
+      },
+      {
+        "glosses": [
+          "out-of-place",
+          "inappropriate",
+          "sticking out like a sore thumb"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ばちがい",
+        "written": "場ちがい"
+      },
+      {
+        "priorities": [
+          "ichi1"
+        ],
+        "pronounced": "ばちがい",
+        "written": "場違い"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "sexual maniac"
+        ]
+      },
+      {
+        "glosses": [
+          "erotomania",
+          "sexual obsession"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "いろきちがい",
+        "written": "色気違い"
+      },
+      {
+        "priorities": [],
+        "pronounced": "いろきちがい",
+        "written": "色狂"
+      },
+      {
+        "priorities": [],
+        "pronounced": "いろきちがい",
+        "written": "色狂い"
+      },
+      {
+        "priorities": [],
+        "pronounced": "いろぐるい",
+        "written": "色狂い"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to bungle up the order"
+        ]
+      },
+      {
+        "glosses": [
+          "to button up wrong",
+          "to start from the wrong button"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ボタンをかけちがえる",
+        "written": "ボタンをかけ違える"
+      },
+      {
+        "priorities": [],
+        "pronounced": "ボタンをかけちがえる",
+        "written": "ボタンを掛け違える"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to make a mistake in deciding the winner"
+        ]
+      },
+      {
+        "glosses": [
+          "to misplace",
+          "to put in the wrong place"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "さしちがえる",
+        "written": "差し違える"
+      },
+      {
+        "priorities": [],
+        "pronounced": "さしちがえる",
+        "written": "差違える"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to sacrifice oneself in order to harm someone else"
+        ]
+      },
+      {
+        "glosses": [
+          "to stab each other"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "さしちがえる",
+        "written": "刺しちがえる"
+      },
+      {
+        "priorities": [],
+        "pronounced": "さしちがえる",
+        "written": "刺し違える"
+      },
+      {
+        "priorities": [],
+        "pronounced": "さしちがえる",
+        "written": "刺違える"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "crossing without meeting (e.g. letters in the post, people on the road)",
+          "going astray"
+        ]
+      },
+      {
+        "glosses": [
+          "difference of opinion",
+          "misunderstanding",
+          "estrangement",
+          "disagreement"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "いきちがい",
+        "written": "行違い"
+      },
+      {
+        "priorities": [],
+        "pronounced": "ゆきちがい",
+        "written": "行違い"
+      },
+      {
+        "priorities": [
+          "ichi1",
+          "news2",
+          "nf31"
+        ],
+        "pronounced": "いきちがい",
+        "written": "行き違い"
+      },
+      {
+        "priorities": [
+          "ichi1",
+          "news2",
+          "nf31"
+        ],
+        "pronounced": "ゆきちがい",
+        "written": "行き違い"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "isn't it (that) different (from usual, from what one could expect, etc.)?",
+          "isn't that wrong?"
+        ]
+      },
+      {
+        "glosses": [
+          "no, that's wrong",
+          "it's not like that",
+          "that's not the case"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ちがうくない",
+        "written": "違うくない"
+      },
+      {
+        "priorities": [],
+        "pronounced": "ちがくない",
+        "written": "違くない"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "madness",
+          "madman"
+        ]
+      },
+      {
+        "glosses": [
+          "enthusiast",
+          "freak",
+          "junkie"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "きちがい",
+        "written": "基地外"
+      },
+      {
+        "priorities": [],
+        "pronounced": "きちがい",
+        "written": "既知外"
+      },
+      {
+        "priorities": [],
+        "pronounced": "きちがい",
+        "written": "気ちがい"
+      },
+      {
+        "priorities": [],
+        "pronounced": "きちがい",
+        "written": "気狂い"
+      },
+      {
+        "priorities": [],
+        "pronounced": "キチガイ",
+        "written": "基地外"
+      },
+      {
+        "priorities": [],
+        "pronounced": "キチガイ",
+        "written": "既知外"
+      },
+      {
+        "priorities": [],
+        "pronounced": "キチガイ",
+        "written": "気ちがい"
+      },
+      {
+        "priorities": [],
+        "pronounced": "キチガイ",
+        "written": "気狂い"
+      },
+      {
+        "priorities": [
+          "ichi1"
+        ],
+        "pronounced": "きちがい",
+        "written": "気違い"
+      },
+      {
+        "priorities": [
+          "ichi1"
+        ],
+        "pronounced": "キチガイ",
+        "written": "気違い"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "malaise",
+          "physical unease"
+        ]
+      },
+      {
+        "glosses": [
+          "uncomfortable feeling",
+          "feeling out of place",
+          "sense of discomfort"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "いわかん",
+        "written": "異和感"
+      },
+      {
+        "priorities": [
+          "news1",
+          "nf12"
+        ],
+        "pronounced": "いわかん",
+        "written": "違和感"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "mistake",
+          "error"
+        ]
+      },
+      {
+        "glosses": [
+          "difference",
+          "distinction",
+          "discrepancy"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "ichi1",
+          "news1",
+          "nf02"
+        ],
+        "pronounced": "ちがい",
+        "written": "違い"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "of different heights",
+          "uneven"
+        ]
+      },
+      {
+        "glosses": [
+          "wildly different (in ability, strength, etc.)",
+          "on another level",
+          "in a different league",
+          "a world apart",
+          "far better"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news2",
+          "nf32"
+        ],
+        "pronounced": "だんちがい",
+        "written": "段違い"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "reliable",
+          "dependable"
+        ]
+      },
+      {
+        "glosses": [
+          "certain",
+          "sure",
+          "no doubt"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "まちがいない",
+        "written": "間違い無い"
+      },
+      {
+        "priorities": [
+          "news1",
+          "nf13"
+        ],
+        "pronounced": "まちがいない",
+        "written": "間違いない"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to confuse",
+          "to mistake something for something else"
+        ]
+      },
+      {
+        "glosses": [
+          "to make a mistake (in)",
+          "to commit an error (e.g. in calculation)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "ichi1",
+          "news2",
+          "nf31"
+        ],
+        "pronounced": "まちがえる",
+        "written": "間違える"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to misunderstand",
+          "to misapprehend"
+        ]
+      },
+      {
+        "glosses": [
+          "to mistake one thing for another",
+          "to mix up two things",
+          "to confuse two things",
+          "to take by mistake"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "とりちがえる",
+        "written": "取違える"
+      },
+      {
+        "priorities": [
+          "news2",
+          "nf35"
+        ],
+        "pronounced": "とりちがえる",
+        "written": "取り違える"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to not match well (e.g. at the seams)",
+          "to not mesh properly (of gears)"
+        ]
+      },
+      {
+        "glosses": [
+          "to differ (e.g. of opinions)",
+          "to clash",
+          "to be in conflict (e.g. with the facts)",
+          "to run counter (to)",
+          "to be inconsistent (with)",
+          "to be contradictory"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "くいちがう",
+        "written": "くい違う"
+      },
+      {
+        "priorities": [],
+        "pronounced": "くいちがう",
+        "written": "食いちがう"
+      },
+      {
+        "priorities": [],
+        "pronounced": "くいちがう",
+        "written": "食違う"
+      },
+      {
+        "priorities": [
+          "ichi1",
+          "news2",
+          "nf37"
+        ],
+        "pronounced": "くいちがう",
+        "written": "食い違う"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to put on (another's shoes by mistake)",
+          "to put (shoes) on the wrong feet"
+        ]
+      },
+      {
+        "glosses": [
+          "to mistake (one thing for another)",
+          "to confuse",
+          "to have a mistaken idea of",
+          "to misunderstand"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "はきちがえる",
+        "written": "はき違える"
+      },
+      {
+        "priorities": [],
+        "pronounced": "はきちがえる",
+        "written": "履き違える"
+      },
+      {
+        "priorities": [],
+        "pronounced": "はきちがえる",
+        "written": "履違える"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "disorder"
+        ]
+      },
+      {
+        "glosses": [
+          "(illegal) riot",
+          "tumult"
+        ]
+      },
+      {
+        "glosses": [
+          "complaining",
+          "disagreeing",
+          "opposing"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "いらん",
+        "written": "違乱"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "passing each other"
+        ]
+      },
+      {
+        "glosses": [
+          "missing (meeting) each other",
+          "failing to meet"
+        ]
+      },
+      {
+        "glosses": [
+          "(being at) cross purposes",
+          "discrepancy",
+          "disagreement"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "すれちがい",
+        "written": "すれ違い"
+      },
+      {
+        "priorities": [],
+        "pronounced": "すれちがい",
+        "written": "擦れ違い"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to change (into something out of the ordinary)"
+        ]
+      },
+      {
+        "glosses": [
+          "to run counter to"
+        ]
+      },
+      {
+        "glosses": [
+          "to differ",
+          "to be different"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "たがう",
+        "written": "違う"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "crossing paths without meeting",
+          "missing each other"
+        ]
+      },
+      {
+        "glosses": [
+          "putting (up) in the wrong place",
+          "hanging in the wrong place",
+          "doing up (buttons) incorrectly"
+        ]
+      },
+      {
+        "glosses": [
+          "disagreement",
+          "conflict",
+          "discrepancy",
+          "mismatch",
+          "inconsistency"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "かけちがい",
+        "written": "かけ違い"
+      },
+      {
+        "priorities": [],
+        "pronounced": "かけちがい",
+        "written": "掛け違い"
+      },
+      {
+        "priorities": [],
+        "pronounced": "かけちがい",
+        "written": "掛違い"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "improper conduct (e.g. between man and woman)",
+          "indiscretion"
+        ]
+      },
+      {
+        "glosses": [
+          "accident",
+          "mishap",
+          "trouble"
+        ]
+      },
+      {
+        "glosses": [
+          "mistake",
+          "error",
+          "blunder"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "まちがえ",
+        "written": "間違え"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "improper conduct (e.g. between man and woman)",
+          "indiscretion"
+        ]
+      },
+      {
+        "glosses": [
+          "accident",
+          "mishap",
+          "trouble"
+        ]
+      },
+      {
+        "glosses": [
+          "mistake",
+          "error",
+          "blunder"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "ichi1",
+          "news1",
+          "nf07"
+        ],
+        "pronounced": "まちがい",
+        "written": "間違い"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to change",
+          "to alter"
+        ]
+      },
+      {
+        "glosses": [
+          "to make a mistake (in)",
+          "to err"
+        ]
+      },
+      {
+        "glosses": [
+          "to run counter to",
+          "to go against",
+          "to break (one's word)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "たがえる",
+        "written": "違える"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to cross (each other)",
+          "to pass (each other)"
+        ]
+      },
+      {
+        "glosses": [
+          "to miss (meeting) each other",
+          "to pass each other by",
+          "to cross (of letters in the mail)"
+        ]
+      },
+      {
+        "glosses": [
+          "to have a misunderstanding",
+          "to go awry",
+          "to clash",
+          "to be in conflict"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "いきちがう",
+        "written": "行き違う"
+      },
+      {
+        "priorities": [],
+        "pronounced": "いきちがう",
+        "written": "行違う"
+      },
+      {
+        "priorities": [],
+        "pronounced": "ゆきちがう",
+        "written": "行き違う"
+      },
+      {
+        "priorities": [],
+        "pronounced": "ゆきちがう",
+        "written": "行違う"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to miss (meeting) each other",
+          "to fail to meet"
+        ]
+      },
+      {
+        "glosses": [
+          "to pass (by) each other",
+          "to brush past"
+        ]
+      },
+      {
+        "glosses": [
+          "to be at odds",
+          "to clash",
+          "to be in conflict"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "すれちがう",
+        "written": "すれ違う"
+      },
+      {
+        "priorities": [],
+        "pronounced": "すれちがう",
+        "written": "擦れ違う"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to miss (meeting) each other",
+          "to pass each other by"
+        ]
+      },
+      {
+        "glosses": [
+          "to differ (e.g. of opinions)",
+          "to clash",
+          "to be in conflict"
+        ]
+      },
+      {
+        "glosses": [
+          "to put (up) in the wrong place",
+          "to hang in the wrong place",
+          "to do up (buttons) incorrectly"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "かけちがう",
+        "written": "かけ違う"
+      },
+      {
+        "priorities": [],
+        "pronounced": "かけちがう",
+        "written": "掛け違う"
+      },
+      {
+        "priorities": [],
+        "pronounced": "かけちがう",
+        "written": "掛違う"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to fail to keep (e.g. one's promise)"
+        ]
+      },
+      {
+        "glosses": [
+          "to change",
+          "to alter"
+        ]
+      },
+      {
+        "glosses": [
+          "to mistake",
+          "to make a mistake"
+        ]
+      },
+      {
+        "glosses": [
+          "to sprain (a muscle)",
+          "to dislocate (e.g. one's neck)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ちがえる",
+        "written": "違える"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "illogical",
+          "unreasonable"
+        ]
+      },
+      {
+        "glosses": [
+          "unreasonableness",
+          "absurdity"
+        ]
+      },
+      {
+        "glosses": [
+          "misdirected",
+          "misplaced",
+          "wrong (of estimate, guess)"
+        ]
+      },
+      {
+        "glosses": [
+          "cramp",
+          "sprain",
+          "crick",
+          "strain (muscle)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "すじちがい",
+        "written": "すじ違い"
+      },
+      {
+        "priorities": [
+          "news2",
+          "nf30",
+          "spec2"
+        ],
+        "pronounced": "すじちがい",
+        "written": "筋違い"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "isn't it?",
+          "wasn't it?"
+        ]
+      },
+      {
+        "glosses": [
+          "to become abnormal",
+          "to go wrong"
+        ]
+      },
+      {
+        "glosses": [
+          "to be wrong",
+          "to be incorrect",
+          "to be mistaken"
+        ]
+      },
+      {
+        "glosses": [
+          "to differ (from)",
+          "to be different",
+          "to be distinct",
+          "to be unlike",
+          "to vary",
+          "to disagree (with)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "ichi1",
+          "news2",
+          "nf27"
+        ],
+        "pronounced": "ちがう",
+        "written": "違う"
+      }
+    ]
+  }
+]

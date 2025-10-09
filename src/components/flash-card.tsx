@@ -1,11 +1,11 @@
 "use client";
 
+import { useState } from "react";
 import { KanjiData } from "@/types/kanji";
 import { Card, CardContent, CardHeader } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
-import { ChevronLeft, ChevronRight, Eye, EyeOff } from "lucide-react";
-import { useState } from "react";
+import { ChevronLeft, ChevronRight } from "lucide-react";
 
 interface FlashCardProps {
   kanji: KanjiData;
@@ -16,6 +16,14 @@ interface FlashCardProps {
   onComplete: () => void;
 }
 
+type TranslationLayer = "romaji" | "english" | "uzbek";
+
+const TRANSLATION_LAYERS: Array<{ key: TranslationLayer; label: string }> = [
+  { key: "romaji", label: "Romaji" },
+  { key: "english", label: "English" },
+  { key: "uzbek", label: "Uzbek" },
+];
+
 export function FlashCard({
   kanji,
   currentExampleIndex,
@@ -24,14 +32,16 @@ export function FlashCard({
   onSpecificExample,
   onComplete,
 }: FlashCardProps) {
-  const [showRomaji, setShowRomaji] = useState(false);
-  const [showEnglish, setShowEnglish] = useState(false);
-  const [showUzbek, setShowUzbek] = useState(false);
+  const [activeLayer, setActiveLayer] = useState<
+    "none" | TranslationLayer
+  >("none");
+  const [visitedLayers, setVisitedLayers] = useState<Set<TranslationLayer>>(
+    () => new Set()
+  );
 
   const example = kanji.examples[currentExampleIndex];
   const totalExamples = kanji.examples.length;
 
-  // Safety check for example data
   if (!example) {
     console.error(
       `No example found at index ${currentExampleIndex} for kanji ${kanji.kanji}`
@@ -39,28 +49,44 @@ export function FlashCard({
     return null;
   }
 
-  const resetShowStates = () => {
-    setShowRomaji(false);
-    setShowEnglish(false);
-    setShowUzbek(false);
+  const resetLayers = () => {
+    setActiveLayer("none");
+    setVisitedLayers(new Set());
   };
 
   const handlePrevious = () => {
-    resetShowStates();
+    resetLayers();
     onPrevious();
   };
 
   const handleNext = () => {
-    resetShowStates();
+    resetLayers();
     onNext();
   };
 
+  const handleSpecificExample = (index: number) => {
+    resetLayers();
+    onSpecificExample?.(index);
+  };
+
+  const handleLayerToggle = (layer: TranslationLayer) => {
+    setActiveLayer((current) => (current === layer ? "none" : layer));
+    setVisitedLayers((current) => {
+      const next = new Set(current);
+      next.add(layer);
+      return next;
+    });
+  };
+
+  const allLayersViewed = TRANSLATION_LAYERS.every(({ key }) =>
+    visitedLayers.has(key)
+  );
+
   return (
-    <div className="w-full max-w-2xl mx-auto">
-      {/* Kanji Header - Mobile shows simplified version */}
-      <Card className=" mb-2 py-1 sm:mb-4 bg-gradient-to-br from-blue-50 to-indigo-50 dark:from-blue-900/20 dark:to-indigo-900/20">
-        <CardHeader className="text-center  sm:py-2 px-3 sm:px-6">
-          {/* Mobile: Only kanji + meanings */}
+    <div className="w-full max-w-2xl mx-auto flex flex-col h-full">
+      {/* Kanji Header */}
+      <Card className="mb-2 py-1 sm:mb-4 bg-gradient-to-br from-blue-50 to-indigo-50 dark:from-blue-900/20 dark:to-indigo-900/20">
+        <CardHeader className="text-center sm:py-2 px-3 sm:px-6">
           <div className="block sm:hidden">
             <div className="text-2xl font-bold text-primary mb-0.5">
               {kanji.kanji}
@@ -70,7 +96,6 @@ export function FlashCard({
             </div>
           </div>
 
-          {/* Desktop: Full header with N5 badge */}
           <div className="hidden sm:block">
             <div className="flex justify-center items-center gap-1 mb-1">
               <Badge variant="secondary" className="text-sm">
@@ -89,7 +114,6 @@ export function FlashCard({
             <div className="text-xs text-gray-500 dark:text-gray-400 mt-0.5">
               Example {currentExampleIndex + 1} of {totalExamples}
             </div>
-            {/* Progress indicator for desktop */}
             <div className="mt-1">
               <div className="flex justify-center space-x-1">
                 {Array.from({ length: totalExamples }, (_, i) => (
@@ -110,9 +134,9 @@ export function FlashCard({
         </CardHeader>
       </Card>
 
-      {/* Example Word Card */}
-      <Card className="min-h-[280px] sm:min-h-[450px] flex flex-col">
-        <CardHeader className="text-center pb-1 sm:pb-2 px-3 sm:px-6 pt-2 sm:pt-3 ">
+      {/* Example card */}
+      <Card className="flex-1 flex flex-col overflow-hidden">
+        <CardHeader className="text-center pb-1 sm:pb-2 px-3 sm:px-6 pt-2 sm:pt-3">
           <div className="space-y-1">
             <div className="text-xl sm:text-2xl md:text-3xl font-bold text-primary mb-1">
               {example.word}
@@ -125,7 +149,6 @@ export function FlashCard({
                 {example.meaning}
               </Badge>
             </div>
-            {/* Context indicator */}
             <div className="text-xs text-gray-500 dark:text-gray-400 mt-0.5">
               {currentExampleIndex === 0 && "Basic usage"}
               {currentExampleIndex === 1 && "Daily life"}
@@ -138,83 +161,53 @@ export function FlashCard({
           </div>
         </CardHeader>
 
-        <CardContent className="flex-1 flex flex-col justify-between px-3 sm:px-6 py-2 sm:py-3">
-          {/* Japanese Sentence */}
-          <div className="text-center mb-3 sm:mb-6">
-            <div className="text-lg sm:text-xl md:text-2xl font-medium mb-2 sm:mb-4 p-3 bg-slate-100 dark:bg-slate-800 rounded-lg">
+        <CardContent className="flex-1 flex flex-col px-3 sm:px-6 py-2 sm:py-3 overflow-hidden">
+          <div className="text-center mb-2 sm:mb-4">
+            <div className="text-lg sm:text-xl md:text-2xl font-medium p-3 bg-slate-100 dark:bg-slate-800 rounded-lg min-h-[86px] flex items-center justify-center">
               {example.sentence.japanese}
             </div>
+          </div>
 
-            {/* Revealable Translation */}
-            <div className="space-y-2">
-              {/* Romaji */}
-              <Button
-                variant={showRomaji ? "default" : "outline"}
-                onClick={() => setShowRomaji(!showRomaji)}
-                className="w-full flex items-center gap-2 h-9 sm:h-10 text-sm sm:text-base"
-              >
-                {showRomaji ? (
-                  <EyeOff className="h-4 w-4" />
-                ) : (
-                  <Eye className="h-4 w-4" />
-                )}
-                {showRomaji ? "Hide" : "Show"} Romaji
-              </Button>
+          <div className="flex-1 flex flex-col space-y-2 sm:space-y-3">
+            <div className="grid grid-cols-3 gap-1">
+              {TRANSLATION_LAYERS.map((layer) => (
+                <Button
+                  key={layer.key}
+                  variant={activeLayer === layer.key ? "default" : "outline"}
+                  size="sm"
+                  className="h-9 text-xs sm:text-sm"
+                  onClick={() => handleLayerToggle(layer.key)}
+                >
+                  {layer.label}
+                </Button>
+              ))}
+            </div>
 
-              {showRomaji && (
-                <span className="block text-sm sm:text-lg font-mono text-gray-600 dark:text-gray-400 p-3 bg-slate-50 dark:bg-slate-700 rounded-lg">
+            <div className="flex-1 border border-dashed border-slate-300 dark:border-slate-600 rounded-lg p-3 bg-slate-50 dark:bg-slate-800/40 text-left overflow-auto">
+              {activeLayer === "none" && (
+                <p className="text-xs sm:text-sm text-muted-foreground text-center">
+                  Choose a layer to reveal the translation.
+                </p>
+              )}
+              {activeLayer === "romaji" && (
+                <p className="text-sm sm:text-lg font-mono text-gray-700 dark:text-gray-300">
                   {example.sentence.romaji}
-                </span>
+                </p>
               )}
-
-              {/* English */}
-              <Button
-                variant={showEnglish ? "default" : "outline"}
-                onClick={() => setShowEnglish(!showEnglish)}
-                className="w-full flex items-center gap-2 h-9 sm:h-10 text-sm sm:text-base"
-              >
-                {showEnglish ? (
-                  <EyeOff className="h-4 w-4" />
-                ) : (
-                  <Eye className="h-4 w-4" />
-                )}
-                {showEnglish ? "Hide" : "Show"} English
-              </Button>
-
-              {showEnglish && (
-                <div className="text-left p-3 bg-blue-50 dark:bg-blue-900/20 rounded-lg">
-                  <span className="text-sm text-blue-800 dark:text-blue-200">
-                    English: {example.sentence.english}
-                  </span>
-                </div>
+              {activeLayer === "english" && (
+                <p className="text-sm sm:text-base text-blue-900 dark:text-blue-200">
+                  {example.sentence.english}
+                </p>
               )}
-
-              {/* Uzbek */}
-              <Button
-                variant={showUzbek ? "default" : "outline"}
-                onClick={() => setShowUzbek(!showUzbek)}
-                className="w-full flex items-center gap-2 h-9 sm:h-10 text-sm sm:text-base"
-              >
-                {showUzbek ? (
-                  <EyeOff className="h-4 w-4" />
-                ) : (
-                  <Eye className="h-4 w-4" />
-                )}
-                {showUzbek ? "Hide" : "Show"} Uzbek
-              </Button>
-
-              {showUzbek && (
-                <div className="text-left p-3 bg-orange-50 dark:bg-orange-900/20 rounded-lg">
-                  <span className="text-sm text-orange-800 dark:text-orange-200">
-                    Uzbek: {example.sentence.uzbek}
-                  </span>
-                </div>
+              {activeLayer === "uzbek" && (
+                <p className="text-sm sm:text-base text-orange-800 dark:text-orange-200">
+                  {example.sentence.uzbek}
+                </p>
               )}
             </div>
           </div>
 
-          {/* Navigation */}
-          <div className="flex gap-2 sm:gap-3 pt-2 sm:pt-3 border-t">
+          <div className="flex gap-2 sm:gap-3 pt-2 sm:pt-3 border-t mt-2">
             <Button
               variant="outline"
               onClick={handlePrevious}
@@ -226,7 +219,6 @@ export function FlashCard({
               <span className="sm:hidden">Prev</span>
             </Button>
 
-            {/* Example selector for desktop */}
             <div className="hidden sm:flex items-center gap-1">
               {Array.from({ length: Math.min(totalExamples, 6) }, (_, i) => (
                 <Button
@@ -234,10 +226,7 @@ export function FlashCard({
                   variant={i === currentExampleIndex ? "default" : "outline"}
                   size="sm"
                   className="w-8 h-8 p-0 text-xs"
-                  onClick={() => {
-                    resetShowStates();
-                    onSpecificExample?.(i);
-                  }}
+                  onClick={() => handleSpecificExample(i)}
                 >
                   {i + 1}
                 </Button>
@@ -261,16 +250,20 @@ export function FlashCard({
             </Button>
           </div>
 
-          {/* Complete Kanji Button */}
           <div className="pt-2 sm:pt-3">
             <Button
               size="lg"
               className="w-full h-10 sm:h-11 text-sm sm:text-base"
               onClick={onComplete}
-              disabled={!showRomaji || !showEnglish || !showUzbek}
+              disabled={!allLayersViewed}
             >
               ✓ Complete Example {currentExampleIndex + 1}/{totalExamples}
             </Button>
+            {!allLayersViewed && (
+              <p className="text-[11px] sm:text-xs text-muted-foreground text-center mt-1">
+                View Romaji, English, and Uzbek to unlock completion.
+              </p>
+            )}
           </div>
         </CardContent>
       </Card>

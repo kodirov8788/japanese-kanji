@@ -1,0 +1,285 @@
+{
+  "n4": {
+    "processed": 10,
+    "total": 167,
+    "batches": [
+      {
+        "batch_num": 1,
+        "start_idx": 0,
+        "end_idx": 10,
+        "timestamp": "2025-10-04T13:59:20.604333",
+        "status": "completed"
+      }
+    ]
+  },
+  "n3": {
+    "processed": 370,
+    "total": 370,
+    "batches": [
+      {
+        "batch_num": 1,
+        "start_idx": 0,
+        "end_idx": 10,
+        "timestamp": "2025-10-04T13:59:24.504661",
+        "status": "completed"
+      },
+      {
+        "batch_num": 2,
+        "start_idx": 10,
+        "end_idx": 20,
+        "timestamp": "2025-10-04T13:59:28.417446",
+        "status": "completed"
+      },
+      {
+        "batch_num": 3,
+        "start_idx": 20,
+        "end_idx": 30,
+        "timestamp": "2025-10-04T13:59:32.061757",
+        "status": "completed"
+      },
+      {
+        "batch_num": 4,
+        "start_idx": 30,
+        "end_idx": 40,
+        "timestamp": "2025-10-04T13:59:35.723165",
+        "status": "completed"
+      },
+      {
+        "batch_num": 5,
+        "start_idx": 40,
+        "end_idx": 50,
+        "timestamp": "2025-10-04T13:59:39.422126",
+        "status": "completed"
+      },
+      {
+        "batch_num": 6,
+        "start_idx": 50,
+        "end_idx": 60,
+        "timestamp": "2025-10-04T13:59:43.148283",
+        "status": "completed"
+      },
+      {
+        "batch_num": 7,
+        "start_idx": 60,
+        "end_idx": 70,
+        "timestamp": "2025-10-04T13:59:46.155327",
+        "status": "completed"
+      },
+      {
+        "batch_num": 8,
+        "start_idx": 70,
+        "end_idx": 80,
+        "timestamp": "2025-10-04T13:59:48.826783",
+        "status": "completed"
+      },
+      {
+        "batch_num": 9,
+        "start_idx": 80,
+        "end_idx": 90,
+        "timestamp": "2025-10-04T13:59:51.537632",
+        "status": "completed"
+      },
+      {
+        "batch_num": 10,
+        "start_idx": 90,
+        "end_idx": 100,
+        "timestamp": "2025-10-04T13:59:54.323416",
+        "status": "completed"
+      },
+      {
+        "batch_num": 11,
+        "start_idx": 100,
+        "end_idx": 110,
+        "timestamp": "2025-10-04T13:59:56.932870",
+        "status": "completed"
+      },
+      {
+        "batch_num": 12,
+        "start_idx": 110,
+        "end_idx": 120,
+        "timestamp": "2025-10-04T13:59:59.452146",
+        "status": "completed"
+      },
+      {
+        "batch_num": 13,
+        "start_idx": 120,
+        "end_idx": 130,
+        "timestamp": "2025-10-04T14:00:02.046138",
+        "status": "completed"
+      },
+      {
+        "batch_num": 14,
+        "start_idx": 130,
+        "end_idx": 140,
+        "timestamp": "2025-10-04T14:00:04.881250",
+        "status": "completed"
+      },
+      {
+        "batch_num": 15,
+        "start_idx": 140,
+        "end_idx": 150,
+        "timestamp": "2025-10-04T14:00:07.560718",
+        "status": "completed"
+      },
+      {
+        "batch_num": 16,
+        "start_idx": 150,
+        "end_idx": 160,
+        "timestamp": "2025-10-04T14:00:10.337733",
+        "status": "completed"
+      },
+      {
+        "batch_num": 17,
+        "start_idx": 160,
+        "end_idx": 170,
+        "timestamp": "2025-10-04T14:00:13.089174",
+        "status": "completed"
+      },
+      {
+        "batch_num": 18,
+        "start_idx": 170,
+        "end_idx": 180,
+        "timestamp": "2025-10-04T14:00:15.790329",
+        "status": "completed"
+      },
+      {
+        "batch_num": 19,
+        "start_idx": 180,
+        "end_idx": 190,
+        "timestamp": "2025-10-04T14:00:18.424518",
+        "status": "completed"
+      },
+      {
+        "batch_num": 20,
+        "start_idx": 190,
+        "end_idx": 200,
+        "timestamp": "2025-10-04T14:00:21.077088",
+        "status": "completed"
+      },
+      {
+        "batch_num": 21,
+        "start_idx": 200,
+        "end_idx": 210,
+        "timestamp": "2025-10-04T14:00:23.780803",
+        "status": "completed"
+      },
+      {
+        "batch_num": 22,
+        "start_idx": 210,
+        "end_idx": 220,
+        "timestamp": "2025-10-04T14:00:26.439192",
+        "status": "completed"
+      },
+      {
+        "batch_num": 23,
+        "start_idx": 220,
+        "end_idx": 230,
+        "timestamp": "2025-10-04T14:00:29.117069",
+        "status": "completed"
+      },
+      {
+        "batch_num": 24,
+        "start_idx": 230,
+        "end_idx": 240,
+        "timestamp": "2025-10-04T14:00:31.950433",
+        "status": "completed"
+      },
+      {
+        "batch_num": 25,
+        "start_idx": 240,
+        "end_idx": 250,
+        "timestamp": "2025-10-04T14:00:36.603565",
+        "status": "completed"
+      },
+      {
+        "batch_num": 26,
+        "start_idx": 250,
+        "end_idx": 260,
+        "timestamp": "2025-10-04T14:00:40.408954",
+        "status": "completed"
+      },
+      {
+        "batch_num": 27,
+        "start_idx": 260,
+        "end_idx": 270,
+        "timestamp": "2025-10-04T14:00:44.313525",
+        "status": "completed"
+      },
+      {
+        "batch_num": 28,
+        "start_idx": 270,
+        "end_idx": 280,
+        "timestamp": "2025-10-04T14:00:47.746553",
+        "status": "completed"
+      },
+      {
+        "batch_num": 29,
+        "start_idx": 280,
+        "end_idx": 290,
+        "timestamp": "2025-10-04T14:00:51.339116",
+        "status": "completed"
+      },
+      {
+        "batch_num": 30,
+        "start_idx": 290,
+        "end_idx": 300,
+        "timestamp": "2025-10-04T14:00:55.324928",
+        "status": "completed"
+      },
+      {
+        "batch_num": 31,
+        "start_idx": 300,
+        "end_idx": 310,
+        "timestamp": "2025-10-04T14:00:59.026375",
+        "status": "completed"
+      },
+      {
+        "batch_num": 32,
+        "start_idx": 310,
+        "end_idx": 320,
+        "timestamp": "2025-10-04T14:01:02.709790",
+        "status": "completed"
+      },
+      {
+        "batch_num": 33,
+        "start_idx": 320,
+        "end_idx": 330,
+        "timestamp": "2025-10-04T14:01:06.375165",
+        "status": "completed"
+      },
+      {
+        "batch_num": 34,
+        "start_idx": 330,
+        "end_idx": 340,
+        "timestamp": "2025-10-04T14:01:09.690524",
+        "status": "completed"
+      },
+      {
+        "batch_num": 35,
+        "start_idx": 340,
+        "end_idx": 350,
+        "timestamp": "2025-10-04T14:01:12.972578",
+        "status": "completed"
+      },
+      {
+        "batch_num": 36,
+        "start_idx": 350,
+        "end_idx": 360,
+        "timestamp": "2025-10-04T14:01:15.809399",
+        "status": "completed"
+      },
+      {
+        "batch_num": 37,
+        "start_idx": 360,
+        "end_idx": 370,
+        "timestamp": "2025-10-04T14:01:18.264222",
+        "status": "completed"
+      }
+    ]
+  },
+  "n2": {
+    "processed": 0,
+    "total": 50,
+    "batches": []
+  }
+}

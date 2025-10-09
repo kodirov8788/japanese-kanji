@@ -3,10 +3,20 @@
     "id": "n5-001",
     "kanji": "一",
     "readings": {
-      "on": ["いち", "いつ"],
-      "kun": ["ひと-", "ひとつ"]
+      "on": [
+        "いち",
+        "いつ"
+      ],
+      "kun": [
+        "ひと-",
+        "ひとつ"
+      ]
     },
-    "meanings": ["one", "first", "single"],
+    "meanings": [
+      "one",
+      "first",
+      "single"
+    ],
     "jlptLevel": "N5",
     "frequency": 1,
     "strokes": 1,
@@ -83,10 +93,18 @@
     "id": "n5-002",
     "kanji": "二",
     "readings": {
-      "on": ["に"],
-      "kun": ["ふた-", "ふたつ"]
+      "on": [
+        "に"
+      ],
+      "kun": [
+        "ふた-",
+        "ふたつ"
+      ]
     },
-    "meanings": ["two", "second"],
+    "meanings": [
+      "two",
+      "second"
+    ],
     "jlptLevel": "N5",
     "frequency": 2,
     "strokes": 2,
@@ -163,10 +181,18 @@
     "id": "n5-003",
     "kanji": "三",
     "readings": {
-      "on": ["さん"],
-      "kun": ["みっ-", "みつ"]
+      "on": [
+        "さん"
+      ],
+      "kun": [
+        "みっ-",
+        "みつ"
+      ]
     },
-    "meanings": ["three", "third"],
+    "meanings": [
+      "three",
+      "third"
+    ],
     "jlptLevel": "N5",
     "frequency": 3,
     "strokes": 3,
@@ -243,10 +269,19 @@
     "id": "n5-004",
     "kanji": "四",
     "readings": {
-      "on": ["し"],
-      "kun": ["よっ-", "よん", "よつ"]
+      "on": [
+        "し"
+      ],
+      "kun": [
+        "よっ-",
+        "よん",
+        "よつ"
+      ]
     },
-    "meanings": ["four", "fourth"],
+    "meanings": [
+      "four",
+      "fourth"
+    ],
     "jlptLevel": "N5",
     "frequency": 4,
     "strokes": 5,
@@ -323,10 +358,18 @@
     "id": "n5-005",
     "kanji": "五",
     "readings": {
-      "on": ["ご"],
-      "kun": ["いつ-", "いつつ"]
+      "on": [
+        "ご"
+      ],
+      "kun": [
+        "いつ-",
+        "いつつ"
+      ]
     },
-    "meanings": ["five", "fifth"],
+    "meanings": [
+      "five",
+      "fifth"
+    ],
     "jlptLevel": "N5",
     "frequency": 5,
     "strokes": 4,
@@ -403,10 +446,19 @@
     "id": "n5-006",
     "kanji": "六",
     "readings": {
-      "on": ["ろく"],
-      "kun": ["むっ-", "むつ", "むい"]
+      "on": [
+        "ろく"
+      ],
+      "kun": [
+        "むっ-",
+        "むつ",
+        "むい"
+      ]
     },
-    "meanings": ["six", "sixth"],
+    "meanings": [
+      "six",
+      "sixth"
+    ],
     "jlptLevel": "N5",
     "frequency": 6,
     "strokes": 4,
@@ -483,10 +535,19 @@
     "id": "n5-007",
     "kanji": "七",
     "readings": {
-      "on": ["しち"],
-      "kun": ["なな-", "ななつ", "なの"]
+      "on": [
+        "しち"
+      ],
+      "kun": [
+        "なな-",
+        "ななつ",
+        "なの"
+      ]
     },
-    "meanings": ["seven", "seventh"],
+    "meanings": [
+      "seven",
+      "seventh"
+    ],
     "jlptLevel": "N5",
     "frequency": 7,
     "strokes": 2,
@@ -496,10 +557,10 @@
         "reading": "ななつ",
         "meaning": "seven things",
         "sentence": {
-          "japanese": "七つの星を見た。",
-          "romaji": "Nanatsu no hoshi o mita.",
-          "english": "I saw seven stars.",
-          "uzbek": "Yetti yulduzni ko'rdim."
+          "japanese": "七つの星。",
+          "romaji": "Nanatsu no hoshi.",
+          "english": "Seven stars.",
+          "uzbek": "Yetti yulduz."
         }
       },
       {
@@ -507,10 +568,43 @@
         "reading": "しちがつ",
         "meaning": "July",
         "sentence": {
-          "japanese": "七月は暑い月です。",
-          "romaji": "Shichigatsu wa atsui tsuki desu.",
-          "english": "July is a hot month.",
-          "uzbek": "Iyul issiq oy."
+          "japanese": "七月は暑い。",
+          "romaji": "Shichigatsu wa atsui.",
+          "english": "July is hot.",
+          "uzbek": "Iyul issiq."
+        }
+      },
+      {
+        "word": "七人",
+        "reading": "しちにん",
+        "meaning": "seven people",
+        "sentence": {
+          "japanese": "七人が集まった。",
+          "romaji": "Shichinin ga atsumatta.",
+          "english": "Seven people gathered.",
+          "uzbek": "Yetti kishi yig'ildi."
+        }
+      },
+      {
+        "word": "七時",
+        "reading": "しちじ",
+        "meaning": "seven o'clock",
+        "sentence": {
+          "japanese": "七時に起きた。",
+          "romaji": "Shichiji ni okita.",
+          "english": "I woke up at seven.",
+          "uzbek": "Men soat yettida uyg'ondim."
+        }
+      },
+      {
+        "word": "七色",
+        "reading": "なないろ",
+        "meaning": "seven colors",
+        "sentence": {
+          "japanese": "七色の虹。",
+          "romaji": "Nanairo no niji.",
+          "english": "Seven-colored rainbow.",
+          "uzbek": "Yetti rangli kamalak."
         }
       }
     ]
@@ -519,10 +613,19 @@
     "id": "n5-008",
     "kanji": "八",
     "readings": {
-      "on": ["はち"],
-      "kun": ["やっ-", "やつ", "よう"]
+      "on": [
+        "はち"
+      ],
+      "kun": [
+        "やっ-",
+        "やつ",
+        "よう"
+      ]
     },
-    "meanings": ["eight", "eighth"],
+    "meanings": [
+      "eight",
+      "eighth"
+    ],
     "jlptLevel": "N5",
     "frequency": 8,
     "strokes": 2,
@@ -532,10 +635,10 @@
         "reading": "やっつ",
         "meaning": "eight things",
         "sentence": {
-          "japanese": "八つの椅子を並べた。",
-          "romaji": "Yattsu no isu o narabeta.",
-          "english": "I arranged eight chairs.",
-          "uzbek": "Sakkizta stulni tartibga qo'ydim."
+          "japanese": "八つの月。",
+          "romaji": "Yattsu no tsuki.",
+          "english": "Eight months.",
+          "uzbek": "Sakkiz oy."
         }
       },
       {
@@ -543,10 +646,43 @@
         "reading": "はちがつ",
         "meaning": "August",
         "sentence": {
-          "japanese": "八月は夏休みです。",
-          "romaji": "Hachigatsu wa natsuyasumi desu.",
-          "english": "August is summer vacation.",
-          "uzbek": "Avgust yoz ta'tili."
+          "japanese": "八月に旅行する。",
+          "romaji": "Hachigatsu ni ryokō suru.",
+          "english": "I travel in August.",
+          "uzbek": "Men avgustda sayohat qilaman."
+        }
+      },
+      {
+        "word": "八人",
+        "reading": "はちにん",
+        "meaning": "eight people",
+        "sentence": {
+          "japanese": "八人で食事した。",
+          "romaji": "Hachinin de shokuji shita.",
+          "english": "Eight people had dinner.",
+          "uzbek": "Sakkiz kishi kechki ovqat yedik."
+        }
+      },
+      {
+        "word": "八時",
+        "reading": "はちじ",
+        "meaning": "eight o'clock",
+        "sentence": {
+          "japanese": "八時に会う。",
+          "romaji": "Hachiji ni au.",
+          "english": "I meet at eight.",
+          "uzbek": "Men soat sakkizda uchrashaman."
+        }
+      },
+      {
+        "word": "八方",
+        "reading": "はっぽう",
+        "meaning": "all directions",
+        "sentence": {
+          "japanese": "八方に散らばる。",
+          "romaji": "Happō ni chirabaru.",
+          "english": "Scatter in all directions.",
+          "uzbek": "Barcha tomonga tarqalish."
         }
       }
     ]
@@ -555,10 +691,19 @@
     "id": "n5-009",
     "kanji": "九",
     "readings": {
-      "on": ["きゅう", "く"],
-      "kun": ["ここの-", "ここのつ"]
+      "on": [
+        "きゅう",
+        "く"
+      ],
+      "kun": [
+        "ここの-",
+        "ここのつ"
+      ]
     },
-    "meanings": ["nine", "ninth"],
+    "meanings": [
+      "nine",
+      "ninth"
+    ],
     "jlptLevel": "N5",
     "frequency": 9,
     "strokes": 2,
@@ -568,10 +713,10 @@
         "reading": "ここのつ",
         "meaning": "nine things",
         "sentence": {
-          "japanese": "九つのボールを投げた。",
-          "romaji": "Kokonotsu no bōru o nageta.",
-          "english": "I threw nine balls.",
-          "uzbek": "To'qqizta to'pni otdim."
+          "japanese": "九つの惑星。",
+          "romaji": "Kokonotsu no wakusei.",
+          "english": "Nine planets.",
+          "uzbek": "To'qqiz sayyora."
         }
       },
       {
@@ -579,10 +724,43 @@
         "reading": "くがつ",
         "meaning": "September",
         "sentence": {
-          "japanese": "九月は秋の始まりです。",
-          "romaji": "Kugatsu wa aki no hajimari desu.",
-          "english": "September is the beginning of autumn.",
-          "uzbek": "Sentabr kuzning boshlanishi."
+          "japanese": "九月に学校が始まる。",
+          "romaji": "Kugatsu ni gakkō ga hajimaru.",
+          "english": "School starts in September.",
+          "uzbek": "Sentabrda maktab boshlanadi."
+        }
+      },
+      {
+        "word": "九人",
+        "reading": "きゅうにん",
+        "meaning": "nine people",
+        "sentence": {
+          "japanese": "九人が参加した。",
+          "romaji": "Kyūnin ga sanka shita.",
+          "english": "Nine people participated.",
+          "uzbek": "To'qqiz kishi ishtirok etdi."
+        }
+      },
+      {
+        "word": "九時",
+        "reading": "くじ",
+        "meaning": "nine o'clock",
+        "sentence": {
+          "japanese": "九時に寝る。",
+          "romaji": "Kuji ni neru.",
+          "english": "I sleep at nine.",
+          "uzbek": "Men soat to'qqizda uxlayman."
+        }
+      },
+      {
+        "word": "九州",
+        "reading": "きゅうしゅう",
+        "meaning": "Kyushu",
+        "sentence": {
+          "japanese": "九州に住んでいる。",
+          "romaji": "Kyūshū ni sunde iru.",
+          "english": "I live in Kyushu.",
+          "uzbek": "Men Kyushuda yashayman."
         }
       }
     ]
@@ -591,10 +769,18 @@
     "id": "n5-010",
     "kanji": "十",
     "readings": {
-      "on": ["じゅう"],
-      "kun": ["とお", "と"]
+      "on": [
+        "じゅう"
+      ],
+      "kun": [
+        "とお",
+        "と"
+      ]
     },
-    "meanings": ["ten", "tenth"],
+    "meanings": [
+      "ten",
+      "tenth"
+    ],
     "jlptLevel": "N5",
     "frequency": 10,
     "strokes": 2,
@@ -604,10 +790,10 @@
         "reading": "じゅう",
         "meaning": "ten",
         "sentence": {
-          "japanese": "十人の学生がいる。",
-          "romaji": "Jūnin no gakusei ga iru.",
-          "english": "There are ten students.",
-          "uzbek": "O'n nafar talaba bor."
+          "japanese": "十の指。",
+          "romaji": "Jū no yubi.",
+          "english": "Ten fingers.",
+          "uzbek": "O'n barmoq."
         }
       },
       {
@@ -615,10 +801,43 @@
         "reading": "じゅうがつ",
         "meaning": "October",
         "sentence": {
-          "japanese": "十月は紅葉の季節です。",
-          "romaji": "Jūgatsu wa momiji no kisetsu desu.",
-          "english": "October is the season of autumn leaves.",
-          "uzbek": "Oktabr qizil barglar fasli."
+          "japanese": "十月は秋だ。",
+          "romaji": "Jūgatsu wa aki da.",
+          "english": "October is autumn.",
+          "uzbek": "Oktabr kuz."
+        }
+      },
+      {
+        "word": "十人",
+        "reading": "じゅうにん",
+        "meaning": "ten people",
+        "sentence": {
+          "japanese": "十人が集まった。",
+          "romaji": "Jūnin ga atsumatta.",
+          "english": "Ten people gathered.",
+          "uzbek": "O'n kishi yig'ildi."
+        }
+      },
+      {
+        "word": "十時",
+        "reading": "じゅうじ",
+        "meaning": "ten o'clock",
+        "sentence": {
+          "japanese": "十時に始まる。",
+          "romaji": "Jūji ni hajimaru.",
+          "english": "It starts at ten.",
+          "uzbek": "Soat o'nda boshlanadi."
+        }
+      },
+      {
+        "word": "十分",
+        "reading": "じゅうぶん",
+        "meaning": "sufficient",
+        "sentence": {
+          "japanese": "十分な時間がある。",
+          "romaji": "Jūbun na jikan ga aru.",
+          "english": "There is enough time.",
+          "uzbek": "Yetarli vaqt bor."
         }
       }
     ]
@@ -627,10 +846,17 @@
     "id": "n5-011",
     "kanji": "百",
     "readings": {
-      "on": ["ひゃく"],
-      "kun": ["もも"]
+      "on": [
+        "ひゃく"
+      ],
+      "kun": [
+        "もも"
+      ]
     },
-    "meanings": ["hundred", "100"],
+    "meanings": [
+      "hundred",
+      "100"
+    ],
     "jlptLevel": "N5",
     "frequency": 11,
     "strokes": 6,
@@ -640,10 +866,21 @@
         "reading": "ひゃく",
         "meaning": "hundred",
         "sentence": {
-          "japanese": "百円で買える。",
-          "romaji": "Hyaku-en de kaeru.",
-          "english": "I can buy it for 100 yen.",
-          "uzbek": "100 yena sotib olaman."
+          "japanese": "百の花。",
+          "romaji": "Hyaku no hana.",
+          "english": "A hundred flowers.",
+          "uzbek": "Yuz gul."
+        }
+      },
+      {
+        "word": "百円",
+        "reading": "ひゃくえん",
+        "meaning": "100 yen",
+        "sentence": {
+          "japanese": "百円を払った。",
+          "romaji": "Hyakuen o haratta.",
+          "english": "I paid 100 yen.",
+          "uzbek": "Men yuz yeng to'ladim."
         }
       },
       {
@@ -651,10 +888,32 @@
         "reading": "ひゃくにん",
         "meaning": "hundred people",
         "sentence": {
-          "japanese": "百人の人が集まった。",
-          "romaji": "Hyakunin no hito ga atsumatta.",
-          "english": "A hundred people gathered.",
-          "uzbek": "Yuz kishi yig'ildi."
+          "japanese": "百人が参加した。",
+          "romaji": "Hyakunin ga sanka shita.",
+          "english": "A hundred people participated.",
+          "uzbek": "Yuz kishi ishtirok etdi."
+        }
+      },
+      {
+        "word": "百歳",
+        "reading": "ひゃくさい",
+        "meaning": "hundred years old",
+        "sentence": {
+          "japanese": "百歳まで生きる。",
+          "romaji": "Hyakusai made ikiru.",
+          "english": "Live to be a hundred.",
+          "uzbek": "Yuz yilgacha yashash."
+        }
+      },
+      {
+        "word": "百貨店",
+        "reading": "ひゃっかてん",
+        "meaning": "department store",
+        "sentence": {
+          "japanese": "百貨店で買い物する。",
+          "romaji": "Hyakkaten de kaimono suru.",
+          "english": "I shop at the department store.",
+          "uzbek": "Men universal magazinda xarid qilaman."
         }
       }
     ]
@@ -663,10 +922,17 @@
     "id": "n5-012",
     "kanji": "千",
     "readings": {
-      "on": ["せん"],
-      "kun": ["ち"]
+      "on": [
+        "せん"
+      ],
+      "kun": [
+        "ち"
+      ]
     },
-    "meanings": ["thousand", "1000"],
+    "meanings": [
+      "thousand",
+      "1000"
+    ],
     "jlptLevel": "N5",
     "frequency": 12,
     "strokes": 3,
@@ -699,10 +965,19 @@
     "id": "n5-013",
     "kanji": "万",
     "readings": {
-      "on": ["まん", "ばん"],
-      "kun": ["よろず"]
+      "on": [
+        "まん",
+        "ばん"
+      ],
+      "kun": [
+        "よろず"
+      ]
     },
-    "meanings": ["ten thousand", "10000", "many"],
+    "meanings": [
+      "ten thousand",
+      "10000",
+      "many"
+    ],
     "jlptLevel": "N5",
     "frequency": 13,
     "strokes": 3,
@@ -735,10 +1010,21 @@
     "id": "n5-014",
     "kanji": "人",
     "readings": {
-      "on": ["じん", "にん"],
-      "kun": ["ひと", "-り", "-と"]
+      "on": [
+        "じん",
+        "にん"
+      ],
+      "kun": [
+        "ひと",
+        "-り",
+        "-と"
+      ]
     },
-    "meanings": ["person", "people", "human"],
+    "meanings": [
+      "person",
+      "people",
+      "human"
+    ],
     "jlptLevel": "N5",
     "frequency": 14,
     "strokes": 2,
@@ -771,10 +1057,20 @@
     "id": "n5-015",
     "kanji": "大",
     "readings": {
-      "on": ["だい", "たい"],
-      "kun": ["おお-", "おおきい"]
+      "on": [
+        "だい",
+        "たい"
+      ],
+      "kun": [
+        "おお-",
+        "おおきい"
+      ]
     },
-    "meanings": ["big", "large", "great"],
+    "meanings": [
+      "big",
+      "large",
+      "great"
+    ],
     "jlptLevel": "N5",
     "frequency": 15,
     "strokes": 3,
@@ -807,10 +1103,20 @@
     "id": "n5-016",
     "kanji": "小",
     "readings": {
-      "on": ["しょう"],
-      "kun": ["ちい-", "ちいさい", "こ-", "お-"]
+      "on": [
+        "しょう"
+      ],
+      "kun": [
+        "ちい-",
+        "ちいさい",
+        "こ-",
+        "お-"
+      ]
     },
-    "meanings": ["small", "little"],
+    "meanings": [
+      "small",
+      "little"
+    ],
     "jlptLevel": "N5",
     "frequency": 16,
     "strokes": 3,
@@ -843,10 +1149,20 @@
     "id": "n5-017",
     "kanji": "中",
     "readings": {
-      "on": ["ちゅう"],
-      "kun": ["なか", "うち", "あたる"]
+      "on": [
+        "ちゅう"
+      ],
+      "kun": [
+        "なか",
+        "うち",
+        "あたる"
+      ]
     },
-    "meanings": ["middle", "center", "inside"],
+    "meanings": [
+      "middle",
+      "center",
+      "inside"
+    ],
     "jlptLevel": "N5",
     "frequency": 17,
     "strokes": 4,
@@ -879,10 +1195,24 @@
     "id": "n5-018",
     "kanji": "上",
     "readings": {
-      "on": ["じょう", "しょう"],
-      "kun": ["うえ", "うわ-", "かみ", "あ-", "のぼ-", "たてまつ-"]
+      "on": [
+        "じょう",
+        "しょう"
+      ],
+      "kun": [
+        "うえ",
+        "うわ-",
+        "かみ",
+        "あ-",
+        "のぼ-",
+        "たてまつ-"
+      ]
     },
-    "meanings": ["up", "above", "top"],
+    "meanings": [
+      "up",
+      "above",
+      "top"
+    ],
     "jlptLevel": "N5",
     "frequency": 18,
     "strokes": 3,
@@ -915,10 +1245,24 @@
     "id": "n5-019",
     "kanji": "下",
     "readings": {
-      "on": ["か", "げ"],
-      "kun": ["した", "しも", "もと", "さ-", "くだ-", "おろ-"]
+      "on": [
+        "か",
+        "げ"
+      ],
+      "kun": [
+        "した",
+        "しも",
+        "もと",
+        "さ-",
+        "くだ-",
+        "おろ-"
+      ]
     },
-    "meanings": ["down", "below", "under"],
+    "meanings": [
+      "down",
+      "below",
+      "under"
+    ],
     "jlptLevel": "N5",
     "frequency": 19,
     "strokes": 3,
@@ -951,10 +1295,16 @@
     "id": "n5-020",
     "kanji": "左",
     "readings": {
-      "on": ["さ"],
-      "kun": ["ひだり"]
+      "on": [
+        "さ"
+      ],
+      "kun": [
+        "ひだり"
+      ]
     },
-    "meanings": ["left"],
+    "meanings": [
+      "left"
+    ],
     "jlptLevel": "N5",
     "frequency": 20,
     "strokes": 5,
@@ -987,10 +1337,17 @@
     "id": "n5-021",
     "kanji": "右",
     "readings": {
-      "on": ["う", "ゆう"],
-      "kun": ["みぎ"]
+      "on": [
+        "う",
+        "ゆう"
+      ],
+      "kun": [
+        "みぎ"
+      ]
     },
-    "meanings": ["right"],
+    "meanings": [
+      "right"
+    ],
     "jlptLevel": "N5",
     "frequency": 21,
     "strokes": 5,
@@ -1023,10 +1380,16 @@
     "id": "n5-022",
     "kanji": "東",
     "readings": {
-      "on": ["とう"],
-      "kun": ["ひがし"]
+      "on": [
+        "とう"
+      ],
+      "kun": [
+        "ひがし"
+      ]
     },
-    "meanings": ["east"],
+    "meanings": [
+      "east"
+    ],
     "jlptLevel": "N5",
     "frequency": 22,
     "strokes": 8,
@@ -1059,10 +1422,17 @@
     "id": "n5-023",
     "kanji": "西",
     "readings": {
-      "on": ["せい", "さい"],
-      "kun": ["にし"]
+      "on": [
+        "せい",
+        "さい"
+      ],
+      "kun": [
+        "にし"
+      ]
     },
-    "meanings": ["west"],
+    "meanings": [
+      "west"
+    ],
     "jlptLevel": "N5",
     "frequency": 23,
     "strokes": 6,
@@ -1095,10 +1465,16 @@
     "id": "n5-024",
     "kanji": "南",
     "readings": {
-      "on": ["なん"],
-      "kun": ["みなみ"]
+      "on": [
+        "なん"
+      ],
+      "kun": [
+        "みなみ"
+      ]
     },
-    "meanings": ["south"],
+    "meanings": [
+      "south"
+    ],
     "jlptLevel": "N5",
     "frequency": 24,
     "strokes": 9,
@@ -1131,10 +1507,16 @@
     "id": "n5-025",
     "kanji": "北",
     "readings": {
-      "on": ["ほく"],
-      "kun": ["きた"]
+      "on": [
+        "ほく"
+      ],
+      "kun": [
+        "きた"
+      ]
     },
-    "meanings": ["north"],
+    "meanings": [
+      "north"
+    ],
     "jlptLevel": "N5",
     "frequency": 25,
     "strokes": 5,
@@ -1167,10 +1549,19 @@
     "id": "n5-026",
     "kanji": "前",
     "readings": {
-      "on": ["ぜん"],
-      "kun": ["まえ", "さき"]
+      "on": [
+        "ぜん"
+      ],
+      "kun": [
+        "まえ",
+        "さき"
+      ]
     },
-    "meanings": ["front", "before", "previous"],
+    "meanings": [
+      "front",
+      "before",
+      "previous"
+    ],
     "jlptLevel": "N5",
     "frequency": 26,
     "strokes": 9,
@@ -1203,10 +1594,21 @@
     "id": "n5-027",
     "kanji": "後",
     "readings": {
-      "on": ["ご", "こう"],
-      "kun": ["うしろ", "あと", "のち"]
+      "on": [
+        "ご",
+        "こう"
+      ],
+      "kun": [
+        "うしろ",
+        "あと",
+        "のち"
+      ]
     },
-    "meanings": ["back", "after", "later"],
+    "meanings": [
+      "back",
+      "after",
+      "later"
+    ],
     "jlptLevel": "N5",
     "frequency": 27,
     "strokes": 9,
@@ -1239,10 +1641,18 @@
     "id": "n5-028",
     "kanji": "今",
     "readings": {
-      "on": ["こん", "きん"],
-      "kun": ["いま"]
+      "on": [
+        "こん",
+        "きん"
+      ],
+      "kun": [
+        "いま"
+      ]
     },
-    "meanings": ["now", "current"],
+    "meanings": [
+      "now",
+      "current"
+    ],
     "jlptLevel": "N5",
     "frequency": 28,
     "strokes": 4,
@@ -1275,10 +1685,18 @@
     "id": "n5-029",
     "kanji": "時",
     "readings": {
-      "on": ["じ"],
-      "kun": ["とき", "-どき"]
+      "on": [
+        "じ"
+      ],
+      "kun": [
+        "とき",
+        "-どき"
+      ]
     },
-    "meanings": ["time", "hour"],
+    "meanings": [
+      "time",
+      "hour"
+    ],
     "jlptLevel": "N5",
     "frequency": 29,
     "strokes": 10,
@@ -1311,10 +1729,17 @@
     "id": "n5-030",
     "kanji": "年",
     "readings": {
-      "on": ["ねん"],
-      "kun": ["とし"]
+      "on": [
+        "ねん"
+      ],
+      "kun": [
+        "とし"
+      ]
     },
-    "meanings": ["year", "age"],
+    "meanings": [
+      "year",
+      "age"
+    ],
     "jlptLevel": "N5",
     "frequency": 30,
     "strokes": 6,
@@ -1347,10 +1772,21 @@
     "id": "n5-031",
     "kanji": "日",
     "readings": {
-      "on": ["にち", "じつ"],
-      "kun": ["ひ", "-び", "-か"]
+      "on": [
+        "にち",
+        "じつ"
+      ],
+      "kun": [
+        "ひ",
+        "-び",
+        "-か"
+      ]
     },
-    "meanings": ["day", "sun", "Japan"],
+    "meanings": [
+      "day",
+      "sun",
+      "Japan"
+    ],
     "jlptLevel": "N5",
     "frequency": 31,
     "strokes": 4,
@@ -1383,10 +1819,18 @@
     "id": "n5-032",
     "kanji": "月",
     "readings": {
-      "on": ["げつ", "がつ"],
-      "kun": ["つき"]
+      "on": [
+        "げつ",
+        "がつ"
+      ],
+      "kun": [
+        "つき"
+      ]
     },
-    "meanings": ["moon", "month"],
+    "meanings": [
+      "moon",
+      "month"
+    ],
     "jlptLevel": "N5",
     "frequency": 32,
     "strokes": 4,
@@ -1419,10 +1863,18 @@
     "id": "n5-033",
     "kanji": "火",
     "readings": {
-      "on": ["か"],
-      "kun": ["ひ", "-び", "ほ-"]
+      "on": [
+        "か"
+      ],
+      "kun": [
+        "ひ",
+        "-び",
+        "ほ-"
+      ]
     },
-    "meanings": ["fire"],
+    "meanings": [
+      "fire"
+    ],
     "jlptLevel": "N5",
     "frequency": 33,
     "strokes": 4,
@@ -1455,10 +1907,17 @@
     "id": "n5-034",
     "kanji": "水",
     "readings": {
-      "on": ["すい"],
-      "kun": ["みず", "みず-"]
+      "on": [
+        "すい"
+      ],
+      "kun": [
+        "みず",
+        "みず-"
+      ]
     },
-    "meanings": ["water"],
+    "meanings": [
+      "water"
+    ],
     "jlptLevel": "N5",
     "frequency": 34,
     "strokes": 4,
@@ -1491,10 +1950,19 @@
     "id": "n5-035",
     "kanji": "木",
     "readings": {
-      "on": ["もく", "ぼく"],
-      "kun": ["き", "こ-"]
+      "on": [
+        "もく",
+        "ぼく"
+      ],
+      "kun": [
+        "き",
+        "こ-"
+      ]
     },
-    "meanings": ["tree", "wood"],
+    "meanings": [
+      "tree",
+      "wood"
+    ],
     "jlptLevel": "N5",
     "frequency": 35,
     "strokes": 4,
@@ -1527,10 +1995,20 @@
     "id": "n5-036",
     "kanji": "金",
     "readings": {
-      "on": ["きん", "こん"],
-      "kun": ["かね", "かな-", "-がね"]
+      "on": [
+        "きん",
+        "こん"
+      ],
+      "kun": [
+        "かね",
+        "かな-",
+        "-がね"
+      ]
     },
-    "meanings": ["gold", "money"],
+    "meanings": [
+      "gold",
+      "money"
+    ],
     "jlptLevel": "N5",
     "frequency": 36,
     "strokes": 8,
@@ -1563,10 +2041,18 @@
     "id": "n5-037",
     "kanji": "土",
     "readings": {
-      "on": ["ど", "と"],
-      "kun": ["つち"]
+      "on": [
+        "ど",
+        "と"
+      ],
+      "kun": [
+        "つち"
+      ]
     },
-    "meanings": ["earth", "soil"],
+    "meanings": [
+      "earth",
+      "soil"
+    ],
     "jlptLevel": "N5",
     "frequency": 37,
     "strokes": 3,
@@ -1599,10 +2085,16 @@
     "id": "n5-038",
     "kanji": "山",
     "readings": {
-      "on": ["さん"],
-      "kun": ["やま"]
+      "on": [
+        "さん"
+      ],
+      "kun": [
+        "やま"
+      ]
     },
-    "meanings": ["mountain"],
+    "meanings": [
+      "mountain"
+    ],
     "jlptLevel": "N5",
     "frequency": 38,
     "strokes": 3,
@@ -1635,10 +2127,16 @@
     "id": "n5-039",
     "kanji": "川",
     "readings": {
-      "on": ["せん"],
-      "kun": ["かわ"]
+      "on": [
+        "せん"
+      ],
+      "kun": [
+        "かわ"
+      ]
     },
-    "meanings": ["river"],
+    "meanings": [
+      "river"
+    ],
     "jlptLevel": "N5",
     "frequency": 39,
     "strokes": 3,
@@ -1671,10 +2169,16 @@
     "id": "n5-040",
     "kanji": "田",
     "readings": {
-      "on": ["でん"],
-      "kun": ["た"]
+      "on": [
+        "でん"
+      ],
+      "kun": [
+        "た"
+      ]
     },
-    "meanings": ["rice field"],
+    "meanings": [
+      "rice field"
+    ],
     "jlptLevel": "N5",
     "frequency": 40,
     "strokes": 5,
@@ -1707,10 +2211,18 @@
     "id": "n5-041",
     "kanji": "目",
     "readings": {
-      "on": ["もく"],
-      "kun": ["め", "-め", "ま-"]
+      "on": [
+        "もく"
+      ],
+      "kun": [
+        "め",
+        "-め",
+        "ま-"
+      ]
     },
-    "meanings": ["eye"],
+    "meanings": [
+      "eye"
+    ],
     "jlptLevel": "N5",
     "frequency": 41,
     "strokes": 5,
@@ -1743,10 +2255,16 @@
     "id": "n5-042",
     "kanji": "耳",
     "readings": {
-      "on": ["じ"],
-      "kun": ["みみ"]
+      "on": [
+        "じ"
+      ],
+      "kun": [
+        "みみ"
+      ]
     },
-    "meanings": ["ear"],
+    "meanings": [
+      "ear"
+    ],
     "jlptLevel": "N5",
     "frequency": 42,
     "strokes": 6,
@@ -1779,10 +2297,17 @@
     "id": "n5-043",
     "kanji": "口",
     "readings": {
-      "on": ["こう", "く"],
-      "kun": ["くち"]
+      "on": [
+        "こう",
+        "く"
+      ],
+      "kun": [
+        "くち"
+      ]
     },
-    "meanings": ["mouth"],
+    "meanings": [
+      "mouth"
+    ],
     "jlptLevel": "N5",
     "frequency": 43,
     "strokes": 3,
@@ -1815,10 +2340,17 @@
     "id": "n5-044",
     "kanji": "手",
     "readings": {
-      "on": ["しゅ"],
-      "kun": ["て", "た-"]
+      "on": [
+        "しゅ"
+      ],
+      "kun": [
+        "て",
+        "た-"
+      ]
     },
-    "meanings": ["hand"],
+    "meanings": [
+      "hand"
+    ],
     "jlptLevel": "N5",
     "frequency": 44,
     "strokes": 4,
@@ -1851,10 +2383,19 @@
     "id": "n5-045",
     "kanji": "足",
     "readings": {
-      "on": ["そく"],
-      "kun": ["あし", "た-", "た-"]
+      "on": [
+        "そく"
+      ],
+      "kun": [
+        "あし",
+        "た-",
+        "た-"
+      ]
     },
-    "meanings": ["foot", "leg"],
+    "meanings": [
+      "foot",
+      "leg"
+    ],
     "jlptLevel": "N5",
     "frequency": 45,
     "strokes": 7,
@@ -1887,10 +2428,18 @@
     "id": "n5-046",
     "kanji": "頭",
     "readings": {
-      "on": ["とう", "ず"],
-      "kun": ["あたま", "かしら"]
+      "on": [
+        "とう",
+        "ず"
+      ],
+      "kun": [
+        "あたま",
+        "かしら"
+      ]
     },
-    "meanings": ["head"],
+    "meanings": [
+      "head"
+    ],
     "jlptLevel": "N5",
     "frequency": 46,
     "strokes": 16,
@@ -1923,10 +2472,17 @@
     "id": "n5-047",
     "kanji": "心",
     "readings": {
-      "on": ["しん"],
-      "kun": ["こころ"]
+      "on": [
+        "しん"
+      ],
+      "kun": [
+        "こころ"
+      ]
     },
-    "meanings": ["heart", "mind"],
+    "meanings": [
+      "heart",
+      "mind"
+    ],
     "jlptLevel": "N5",
     "frequency": 47,
     "strokes": 4,
@@ -1959,10 +2515,17 @@
     "id": "n5-048",
     "kanji": "体",
     "readings": {
-      "on": ["たい", "てい"],
-      "kun": ["からだ"]
+      "on": [
+        "たい",
+        "てい"
+      ],
+      "kun": [
+        "からだ"
+      ]
     },
-    "meanings": ["body"],
+    "meanings": [
+      "body"
+    ],
     "jlptLevel": "N5",
     "frequency": 48,
     "strokes": 7,
@@ -1995,10 +2558,20 @@
     "id": "n5-049",
     "kanji": "家",
     "readings": {
-      "on": ["か", "け"],
-      "kun": ["いえ", "や", "うち"]
+      "on": [
+        "か",
+        "け"
+      ],
+      "kun": [
+        "いえ",
+        "や",
+        "うち"
+      ]
     },
-    "meanings": ["house", "home"],
+    "meanings": [
+      "house",
+      "home"
+    ],
     "jlptLevel": "N5",
     "frequency": 49,
     "strokes": 10,
@@ -2031,10 +2604,14 @@
     "id": "n5-050",
     "kanji": "学校",
     "readings": {
-      "on": ["がっこう"],
+      "on": [
+        "がっこう"
+      ],
       "kun": []
     },
-    "meanings": ["school"],
+    "meanings": [
+      "school"
+    ],
     "jlptLevel": "N5",
     "frequency": 50,
     "strokes": 8,
@@ -2067,10 +2644,21 @@
     "id": "n5-051",
     "kanji": "行",
     "readings": {
-      "on": ["こう", "ぎょう"],
-      "kun": ["い-", "ゆ-", "おこな-"]
+      "on": [
+        "こう",
+        "ぎょう"
+      ],
+      "kun": [
+        "い-",
+        "ゆ-",
+        "おこな-"
+      ]
     },
-    "meanings": ["go", "walk", "travel"],
+    "meanings": [
+      "go",
+      "walk",
+      "travel"
+    ],
     "jlptLevel": "N5",
     "frequency": 51,
     "strokes": 6,
@@ -2103,10 +2691,19 @@
     "id": "n5-052",
     "kanji": "来",
     "readings": {
-      "on": ["らい"],
-      "kun": ["く-", "きた-", "こ-"]
+      "on": [
+        "らい"
+      ],
+      "kun": [
+        "く-",
+        "きた-",
+        "こ-"
+      ]
     },
-    "meanings": ["come", "arrive"],
+    "meanings": [
+      "come",
+      "arrive"
+    ],
     "jlptLevel": "N5",
     "frequency": 52,
     "strokes": 7,
@@ -2139,10 +2736,20 @@
     "id": "n5-053",
     "kanji": "見",
     "readings": {
-      "on": ["けん"],
-      "kun": ["み-", "みえる", "みせる"]
+      "on": [
+        "けん"
+      ],
+      "kun": [
+        "み-",
+        "みえる",
+        "みせる"
+      ]
     },
-    "meanings": ["see", "look", "watch"],
+    "meanings": [
+      "see",
+      "look",
+      "watch"
+    ],
     "jlptLevel": "N5",
     "frequency": 53,
     "strokes": 7,
@@ -2175,10 +2782,20 @@
     "id": "n5-054",
     "kanji": "聞",
     "readings": {
-      "on": ["ぶん", "もん"],
-      "kun": ["き-", "きこえる"]
+      "on": [
+        "ぶん",
+        "もん"
+      ],
+      "kun": [
+        "き-",
+        "きこえる"
+      ]
     },
-    "meanings": ["hear", "listen", "ask"],
+    "meanings": [
+      "hear",
+      "listen",
+      "ask"
+    ],
     "jlptLevel": "N5",
     "frequency": 54,
     "strokes": 14,
@@ -2211,10 +2828,19 @@
     "id": "n5-055",
     "kanji": "話",
     "readings": {
-      "on": ["わ"],
-      "kun": ["はな-", "はなし"]
+      "on": [
+        "わ"
+      ],
+      "kun": [
+        "はな-",
+        "はなし"
+      ]
     },
-    "meanings": ["talk", "speak", "story"],
+    "meanings": [
+      "talk",
+      "speak",
+      "story"
+    ],
     "jlptLevel": "N5",
     "frequency": 55,
     "strokes": 13,
@@ -2247,10 +2873,17 @@
     "id": "n5-056",
     "kanji": "読",
     "readings": {
-      "on": ["どく", "とく"],
-      "kun": ["よ-"]
+      "on": [
+        "どく",
+        "とく"
+      ],
+      "kun": [
+        "よ-"
+      ]
     },
-    "meanings": ["read"],
+    "meanings": [
+      "read"
+    ],
     "jlptLevel": "N5",
     "frequency": 56,
     "strokes": 14,
@@ -2283,10 +2916,16 @@
     "id": "n5-057",
     "kanji": "書",
     "readings": {
-      "on": ["しょ"],
-      "kun": ["か-"]
+      "on": [
+        "しょ"
+      ],
+      "kun": [
+        "か-"
+      ]
     },
-    "meanings": ["write"],
+    "meanings": [
+      "write"
+    ],
     "jlptLevel": "N5",
     "frequency": 57,
     "strokes": 10,
@@ -2319,10 +2958,16 @@
     "id": "n5-058",
     "kanji": "買",
     "readings": {
-      "on": ["ばい"],
-      "kun": ["か-"]
+      "on": [
+        "ばい"
+      ],
+      "kun": [
+        "か-"
+      ]
     },
-    "meanings": ["buy"],
+    "meanings": [
+      "buy"
+    ],
     "jlptLevel": "N5",
     "frequency": 58,
     "strokes": 12,
@@ -2355,10 +3000,16 @@
     "id": "n5-059",
     "kanji": "売",
     "readings": {
-      "on": ["ばい"],
-      "kun": ["う-"]
+      "on": [
+        "ばい"
+      ],
+      "kun": [
+        "う-"
+      ]
     },
-    "meanings": ["sell"],
+    "meanings": [
+      "sell"
+    ],
     "jlptLevel": "N5",
     "frequency": 59,
     "strokes": 7,
@@ -2391,10 +3042,20 @@
     "id": "n5-060",
     "kanji": "食",
     "readings": {
-      "on": ["しょく", "じき"],
-      "kun": ["た-", "く-", "くい-"]
+      "on": [
+        "しょく",
+        "じき"
+      ],
+      "kun": [
+        "た-",
+        "く-",
+        "くい-"
+      ]
     },
-    "meanings": ["eat", "food"],
+    "meanings": [
+      "eat",
+      "food"
+    ],
     "jlptLevel": "N5",
     "frequency": 60,
     "strokes": 9,
@@ -2427,10 +3088,16 @@
     "id": "n5-061",
     "kanji": "飲",
     "readings": {
-      "on": ["いん"],
-      "kun": ["の-"]
+      "on": [
+        "いん"
+      ],
+      "kun": [
+        "の-"
+      ]
     },
-    "meanings": ["drink"],
+    "meanings": [
+      "drink"
+    ],
     "jlptLevel": "N5",
     "frequency": 61,
     "strokes": 12,
@@ -2463,10 +3130,18 @@
     "id": "n5-062",
     "kanji": "寝",
     "readings": {
-      "on": ["しん"],
-      "kun": ["ね-", "ねる"]
+      "on": [
+        "しん"
+      ],
+      "kun": [
+        "ね-",
+        "ねる"
+      ]
     },
-    "meanings": ["sleep", "lie down"],
+    "meanings": [
+      "sleep",
+      "lie down"
+    ],
     "jlptLevel": "N5",
     "frequency": 62,
     "strokes": 13,
@@ -2499,10 +3174,20 @@
     "id": "n5-063",
     "kanji": "起",
     "readings": {
-      "on": ["き"],
-      "kun": ["お-", "おきる", "おこ-"]
+      "on": [
+        "き"
+      ],
+      "kun": [
+        "お-",
+        "おきる",
+        "おこ-"
+      ]
     },
-    "meanings": ["wake up", "get up", "occur"],
+    "meanings": [
+      "wake up",
+      "get up",
+      "occur"
+    ],
     "jlptLevel": "N5",
     "frequency": 63,
     "strokes": 10,
@@ -2535,10 +3220,20 @@
     "id": "n5-064",
     "kanji": "立",
     "readings": {
-      "on": ["りつ", "りゅう"],
-      "kun": ["た-", "たつ", "たて-"]
+      "on": [
+        "りつ",
+        "りゅう"
+      ],
+      "kun": [
+        "た-",
+        "たつ",
+        "たて-"
+      ]
     },
-    "meanings": ["stand", "establish"],
+    "meanings": [
+      "stand",
+      "establish"
+    ],
     "jlptLevel": "N5",
     "frequency": 64,
     "strokes": 5,
@@ -2571,10 +3266,17 @@
     "id": "n5-065",
     "kanji": "座",
     "readings": {
-      "on": ["ざ"],
-      "kun": ["すわ-", "すわる"]
+      "on": [
+        "ざ"
+      ],
+      "kun": [
+        "すわ-",
+        "すわる"
+      ]
     },
-    "meanings": ["sit"],
+    "meanings": [
+      "sit"
+    ],
     "jlptLevel": "N5",
     "frequency": 65,
     "strokes": 10,
@@ -2607,10 +3309,19 @@
     "id": "n5-066",
     "kanji": "歩",
     "readings": {
-      "on": ["ほ", "ぶ", "ふ"],
-      "kun": ["ある-", "あゆ-"]
+      "on": [
+        "ほ",
+        "ぶ",
+        "ふ"
+      ],
+      "kun": [
+        "ある-",
+        "あゆ-"
+      ]
     },
-    "meanings": ["walk"],
+    "meanings": [
+      "walk"
+    ],
     "jlptLevel": "N5",
     "frequency": 66,
     "strokes": 8,
@@ -2643,10 +3354,16 @@
     "id": "n5-067",
     "kanji": "走",
     "readings": {
-      "on": ["そう"],
-      "kun": ["はし-"]
+      "on": [
+        "そう"
+      ],
+      "kun": [
+        "はし-"
+      ]
     },
-    "meanings": ["run"],
+    "meanings": [
+      "run"
+    ],
     "jlptLevel": "N5",
     "frequency": 67,
     "strokes": 7,
@@ -2679,10 +3396,16 @@
     "id": "n5-068",
     "kanji": "泳",
     "readings": {
-      "on": ["えい"],
-      "kun": ["およ-"]
+      "on": [
+        "えい"
+      ],
+      "kun": [
+        "およ-"
+      ]
     },
-    "meanings": ["swim"],
+    "meanings": [
+      "swim"
+    ],
     "jlptLevel": "N5",
     "frequency": 68,
     "strokes": 8,
@@ -2715,10 +3438,17 @@
     "id": "n5-069",
     "kanji": "飛",
     "readings": {
-      "on": ["ひ"],
-      "kun": ["と-", "とぶ"]
+      "on": [
+        "ひ"
+      ],
+      "kun": [
+        "と-",
+        "とぶ"
+      ]
     },
-    "meanings": ["fly"],
+    "meanings": [
+      "fly"
+    ],
     "jlptLevel": "N5",
     "frequency": 69,
     "strokes": 9,
@@ -2751,10 +3481,18 @@
     "id": "n5-070",
     "kanji": "乗",
     "readings": {
-      "on": ["じょう"],
-      "kun": ["の-", "のる"]
+      "on": [
+        "じょう"
+      ],
+      "kun": [
+        "の-",
+        "のる"
+      ]
     },
-    "meanings": ["ride", "get on"],
+    "meanings": [
+      "ride",
+      "get on"
+    ],
     "jlptLevel": "N5",
     "frequency": 70,
     "strokes": 9,
@@ -2787,10 +3525,19 @@
     "id": "n5-071",
     "kanji": "白",
     "readings": {
-      "on": ["はく", "びゃく"],
-      "kun": ["しろ", "しろ-", "しら-"]
+      "on": [
+        "はく",
+        "びゃく"
+      ],
+      "kun": [
+        "しろ",
+        "しろ-",
+        "しら-"
+      ]
     },
-    "meanings": ["white"],
+    "meanings": [
+      "white"
+    ],
     "jlptLevel": "N5",
     "frequency": 71,
     "strokes": 5,
@@ -2823,10 +3570,17 @@
     "id": "n5-072",
     "kanji": "黒",
     "readings": {
-      "on": ["こく"],
-      "kun": ["くろ", "くろ-"]
+      "on": [
+        "こく"
+      ],
+      "kun": [
+        "くろ",
+        "くろ-"
+      ]
     },
-    "meanings": ["black"],
+    "meanings": [
+      "black"
+    ],
     "jlptLevel": "N5",
     "frequency": 72,
     "strokes": 11,
@@ -2859,10 +3613,19 @@
     "id": "n5-073",
     "kanji": "赤",
     "readings": {
-      "on": ["せき", "しゃく"],
-      "kun": ["あか", "あか-", "あか-"]
+      "on": [
+        "せき",
+        "しゃく"
+      ],
+      "kun": [
+        "あか",
+        "あか-",
+        "あか-"
+      ]
     },
-    "meanings": ["red"],
+    "meanings": [
+      "red"
+    ],
     "jlptLevel": "N5",
     "frequency": 73,
     "strokes": 7,
@@ -2895,10 +3658,19 @@
     "id": "n5-074",
     "kanji": "青",
     "readings": {
-      "on": ["せい", "しょう"],
-      "kun": ["あお", "あお-"]
+      "on": [
+        "せい",
+        "しょう"
+      ],
+      "kun": [
+        "あお",
+        "あお-"
+      ]
     },
-    "meanings": ["blue", "green"],
+    "meanings": [
+      "blue",
+      "green"
+    ],
     "jlptLevel": "N5",
     "frequency": 74,
     "strokes": 8,
@@ -2931,10 +3703,17 @@
     "id": "n5-075",
     "kanji": "緑",
     "readings": {
-      "on": ["りょく", "ろく"],
-      "kun": ["みどり"]
+      "on": [
+        "りょく",
+        "ろく"
+      ],
+      "kun": [
+        "みどり"
+      ]
     },
-    "meanings": ["green"],
+    "meanings": [
+      "green"
+    ],
     "jlptLevel": "N5",
     "frequency": 75,
     "strokes": 14,
@@ -2967,10 +3746,19 @@
     "id": "n5-076",
     "kanji": "高",
     "readings": {
-      "on": ["こう"],
-      "kun": ["たか-", "たかい", "たか-"]
+      "on": [
+        "こう"
+      ],
+      "kun": [
+        "たか-",
+        "たかい",
+        "たか-"
+      ]
     },
-    "meanings": ["high", "expensive"],
+    "meanings": [
+      "high",
+      "expensive"
+    ],
     "jlptLevel": "N5",
     "frequency": 76,
     "strokes": 10,
@@ -3003,10 +3791,18 @@
     "id": "n5-077",
     "kanji": "安",
     "readings": {
-      "on": ["あん"],
-      "kun": ["やす-", "やすい"]
+      "on": [
+        "あん"
+      ],
+      "kun": [
+        "やす-",
+        "やすい"
+      ]
     },
-    "meanings": ["cheap", "safe"],
+    "meanings": [
+      "cheap",
+      "safe"
+    ],
     "jlptLevel": "N5",
     "frequency": 77,
     "strokes": 6,
@@ -3039,10 +3835,19 @@
     "id": "n5-078",
     "kanji": "新",
     "readings": {
-      "on": ["しん"],
-      "kun": ["あたら-", "あたらしい", "あら-", "にい-"]
+      "on": [
+        "しん"
+      ],
+      "kun": [
+        "あたら-",
+        "あたらしい",
+        "あら-",
+        "にい-"
+      ]
     },
-    "meanings": ["new"],
+    "meanings": [
+      "new"
+    ],
     "jlptLevel": "N5",
     "frequency": 78,
     "strokes": 13,
@@ -3075,10 +3880,17 @@
     "id": "n5-079",
     "kanji": "古",
     "readings": {
-      "on": ["こ"],
-      "kun": ["ふる-", "ふるい"]
+      "on": [
+        "こ"
+      ],
+      "kun": [
+        "ふる-",
+        "ふるい"
+      ]
     },
-    "meanings": ["old"],
+    "meanings": [
+      "old"
+    ],
     "jlptLevel": "N5",
     "frequency": 79,
     "strokes": 5,
@@ -3111,10 +3923,18 @@
     "id": "n5-080",
     "kanji": "長",
     "readings": {
-      "on": ["ちょう"],
-      "kun": ["なが-", "ながい"]
+      "on": [
+        "ちょう"
+      ],
+      "kun": [
+        "なが-",
+        "ながい"
+      ]
     },
-    "meanings": ["long", "leader"],
+    "meanings": [
+      "long",
+      "leader"
+    ],
     "jlptLevel": "N5",
     "frequency": 80,
     "strokes": 8,
@@ -3147,10 +3967,17 @@
     "id": "n5-081",
     "kanji": "短",
     "readings": {
-      "on": ["たん"],
-      "kun": ["みじか-", "みじかい"]
+      "on": [
+        "たん"
+      ],
+      "kun": [
+        "みじか-",
+        "みじかい"
+      ]
     },
-    "meanings": ["short"],
+    "meanings": [
+      "short"
+    ],
     "jlptLevel": "N5",
     "frequency": 81,
     "strokes": 12,
@@ -3183,10 +4010,19 @@
     "id": "n5-082",
     "kanji": "広",
     "readings": {
-      "on": ["こう"],
-      "kun": ["ひろ-", "ひろい", "ひろ-"]
+      "on": [
+        "こう"
+      ],
+      "kun": [
+        "ひろ-",
+        "ひろい",
+        "ひろ-"
+      ]
     },
-    "meanings": ["wide", "broad"],
+    "meanings": [
+      "wide",
+      "broad"
+    ],
     "jlptLevel": "N5",
     "frequency": 82,
     "strokes": 5,
@@ -3219,10 +4055,17 @@
     "id": "n5-083",
     "kanji": "狭",
     "readings": {
-      "on": ["きょう"],
-      "kun": ["せま-", "せまい"]
+      "on": [
+        "きょう"
+      ],
+      "kun": [
+        "せま-",
+        "せまい"
+      ]
     },
-    "meanings": ["narrow"],
+    "meanings": [
+      "narrow"
+    ],
     "jlptLevel": "N5",
     "frequency": 83,
     "strokes": 9,
@@ -3255,10 +4098,18 @@
     "id": "n5-084",
     "kanji": "多",
     "readings": {
-      "on": ["た"],
-      "kun": ["おお-", "おおい"]
+      "on": [
+        "た"
+      ],
+      "kun": [
+        "おお-",
+        "おおい"
+      ]
     },
-    "meanings": ["many", "much"],
+    "meanings": [
+      "many",
+      "much"
+    ],
     "jlptLevel": "N5",
     "frequency": 84,
     "strokes": 6,
@@ -3291,10 +4142,19 @@
     "id": "n5-085",
     "kanji": "少",
     "readings": {
-      "on": ["しょう"],
-      "kun": ["すく-", "すこ-", "すくない"]
+      "on": [
+        "しょう"
+      ],
+      "kun": [
+        "すく-",
+        "すこ-",
+        "すくない"
+      ]
     },
-    "meanings": ["few", "little"],
+    "meanings": [
+      "few",
+      "little"
+    ],
     "jlptLevel": "N5",
     "frequency": 85,
     "strokes": 4,
@@ -3327,10 +4187,19 @@
     "id": "n5-086",
     "kanji": "好",
     "readings": {
-      "on": ["こう"],
-      "kun": ["す-", "この-", "すき"]
+      "on": [
+        "こう"
+      ],
+      "kun": [
+        "す-",
+        "この-",
+        "すき"
+      ]
     },
-    "meanings": ["like", "good"],
+    "meanings": [
+      "like",
+      "good"
+    ],
     "jlptLevel": "N5",
     "frequency": 86,
     "strokes": 6,
@@ -3363,10 +4232,19 @@
     "id": "n5-087",
     "kanji": "悪",
     "readings": {
-      "on": ["あく", "お"],
-      "kun": ["わる-", "わるい"]
+      "on": [
+        "あく",
+        "お"
+      ],
+      "kun": [
+        "わる-",
+        "わるい"
+      ]
     },
-    "meanings": ["bad", "evil"],
+    "meanings": [
+      "bad",
+      "evil"
+    ],
     "jlptLevel": "N5",
     "frequency": 87,
     "strokes": 11,
@@ -3399,10 +4277,17 @@
     "id": "n5-088",
     "kanji": "忙",
     "readings": {
-      "on": ["ぼう"],
-      "kun": ["いそが-", "いそがしい"]
+      "on": [
+        "ぼう"
+      ],
+      "kun": [
+        "いそが-",
+        "いそがしい"
+      ]
     },
-    "meanings": ["busy"],
+    "meanings": [
+      "busy"
+    ],
     "jlptLevel": "N5",
     "frequency": 88,
     "strokes": 6,
@@ -3435,10 +4320,19 @@
     "id": "n5-089",
     "kanji": "楽",
     "readings": {
-      "on": ["がく", "らく"],
-      "kun": ["たの-", "たのしい"]
+      "on": [
+        "がく",
+        "らく"
+      ],
+      "kun": [
+        "たの-",
+        "たのしい"
+      ]
     },
-    "meanings": ["fun", "easy"],
+    "meanings": [
+      "fun",
+      "easy"
+    ],
     "jlptLevel": "N5",
     "frequency": 89,
     "strokes": 13,
@@ -3471,10 +4365,18 @@
     "id": "n5-090",
     "kanji": "難",
     "readings": {
-      "on": ["なん", "だん"],
-      "kun": ["むずか-", "むずかしい"]
+      "on": [
+        "なん",
+        "だん"
+      ],
+      "kun": [
+        "むずか-",
+        "むずかしい"
+      ]
     },
-    "meanings": ["difficult"],
+    "meanings": [
+      "difficult"
+    ],
     "jlptLevel": "N5",
     "frequency": 90,
     "strokes": 18,
@@ -3507,10 +4409,18 @@
     "id": "n5-091",
     "kanji": "易",
     "readings": {
-      "on": ["い", "えき"],
-      "kun": ["やさ-", "やすい"]
+      "on": [
+        "い",
+        "えき"
+      ],
+      "kun": [
+        "やさ-",
+        "やすい"
+      ]
     },
-    "meanings": ["easy"],
+    "meanings": [
+      "easy"
+    ],
     "jlptLevel": "N5",
     "frequency": 91,
     "strokes": 8,
@@ -3543,10 +4453,20 @@
     "id": "n5-092",
     "kanji": "重",
     "readings": {
-      "on": ["じゅう", "ちょう"],
-      "kun": ["おも-", "おもい", "かさ-"]
+      "on": [
+        "じゅう",
+        "ちょう"
+      ],
+      "kun": [
+        "おも-",
+        "おもい",
+        "かさ-"
+      ]
     },
-    "meanings": ["heavy", "important"],
+    "meanings": [
+      "heavy",
+      "important"
+    ],
     "jlptLevel": "N5",
     "frequency": 92,
     "strokes": 9,
@@ -3579,10 +4499,17 @@
     "id": "n5-093",
     "kanji": "軽",
     "readings": {
-      "on": ["けい"],
-      "kun": ["かる-", "かるい"]
+      "on": [
+        "けい"
+      ],
+      "kun": [
+        "かる-",
+        "かるい"
+      ]
     },
-    "meanings": ["light"],
+    "meanings": [
+      "light"
+    ],
     "jlptLevel": "N5",
     "frequency": 93,
     "strokes": 12,
@@ -3615,10 +4542,20 @@
     "id": "n5-094",
     "kanji": "早",
     "readings": {
-      "on": ["そう", "さっ"],
-      "kun": ["はや-", "はやい", "はや-"]
+      "on": [
+        "そう",
+        "さっ"
+      ],
+      "kun": [
+        "はや-",
+        "はやい",
+        "はや-"
+      ]
     },
-    "meanings": ["early", "fast"],
+    "meanings": [
+      "early",
+      "fast"
+    ],
     "jlptLevel": "N5",
     "frequency": 94,
     "strokes": 6,
@@ -3651,10 +4588,19 @@
     "id": "n5-095",
     "kanji": "遅",
     "readings": {
-      "on": ["ち"],
-      "kun": ["おそ-", "おそい", "おく-"]
+      "on": [
+        "ち"
+      ],
+      "kun": [
+        "おそ-",
+        "おそい",
+        "おく-"
+      ]
     },
-    "meanings": ["late", "slow"],
+    "meanings": [
+      "late",
+      "slow"
+    ],
     "jlptLevel": "N5",
     "frequency": 95,
     "strokes": 12,
@@ -3687,10 +4633,18 @@
     "id": "n5-096",
     "kanji": "速",
     "readings": {
-      "on": ["そく"],
-      "kun": ["はや-", "はやい"]
+      "on": [
+        "そく"
+      ],
+      "kun": [
+        "はや-",
+        "はやい"
+      ]
     },
-    "meanings": ["fast", "quick"],
+    "meanings": [
+      "fast",
+      "quick"
+    ],
     "jlptLevel": "N5",
     "frequency": 96,
     "strokes": 10,
@@ -3723,10 +4677,19 @@
     "id": "n5-097",
     "kanji": "冷",
     "readings": {
-      "on": ["れい"],
-      "kun": ["つめ-", "つめたい", "ひ-", "さ-"]
+      "on": [
+        "れい"
+      ],
+      "kun": [
+        "つめ-",
+        "つめたい",
+        "ひ-",
+        "さ-"
+      ]
     },
-    "meanings": ["cold"],
+    "meanings": [
+      "cold"
+    ],
     "jlptLevel": "N5",
     "frequency": 97,
     "strokes": 7,
@@ -3759,10 +4722,17 @@
     "id": "n5-098",
     "kanji": "暖",
     "readings": {
-      "on": ["だん"],
-      "kun": ["あたた-", "あたたかい"]
+      "on": [
+        "だん"
+      ],
+      "kun": [
+        "あたた-",
+        "あたたかい"
+      ]
     },
-    "meanings": ["warm"],
+    "meanings": [
+      "warm"
+    ],
     "jlptLevel": "N5",
     "frequency": 98,
     "strokes": 13,
@@ -3795,10 +4765,18 @@
     "id": "n5-099",
     "kanji": "熱",
     "readings": {
-      "on": ["ねつ"],
-      "kun": ["あつ-", "あつい"]
+      "on": [
+        "ねつ"
+      ],
+      "kun": [
+        "あつ-",
+        "あつい"
+      ]
     },
-    "meanings": ["hot", "fever"],
+    "meanings": [
+      "hot",
+      "fever"
+    ],
     "jlptLevel": "N5",
     "frequency": 99,
     "strokes": 15,
@@ -3831,10 +4809,17 @@
     "id": "n5-100",
     "kanji": "寒",
     "readings": {
-      "on": ["かん"],
-      "kun": ["さむ-", "さむい"]
+      "on": [
+        "かん"
+      ],
+      "kun": [
+        "さむ-",
+        "さむい"
+      ]
     },
-    "meanings": ["cold"],
+    "meanings": [
+      "cold"
+    ],
     "jlptLevel": "N5",
     "frequency": 100,
     "strokes": 12,
@@ -3867,10 +4852,17 @@
     "id": "n5-101",
     "kanji": "暑",
     "readings": {
-      "on": ["しょ"],
-      "kun": ["あつ-", "あつい"]
+      "on": [
+        "しょ"
+      ],
+      "kun": [
+        "あつ-",
+        "あつい"
+      ]
     },
-    "meanings": ["hot"],
+    "meanings": [
+      "hot"
+    ],
     "jlptLevel": "N5",
     "frequency": 101,
     "strokes": 13,
@@ -3903,10 +4895,17 @@
     "id": "n5-102",
     "kanji": "涼",
     "readings": {
-      "on": ["りょう"],
-      "kun": ["すず-", "すずしい"]
+      "on": [
+        "りょう"
+      ],
+      "kun": [
+        "すず-",
+        "すずしい"
+      ]
     },
-    "meanings": ["cool"],
+    "meanings": [
+      "cool"
+    ],
     "jlptLevel": "N5",
     "frequency": 102,
     "strokes": 11,
@@ -3939,10 +4938,18 @@
     "id": "n5-103",
     "kanji": "温",
     "readings": {
-      "on": ["おん"],
-      "kun": ["あたた-", "あたたかい", "ぬく-"]
+      "on": [
+        "おん"
+      ],
+      "kun": [
+        "あたた-",
+        "あたたかい",
+        "ぬく-"
+      ]
     },
-    "meanings": ["warm"],
+    "meanings": [
+      "warm"
+    ],
     "jlptLevel": "N5",
     "frequency": 103,
     "strokes": 12,

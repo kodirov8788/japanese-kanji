@@ -1,0 +1,1406 @@
+[
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "\"new\" sumo (for women) conducted on a mat, wearing leotards instead of a mawashi"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しんすもう",
+        "written": "新相撲"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Indian wrestling"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "あしずもう",
+        "written": "足相撲"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "International Sumo Federation (highest body in amateur sumo)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "こくさいすもうれんめい",
+        "written": "国際相撲連盟"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Japan Amateur Sumo Union"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "にほんすもうれんめい",
+        "written": "日本相撲連盟"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "amateur sumo"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "アマずもう",
+        "written": "アマ相撲"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "amateur sumo wrestling"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "くさずもう",
+        "written": "草相撲"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "beat to death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ぼくさつ",
+        "written": "撲殺"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "children's sumo"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "こどもずもう",
+        "written": "子供相撲"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "children's sumo"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "わんぱくずもう",
+        "written": "腕白相撲"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "eradication of corruption"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おしょくぼくめつ",
+        "written": "汚職撲滅"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "exhibition match held at a wrestler's retirement ceremony"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "いんたいずもう",
+        "written": "引退相撲"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "fund-raising tournaments (during the Edo period)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "かんじんずもう",
+        "written": "勧進相撲"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "game in which two people hop on one foot and push each other"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "さぎずもう",
+        "written": "鷺相撲"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "match held in front of the Emperor"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "じょうらんずもう",
+        "written": "上覧相撲"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "match that determines if a rikishi will have more wins than losses"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "きゅうきんずもう",
+        "written": "給金相撲"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "match with a break"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "みずいりのすもう",
+        "written": "水入りの相撲"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "part of the shrine dedication ceremony at the Hachiman shrine in Yoshitomi, where articulated wooden dolls enact a sumo bout"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "かみずもう",
+        "written": "神相撲"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "professional sumo wrestling"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news1",
+          "nf06"
+        ],
+        "pronounced": "おおずもう",
+        "written": "大相撲"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "railroading an opponent straight out of the ring"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "でんしゃみちすもう",
+        "written": "電車道相撲"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "ritual matches held at a shrine"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ほうのうずもう",
+        "written": "奉納相撲"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "stable"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "すもうべや",
+        "written": "相撲部屋"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "sumo performed as part of Shinto harvest festivities"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しんじずもう",
+        "written": "神事相撲"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "sumo performed at ancient Japanese imperial court"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "せちえずもう",
+        "written": "節会相撲"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "sumo wrestler"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おすもうさん",
+        "written": "お相撲さん"
+      },
+      {
+        "priorities": [],
+        "pronounced": "おすもうさん",
+        "written": "御相撲さん"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "sumo wrestling using strength instead of technique"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ちからずもう",
+        "written": "力相撲"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "thumb wrestling"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ゆびずもう",
+        "written": "指相撲"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "tournament other than the six major tournaments"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "はなずもう",
+        "written": "花相撲"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "wrestling in which both wrestlers grasp the other's belt with both hands"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news2",
+          "nf33"
+        ],
+        "pronounced": "よつずもう",
+        "written": "四つ相撲"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "wrestling performed in a sitting position"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "すわりずもう",
+        "written": "座り相撲"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "wrestling performed in imperial presence"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "てんらんずもう",
+        "written": "天覧相撲"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "wrestling performed in the presence of the empress or crown prince"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "たいらんずもう",
+        "written": "台覧相撲"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "writing style used to write the rankings"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "すもうじ",
+        "written": "相撲字"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "writing style used to write the rankings"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "すもうもじ",
+        "written": "相撲文字"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Japan Sumo Association",
+          "JSA"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "にほんすもうきょうかい",
+        "written": "日本相撲協会"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Mongolian wrestling",
+          "Mongolian sumo"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "モンゴルずもう",
+        "written": "モンゴル相撲"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "bout that goes according to a wrestler's strategy",
+          "match that goes according to one's plan"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ちゅうもんずもう",
+        "written": "注文相撲"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "bruise",
+          "contusion"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "だぼくしょう",
+        "written": "打撲傷"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "exterminatory measure",
+          "eradication campaign"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ぼくめつうんどう",
+        "written": "撲滅運動"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "facing one's opponent head-on and winning via overwhelmingly superior strength or skill",
+          "match in which a yokozuna overpowers his opponent"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "よこづなずもう",
+        "written": "横綱相撲"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "female sumo wrestling",
+          "female sumo wrestler"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おんなずもう",
+        "written": "女相撲"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "insect fighting",
+          "bug fighting"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "むしずもう",
+        "written": "虫相撲"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "is no match for",
+          "can't hold a candle to"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "すもうにならない",
+        "written": "相撲にならない"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "local wrestler",
+          "crowd favorite (favourite)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ごとうちずもう",
+        "written": "御当地相撲"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "paper sumo",
+          "children's game of sumo played with paper cutouts of wrestlers"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "かみずもう",
+        "written": "紙ずもう"
+      },
+      {
+        "priorities": [],
+        "pronounced": "かみずもう",
+        "written": "紙相撲"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "preliminary bouts with unranked wrestlers",
+          "unranked wrestlers"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "まえずもう",
+        "written": "前相撲"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "pushing sumo",
+          "classic way of wrestling without using the belt"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おしずもう",
+        "written": "押し相撲"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "sumo world",
+          "sumo wrestling community"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "すもうかい",
+        "written": "相撲界"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "sumo-themed song",
+          "song sung at sumo events"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "すもうじんく",
+        "written": "相撲甚句"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "wrestler",
+          "rikishi"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "すまいびと",
+        "written": "相撲人"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "wrestler",
+          "rikishi"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news2",
+          "nf42",
+          "spec2"
+        ],
+        "pronounced": "すまいとり",
+        "written": "相撲取り"
+      },
+      {
+        "priorities": [
+          "news2",
+          "nf42",
+          "spec2"
+        ],
+        "pronounced": "すもうとり",
+        "written": "相撲取り"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "blow",
+          "hit (on the body)",
+          "beating"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "ichi1",
+          "news1",
+          "nf16"
+        ],
+        "pronounced": "だぼく",
+        "written": "打撲"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "shirizumo",
+          "back-to-back sumo",
+          "game in which players push each other with their buttocks"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しりずもう",
+        "written": "尻相撲"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to knock down",
+          "to slap down",
+          "to floor"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "はりたおす",
+        "written": "はり倒す"
+      },
+      {
+        "priorities": [],
+        "pronounced": "はりたおす",
+        "written": "張りたおす"
+      },
+      {
+        "priorities": [],
+        "pronounced": "はりたおす",
+        "written": "張り倒す"
+      },
+      {
+        "priorities": [],
+        "pronounced": "はりたおす",
+        "written": "張倒す"
+      },
+      {
+        "priorities": [],
+        "pronounced": "はりたおす",
+        "written": "撲り倒す"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to profit at someone else's expense",
+          "to rob Peter to pay Paul",
+          "to take risks with other people's money"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "たにんのふんどしですもうをとる",
+        "written": "他人のふんどしで相撲を取る"
+      },
+      {
+        "priorities": [],
+        "pronounced": "たにんのふんどしですもうをとる",
+        "written": "他人の褌で相撲を取る"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to profit at someone else's expense",
+          "to rob Peter to pay Paul",
+          "to take risks with other people's money"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ひとのふんどしですもうをとる",
+        "written": "ひとのふんどしで相撲を取る"
+      },
+      {
+        "priorities": [],
+        "pronounced": "ひとのふんどしですもうをとる",
+        "written": "人のふんどしで相撲を取る"
+      },
+      {
+        "priorities": [],
+        "pronounced": "ひとのふんどしですもうをとる",
+        "written": "人の褌で相撲を取る"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "eradication",
+          "extermination",
+          "destruction",
+          "suppression"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "ichi1",
+          "news1",
+          "nf18"
+        ],
+        "pronounced": "ぼくめつ",
+        "written": "撲滅"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to strike",
+          "to hit",
+          "to beat",
+          "to punch"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "なぐる",
+        "written": "撲る"
+      },
+      {
+        "priorities": [],
+        "pronounced": "なぐる",
+        "written": "擲る"
+      },
+      {
+        "priorities": [
+          "ichi1",
+          "news1",
+          "nf11"
+        ],
+        "pronounced": "なぐる",
+        "written": "殴る"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to ultimately fail despite being in a favourable position",
+          "to fail at the last moment",
+          "to win the battle but lose the war",
+          "to have the upper hand in sumo (technique) but lose the match"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "すもうにかってしょうぶにまける",
+        "written": "相撲に勝って勝負に負ける"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "amateur wrestling on a street corner or in an empty field (esp. in autumn)"
+        ]
+      },
+      {
+        "glosses": [
+          "wrestling show in a roadside tent"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "つじずもう",
+        "written": "辻相撲"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "kissing"
+        ]
+      },
+      {
+        "glosses": [
+          "war of words",
+          "verbal fisticuffs"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "くちずもう",
+        "written": "口相撲"
+      },
+      {
+        "priorities": [],
+        "pronounced": "くちずもう",
+        "written": "口角力"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "mimicking a wrestling match by oneself (as a form of street performance, etc.)"
+        ]
+      },
+      {
+        "glosses": [
+          "fighting windmills",
+          "tilting at windmills"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ひとりずもう",
+        "written": "ひとり相撲"
+      },
+      {
+        "priorities": [],
+        "pronounced": "ひとりずもう",
+        "written": "独り相撲"
+      },
+      {
+        "priorities": [
+          "news2",
+          "nf38"
+        ],
+        "pronounced": "ひとりずもう",
+        "written": "一人相撲"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "sumo wrestling"
+        ]
+      },
+      {
+        "glosses": [
+          "wrestler",
+          "rikishi"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "すまい",
+        "written": "角力"
+      },
+      {
+        "priorities": [],
+        "pronounced": "すもう",
+        "written": "角力"
+      },
+      {
+        "priorities": [
+          "ichi1",
+          "news1",
+          "nf03"
+        ],
+        "pronounced": "すまい",
+        "written": "相撲"
+      },
+      {
+        "priorities": [
+          "ichi1",
+          "news1",
+          "nf03"
+        ],
+        "pronounced": "すもう",
+        "written": "相撲"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to take part in sumo"
+        ]
+      },
+      {
+        "glosses": [
+          "to wrestle with",
+          "to contest an issue"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "すもうをとる",
+        "written": "相撲を取る"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "wrestling relying on brute strength (of the arms), rather than skill"
+        ]
+      },
+      {
+        "glosses": [
+          "arm wrestling",
+          "Indian wrestling"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "うでずもう",
+        "written": "腕ずもう"
+      },
+      {
+        "priorities": [],
+        "pronounced": "うでずもう",
+        "written": "腕相撲"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to gamble"
+        ]
+      },
+      {
+        "glosses": [
+          "to make (a speech)",
+          "to give (an address)"
+        ]
+      },
+      {
+        "glosses": [
+          "to hit (someone)",
+          "to strike",
+          "to beat"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ぶつ",
+        "written": "打つ"
+      },
+      {
+        "priorities": [],
+        "pronounced": "ぶつ",
+        "written": "撃つ"
+      },
+      {
+        "priorities": [],
+        "pronounced": "ぶつ",
+        "written": "撲つ"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to beat (rhythmically, e.g. pulse, waves, etc.)"
+        ]
+      },
+      {
+        "glosses": [
+          "to bind (a criminal)"
+        ]
+      },
+      {
+        "glosses": [
+          "to line (a coat)"
+        ]
+      },
+      {
+        "glosses": [
+          "to pay (a deposit, etc.)"
+        ]
+      },
+      {
+        "glosses": [
+          "to till (soil)"
+        ]
+      },
+      {
+        "glosses": [
+          "to visit (on a pilgrimage)"
+        ]
+      },
+      {
+        "glosses": [
+          "to make (noodles, etc.)",
+          "to prepare"
+        ]
+      },
+      {
+        "glosses": [
+          "to insert",
+          "to write in",
+          "to mark"
+        ]
+      },
+      {
+        "glosses": [
+          "to move",
+          "to impress",
+          "to touch"
+        ]
+      },
+      {
+        "glosses": [
+          "to sprinkle",
+          "to throw",
+          "to cast"
+        ]
+      },
+      {
+        "glosses": [
+          "to strike (noon, etc.)",
+          "to sound (cymbals, etc.)",
+          "to beat (a drum, etc.)"
+        ]
+      },
+      {
+        "glosses": [
+          "to type",
+          "to send",
+          "to transmit"
+        ]
+      },
+      {
+        "glosses": [
+          "to do",
+          "to carry out",
+          "to play",
+          "to perform",
+          "to engage in (gambling, etc.)"
+        ]
+      },
+      {
+        "glosses": [
+          "to drive in",
+          "to hammer in",
+          "to put in",
+          "to inject",
+          "to vaccinate"
+        ]
+      },
+      {
+        "glosses": [
+          "to hit",
+          "to strike",
+          "to knock",
+          "to beat",
+          "to punch",
+          "to slap",
+          "to tap",
+          "to bang",
+          "to clap",
+          "to pound"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "うつ",
+        "written": "拍つ"
+      },
+      {
+        "priorities": [],
+        "pronounced": "うつ",
+        "written": "搏つ"
+      },
+      {
+        "priorities": [],
+        "pronounced": "うつ",
+        "written": "撲つ"
+      },
+      {
+        "priorities": [],
+        "pronounced": "うつ",
+        "written": "擣つ"
+      },
+      {
+        "priorities": [
+          "ichi1",
+          "news1",
+          "nf06"
+        ],
+        "pronounced": "うつ",
+        "written": "打つ"
+      }
+    ]
+  }
+]

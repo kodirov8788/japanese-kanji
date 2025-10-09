@@ -9,12 +9,13 @@ import {
 import n5KanjiData from "@/data/kanji/n5-complete.json";
 import n4KanjiData from "@/data/kanji/n4.json";
 import n3KanjiData from "@/data/kanji/n3-complete.json";
+import n2KanjiData from "@/data/kanji/n2-complete.json";
 
 const kanjiData: Record<JLPTLevel, KanjiData[]> = {
   N5: n5KanjiData as KanjiData[],
   N4: n4KanjiData as KanjiData[],
   N3: n3KanjiData as KanjiData[],
-  N2: [], // Placeholder for now
+  N2: n2KanjiData as KanjiData[],
   N1: [], // Placeholder for now
 };
 
@@ -107,8 +108,8 @@ export function getDefaultProgress(): UserProgress {
 export function formatProgressMessage(stats: LearningStats): string {
   const { currentKanji, progress } = stats;
 
-  const onReading = currentKanji.readings.on[0] || "";
-  const kunReading = currentKanji.readings.kun[0] || "";
+  const onReading = currentKanji.readings.on?.[0] || "";
+  const kunReading = currentKanji.readings.kun?.[0] || "";
   const readingText =
     onReading && kunReading
       ? `${onReading}・${kunReading}`

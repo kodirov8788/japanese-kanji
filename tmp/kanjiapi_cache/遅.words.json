@@ -1,0 +1,2721 @@
+[
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "(cell) encapsulation delay"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "セルかちえん",
+        "written": "セル化遅延"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "at the latest"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おそくとも",
+        "written": "遅くとも"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "being born after April 1 (school entrance date)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おそうまれ",
+        "written": "遅生まれ"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "belated"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "だしおくれ",
+        "written": "出し遅れ"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "belatedly"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おそまきながら",
+        "written": "晩蒔きながら"
+      },
+      {
+        "priorities": [],
+        "pronounced": "おそまきながら",
+        "written": "遅まきながら"
+      },
+      {
+        "priorities": [],
+        "pronounced": "おそまきながら",
+        "written": "遅蒔きながら"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "certificate of lateness (issued by a railroad company, etc.)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ちえんしょうめいしょ",
+        "written": "遅延証明書"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "deference"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ちえんしょり",
+        "written": "遅延処理"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "deferral mode"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ちえんモード",
+        "written": "遅延モード"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "deferred delivery"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ちえんはいしん",
+        "written": "遅延配信"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "deferred delivery cancellation"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ちえんはいしんとりけし",
+        "written": "遅延配信取消し"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "deferred update"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ちえんこうしん",
+        "written": "遅延更新"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "delay (in payment, delivery, rationing, etc.)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news2",
+          "nf37",
+          "spec2"
+        ],
+        "pronounced": "ちはい",
+        "written": "遅配"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "delay circuit"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ちえんかいろ",
+        "written": "遅延回路"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "delay distortion"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ちえんひずみ",
+        "written": "遅延歪み"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "delay element"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ちえんそし",
+        "written": "遅延素子"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "delay in payment"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ちはらい",
+        "written": "遅払い"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "delay line"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ちえんせん",
+        "written": "遅延線"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "delay sensitive"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ちえんセンシティブ",
+        "written": "遅延センシティブ"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "delay spread"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ちえんひろがり",
+        "written": "遅延広がり"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "delay variation"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ちえんへんどう",
+        "written": "遅延変動"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "delay variation"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ちえんゆらぎ",
+        "written": "遅延揺らぎ"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "delay variation sensitive"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ちえんへんどうセンシティブ",
+        "written": "遅延変動センシティブ"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "delayed effect"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ちこう",
+        "written": "遅効"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "delayed neutron"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ちはつちゅうせいし",
+        "written": "遅発中性子"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "entering elementary school a year later than others"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おそあがり",
+        "written": "遅上がり"
+      },
+      {
+        "priorities": [],
+        "pronounced": "おそあがり",
+        "written": "遅上り"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "hours (of work) missed by arriving late or leaving early"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ちそうじかん",
+        "written": "遅早時間"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "it's already too late"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ときすでにおそし",
+        "written": "時すでにおそし"
+      },
+      {
+        "priorities": [],
+        "pronounced": "ときすでにおそし",
+        "written": "時すでに遅し"
+      },
+      {
+        "priorities": [],
+        "pronounced": "ときすでにおそし",
+        "written": "時既に遅し"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "it's better to be rough and ready than slow and elaborate"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "こうちはせっそくにしかず",
+        "written": "巧遅は拙速に如かず"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "late arrival"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ちちゃく",
+        "written": "遅着"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "late closing"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おそじまい",
+        "written": "遅じまい"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "late spring frost"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おそじも",
+        "written": "晩霜"
+      },
+      {
+        "priorities": [],
+        "pronounced": "おそじも",
+        "written": "遅霜"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "late-arriving person"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ちこくしゃ",
+        "written": "遅刻者"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "late-blooming cherry blossom"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おそざくら",
+        "written": "遅桜"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "long and balmy (of a spring day)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しゅんじつちち",
+        "written": "春日遅々"
+      },
+      {
+        "priorities": [],
+        "pronounced": "しゅんじつちち",
+        "written": "春日遅遅"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "long spring day"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ちじつ",
+        "written": "遅日"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "mental retardation"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "せいしんちたい",
+        "written": "精神遅滞"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "mental retardation"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "せいしんはったつちたい",
+        "written": "精神発達遅滞"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "mental retardation"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news2",
+          "nf32"
+        ],
+        "pronounced": "ちえおくれ",
+        "written": "知恵遅れ"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "perfect attendance and punctuality (at school or work)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "むちこくむけっせき",
+        "written": "無遅刻無欠席"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "propagation delay"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "でんぱちえん",
+        "written": "伝播遅延"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "propagation delay"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "でんぱんちえん",
+        "written": "伝搬遅延"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "recognition time"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ディジタルけんしゅつちえんじかん",
+        "written": "ディジタル検出遅延時間"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "ring latency"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "リングちえん",
+        "written": "リング遅延"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "slow"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おそし",
+        "written": "遅し"
+      },
+      {
+        "priorities": [],
+        "pronounced": "おそし",
+        "written": "鈍し"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "slow learner"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ちしんじ",
+        "written": "遅進児"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "slow pulse"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ちみゃく",
+        "written": "遅脈"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "slow reading"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ちどく",
+        "written": "遅読"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "slow response (to an email, etc.)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おそレス",
+        "written": "遅レス"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "slow start"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "たちおくれ",
+        "written": "立ち後れ"
+      },
+      {
+        "priorities": [
+          "news2",
+          "nf27"
+        ],
+        "pronounced": "たちおくれ",
+        "written": "立ち遅れ"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "slow virus"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ちはつせいウイルス",
+        "written": "遅発性ウイルス"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "slow-footed"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "あしのおそい",
+        "written": "足の遅い"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "sooner or later"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おそかれはやかれ",
+        "written": "遅かれ早かれ"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "sooner or later"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "はやかれおそかれ",
+        "written": "早かれ遅かれ"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "switching delay"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "スイッチングちえん",
+        "written": "スイッチング遅延"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "tardive dyskinesia"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ちはつせいジスキネジア",
+        "written": "遅発性ジスキネジア"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to be (too) late getting married"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "よめにいきおくれる",
+        "written": "嫁に行き遅れる"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to be slow in saying"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "もうしおくれる",
+        "written": "申し遅れる"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to be slow-footed"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "あしがおそい",
+        "written": "足が遅い"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to be too late (to be of use)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おそきにしっする",
+        "written": "遅きに失する"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to fall behind the times"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "よにおくれる",
+        "written": "世に遅れる"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to get a late start"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news1",
+          "nf20"
+        ],
+        "pronounced": "でおくれる",
+        "written": "出遅れる"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to let a chance to do something slip through one's fingers"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おそかりしゆらのすけ",
+        "written": "遅かりし由良之助"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to outlive"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しにおくれる",
+        "written": "死に後れる"
+      },
+      {
+        "priorities": [],
+        "pronounced": "しにおくれる",
+        "written": "死に遅れる"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to swing late (at a ball)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ふりおくれる",
+        "written": "振り遅れる"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "transmission delay"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "でんそうちえん",
+        "written": "伝送遅延"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "transmission delay variation"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "でんそうちえんへんどう",
+        "written": "伝送遅延変動"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "woman who missed the chance of getting married (because one is too old)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "いきおくれ",
+        "written": "嫁き遅れ"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "writing slowly"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ちひつ",
+        "written": "遅筆"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Okuninushi",
+          "deity of magic and medicine later viewed as equivalent to Daikokuten and celebrated at Izumo Grand Shrine"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おおあなむちのみこと",
+        "written": "大穴牟遅命"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Okuninushi",
+          "deity of magic and medicine later viewed as equivalent to Daikokuten and celebrated at Izumo Grand Shrine"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おおあなむちのかみ",
+        "written": "大己貴神"
+      },
+      {
+        "priorities": [],
+        "pronounced": "おおあなむちのかみ",
+        "written": "大穴牟遅神"
+      },
+      {
+        "priorities": [],
+        "pronounced": "おおなむちのかみ",
+        "written": "大己貴神"
+      },
+      {
+        "priorities": [],
+        "pronounced": "おおなむちのかみ",
+        "written": "大汝神"
+      },
+      {
+        "priorities": [],
+        "pronounced": "おおなむちのかみ",
+        "written": "大穴牟遅神"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "being too late",
+          "losing one's final chance"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ておくれ",
+        "written": "手おくれ"
+      },
+      {
+        "priorities": [],
+        "pronounced": "ておくれ",
+        "written": "手後れ"
+      },
+      {
+        "priorities": [
+          "ichi1",
+          "news2",
+          "nf26"
+        ],
+        "pronounced": "ておくれ",
+        "written": "手遅れ"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "belated",
+          "eleventh-hour"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おくればせ",
+        "written": "後ればせ"
+      },
+      {
+        "priorities": [],
+        "pronounced": "おくればせ",
+        "written": "後れ馳せ"
+      },
+      {
+        "priorities": [],
+        "pronounced": "おくればせ",
+        "written": "遅ればせ"
+      },
+      {
+        "priorities": [],
+        "pronounced": "おくればせ",
+        "written": "遅れ馳せ"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "belatedly",
+          "tardily"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おくればせながら",
+        "written": "後ればせながら"
+      },
+      {
+        "priorities": [],
+        "pronounced": "おくればせながら",
+        "written": "後れ馳せながら"
+      },
+      {
+        "priorities": [],
+        "pronounced": "おくればせながら",
+        "written": "遅ばせながら"
+      },
+      {
+        "priorities": [],
+        "pronounced": "おくればせながら",
+        "written": "遅ればせながら"
+      },
+      {
+        "priorities": [],
+        "pronounced": "おくればせながら",
+        "written": "遅れ馳せながら"
+      },
+      {
+        "priorities": [],
+        "pronounced": "おそればせながら",
+        "written": "後ればせながら"
+      },
+      {
+        "priorities": [],
+        "pronounced": "おそればせながら",
+        "written": "後れ馳せながら"
+      },
+      {
+        "priorities": [],
+        "pronounced": "おそればせながら",
+        "written": "遅ばせながら"
+      },
+      {
+        "priorities": [],
+        "pronounced": "おそればせながら",
+        "written": "遅ればせながら"
+      },
+      {
+        "priorities": [],
+        "pronounced": "おそればせながら",
+        "written": "遅れ馳せながら"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "better being rough and ready than slow and elaborate",
+          "better being brisk and sharp than slow and prudent"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "こうちせっそく",
+        "written": "巧遅拙速"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "cell delay variation",
+          "CDV"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "セルちえんへんどう",
+        "written": "セル遅延変動"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "delay",
+          "latency"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news1",
+          "nf17"
+        ],
+        "pronounced": "ちえん",
+        "written": "遅延"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "delay",
+          "procrastination"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news2",
+          "nf39",
+          "spec2"
+        ],
+        "pronounced": "ちたい",
+        "written": "遅滞"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "delay in performance",
+          "procrastination of execution"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "りこうちたい",
+        "written": "履行遅滞"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "delayed onset muscle soreness",
+          "DOMS"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ちはつせいきんにくつう",
+        "written": "遅発性筋肉痛"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "dullness",
+          "stupidity"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ちどん",
+        "written": "遅鈍"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "elaborate but slow execution",
+          "polished but slow work"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "こうち",
+        "written": "巧遅"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "hesitation",
+          "vacillation"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ちぎ",
+        "written": "遅疑"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "impatiently",
+          "eagerly"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "いまやおそしと",
+        "written": "今や遅しと"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "intrauterine growth retardation",
+          "IUGR"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しきゅうないたいじはついくちえん",
+        "written": "子宮内胎児発育遅延"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "late at night",
+          "at a late hour"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "よるおそく",
+        "written": "夜おそく"
+      },
+      {
+        "priorities": [],
+        "pronounced": "よるおそく",
+        "written": "夜遅く"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "late blooming (flower, talent)",
+          "late flowering"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おそざき",
+        "written": "遅咲"
+      },
+      {
+        "priorities": [
+          "news2",
+          "nf33",
+          "spec2"
+        ],
+        "pronounced": "おそざき",
+        "written": "遅咲き"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "late ejaculation",
+          "impotence"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ちろう",
+        "written": "遅漏"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "late registration",
+          "delayed registration"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ちえんとうろく",
+        "written": "遅延登録"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "late spring",
+          "spring that comes late"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ちしゅん",
+        "written": "遅春"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "low delay",
+          "low latency"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ていちえん",
+        "written": "低遅延"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "never being late (for school, work, etc.)",
+          "always being on time"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "むちこく",
+        "written": "無遅刻"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "person who is always late",
+          "person who is never on time"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ちこくま",
+        "written": "遅刻魔"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "report of late arrival",
+          "tardy slip"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ちこくとどけ",
+        "written": "遅刻届"
+      },
+      {
+        "priorities": [],
+        "pronounced": "ちこくとどけ",
+        "written": "遅刻届け"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "rice from a late harvest",
+          "late rice"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おそばまい",
+        "written": "遅場米"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "slow cow",
+          "slow ox"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おそうし",
+        "written": "遅牛"
+      },
+      {
+        "priorities": [],
+        "pronounced": "おそうじ",
+        "written": "遅牛"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "slow-acting fertilizer",
+          "slow-acting fertiliser"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ちこうせいひりょう",
+        "written": "遅効性肥料"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "speed",
+          "progress"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ちそく",
+        "written": "遅速"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to be late",
+          "to be unpunctual"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "じかんにおくれる",
+        "written": "時間に遅れる"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to be too late",
+          "to be too slow"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おそすぎる",
+        "written": "遅すぎる"
+      },
+      {
+        "priorities": [],
+        "pronounced": "おそすぎる",
+        "written": "遅過ぎる"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to start slowly",
+          "to lag behind"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "たちおくれる",
+        "written": "立ち後れる"
+      },
+      {
+        "priorities": [
+          "news2",
+          "nf44"
+        ],
+        "pronounced": "たちおくれる",
+        "written": "立ち遅れる"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "transmission path delay",
+          "one-way propagation time"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "でんそうけいろちえん",
+        "written": "伝送経路遅延"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "late attendance",
+          "lateness",
+          "tardiness"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ちさん",
+        "written": "遅参"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "late delivery",
+          "delayed delivery",
+          "late notification"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ちたつ",
+        "written": "遅達"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "late shift",
+          "second shift",
+          "afternoon shift"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おそばん",
+        "written": "遅番"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "late-onset (of a disease, etc.)",
+          "delayed",
+          "tardive"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ちはつせい",
+        "written": "遅発性"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "lateness",
+          "tardiness",
+          "arriving late"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "ichi1",
+          "news2",
+          "nf25"
+        ],
+        "pronounced": "ちこく",
+        "written": "遅刻"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "lingchi",
+          "death by a thousand cuts",
+          "slow torture by slicing off parts of the body"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "りょうち",
+        "written": "凌遅"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "out of fashion",
+          "out of style",
+          "outmoded"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "りゅうこうおくれ",
+        "written": "流行遅れ"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "slow",
+          "lagging",
+          "tardy"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ちち",
+        "written": "遅遅"
+      },
+      {
+        "priorities": [
+          "news1",
+          "nf23"
+        ],
+        "pronounced": "ちち",
+        "written": "遅々"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "slow-witted",
+          "dull",
+          "slow on the uptake"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "あたまのかいてんがおそい",
+        "written": "頭の回転が遅い"
+      },
+      {
+        "priorities": [],
+        "pronounced": "あたまのかいてんがおそい",
+        "written": "頭の回転が鈍い"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "there is no point in hurrying",
+          "hurry no man's cattle",
+          "fast oxes (leaving Kyoto) end up in Yodo (just south of Kyoto), slow oxes also end up in Yodo"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "はやうしもよどおそうしもよど",
+        "written": "早牛も淀、遅牛も淀"
+      },
+      {
+        "priorities": [],
+        "pronounced": "はやうしもよどおそうしもよど",
+        "written": "早牛も淀遅牛も淀"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "there is no point in hurrying",
+          "hurry no man's cattle",
+          "slow oxes (leaving Kyoto) end up in Yodo (just south of Kyoto), fast oxes also end up in Yodo"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おそうしもよどはやうしもよど",
+        "written": "遅牛も淀、早牛も淀"
+      },
+      {
+        "priorities": [],
+        "pronounced": "おそうしもよどはやうしもよど",
+        "written": "遅牛も淀早牛も淀"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to fall behind",
+          "to lag behind",
+          "to lose (race, contest)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おくれをとる",
+        "written": "後れをとる"
+      },
+      {
+        "priorities": [],
+        "pronounced": "おくれをとる",
+        "written": "遅れをとる"
+      },
+      {
+        "priorities": [],
+        "pronounced": "おくれをとる",
+        "written": "遅れを取る"
+      },
+      {
+        "priorities": [
+          "news2",
+          "nf25"
+        ],
+        "pronounced": "おくれをとる",
+        "written": "後れを取る"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "delay",
+          "lag",
+          "postponement",
+          "falling behind"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news2",
+          "nf25"
+        ],
+        "pronounced": "おくれ",
+        "written": "後れ"
+      },
+      {
+        "priorities": [
+          "ichi1",
+          "news1",
+          "nf04"
+        ],
+        "pronounced": "おくれ",
+        "written": "遅れ"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "old-fashioned",
+          "behind the times",
+          "out-of-date",
+          "antiquated"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "じだいおくれ",
+        "written": "時代おくれ"
+      },
+      {
+        "priorities": [],
+        "pronounced": "じだいおくれ",
+        "written": "時代後れ"
+      },
+      {
+        "priorities": [],
+        "pronounced": "じだいおくれ",
+        "written": "時代遅れ"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "shilly-shally",
+          "hesitation",
+          "indecision",
+          "vacillation"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ちぎしゅんじゅん",
+        "written": "遅疑逡巡"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to delay",
+          "to postpone",
+          "to slow down",
+          "to retard"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おくらす",
+        "written": "後らす"
+      },
+      {
+        "priorities": [],
+        "pronounced": "おくらす",
+        "written": "遅す"
+      },
+      {
+        "priorities": [
+          "ichi1"
+        ],
+        "pronounced": "おくらす",
+        "written": "遅らす"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to fall behind the times",
+          "to miss out (on an opportunity)",
+          "to miss the boat",
+          "to miss the bus"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "バスにのりおくれる",
+        "written": "バスに乗り遅れる"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "without delay",
+          "promptly",
+          "immediately",
+          "forthwith"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ちたいなく",
+        "written": "遅滞なく"
+      },
+      {
+        "priorities": [],
+        "pronounced": "ちたいなく",
+        "written": "遅滞無く"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "late payment interest",
+          "interest on late payments",
+          "default interest",
+          "interest on overdue accounts",
+          "penalty interest"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ちえんりそく",
+        "written": "遅延利息"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to delay",
+          "to postpone",
+          "to put off",
+          "to slow down",
+          "to hold up",
+          "to retard",
+          "to put back (a clock)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おくらせる",
+        "written": "後らせる"
+      },
+      {
+        "priorities": [
+          "news2",
+          "nf26"
+        ],
+        "pronounced": "おくらせる",
+        "written": "遅らせる"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "a month or older"
+        ]
+      },
+      {
+        "glosses": [
+          "back numbers of a monthly"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "つきおくれ",
+        "written": "月後れ"
+      },
+      {
+        "priorities": [],
+        "pronounced": "つきおくれ",
+        "written": "月遅れ"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "being behind the times"
+        ]
+      },
+      {
+        "glosses": [
+          "being one or more laps behind (in a race)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しゅうかいおくれ",
+        "written": "周回遅れ"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "doing late"
+        ]
+      },
+      {
+        "glosses": [
+          "sowing late"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おそまき",
+        "written": "晩蒔き"
+      },
+      {
+        "priorities": [],
+        "pronounced": "おそまき",
+        "written": "遅まき"
+      },
+      {
+        "priorities": [],
+        "pronounced": "おそまき",
+        "written": "遅蒔き"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "late"
+        ]
+      },
+      {
+        "glosses": [
+          "slowly"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おそく",
+        "written": "遅く"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "late shift"
+        ]
+      },
+      {
+        "glosses": [
+          "leaving late (for work)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おそで",
+        "written": "遅出"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "retirement house"
+        ]
+      },
+      {
+        "glosses": [
+          "living in tranquility",
+          "retiring to the countryside"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "せいち",
+        "written": "栖遅"
+      },
+      {
+        "priorities": [],
+        "pronounced": "せいち",
+        "written": "棲遅"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to be (too) late getting married"
+        ]
+      },
+      {
+        "glosses": [
+          "to be (too) late going somewhere"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "いきおくれる",
+        "written": "行き遅れる"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to miss (a train, bus, etc.)"
+        ]
+      },
+      {
+        "glosses": [
+          "to fail to keep up with (e.g. the times)",
+          "to be left behind by"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "のりおくれる",
+        "written": "乗りおくれる"
+      },
+      {
+        "priorities": [],
+        "pronounced": "のりおくれる",
+        "written": "乗遅れる"
+      },
+      {
+        "priorities": [
+          "ichi1",
+          "news2",
+          "nf47"
+        ],
+        "pronounced": "のりおくれる",
+        "written": "乗り遅れる"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "a little slow",
+          "somewhat slow"
+        ]
+      },
+      {
+        "glosses": [
+          "a little late",
+          "somewhat late",
+          "latish"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おそめ",
+        "written": "遅め"
+      },
+      {
+        "priorities": [],
+        "pronounced": "おそめ",
+        "written": "遅目"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "hindsight",
+          "wisdom after the event"
+        ]
+      },
+      {
+        "glosses": [
+          "delayed mental development",
+          "cognitive delay",
+          "late-developing intelligence"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おそぢえ",
+        "written": "遅智慧"
+      },
+      {
+        "priorities": [],
+        "pronounced": "おそぢえ",
+        "written": "遅知恵"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "delayed ignition",
+          "delayed detonation"
+        ]
+      },
+      {
+        "glosses": [
+          "delayed onset",
+          "late onset"
+        ]
+      },
+      {
+        "glosses": [
+          "delayed departure",
+          "delayed start",
+          "leaving behind schedule"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ちはつ",
+        "written": "遅発"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to be slow (of a clock or watch)"
+        ]
+      },
+      {
+        "glosses": [
+          "to be bereaved of",
+          "to be preceded by (someone) in death"
+        ]
+      },
+      {
+        "glosses": [
+          "to fall behind (in a race, one's studies, etc.)",
+          "to lag behind",
+          "to be behind (the times)"
+        ]
+      },
+      {
+        "glosses": [
+          "to be late",
+          "to be delayed",
+          "to fall behind schedule",
+          "to be overdue"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おくれる",
+        "written": "後れる"
+      },
+      {
+        "priorities": [
+          "ichi1",
+          "news2",
+          "nf47"
+        ],
+        "pronounced": "おくれる",
+        "written": "遅れる"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "dull",
+          "stupid"
+        ]
+      },
+      {
+        "glosses": [
+          "too late",
+          "having missed the boat"
+        ]
+      },
+      {
+        "glosses": [
+          "late (in the day)",
+          "towards the end (of the day or night)",
+          "until a time far into the day or night"
+        ]
+      },
+      {
+        "glosses": [
+          "slow",
+          "time-consuming",
+          "sluggish"
+        ]
+      },
+      {
+        "glosses": [
+          "later (than expected or usual)",
+          "late",
+          "behind schedule",
+          "behind time",
+          "tardy",
+          "overdue",
+          "unpunctual"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おそい",
+        "written": "晩い"
+      },
+      {
+        "priorities": [],
+        "pronounced": "おそい",
+        "written": "遲い"
+      },
+      {
+        "priorities": [],
+        "pronounced": "おそい",
+        "written": "鈍い"
+      },
+      {
+        "priorities": [
+          "ichi1",
+          "news1",
+          "nf18"
+        ],
+        "pronounced": "おそい",
+        "written": "遅い"
+      }
+    ]
+  }
+]

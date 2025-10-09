@@ -1,0 +1,988 @@
+[
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "(degree of) customer satisfaction"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "こきゃくまんぞくど",
+        "written": "顧客満足度"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "anxiety (about the future)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "こうこのうれい",
+        "written": "後顧の憂い"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "customer base"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "こかくベース",
+        "written": "顧客ベース"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "customer needs"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "こきゃくニーズ",
+        "written": "顧客ニーズ"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "customer satisfaction"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "spec1"
+        ],
+        "pronounced": "こかくまんぞく",
+        "written": "顧客満足"
+      },
+      {
+        "priorities": [
+          "spec1"
+        ],
+        "pronounced": "こきゃくまんぞく",
+        "written": "顧客満足"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "customer service"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "こきゃくサービス",
+        "written": "顧客サービス"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "customer-orientation"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "こかくしこう",
+        "written": "顧客志向"
+      },
+      {
+        "priorities": [],
+        "pronounced": "こかくしこう",
+        "written": "顧客指向"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "military assistance advisory group"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ぐんじこもんだん",
+        "written": "軍事顧問団"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "retrospective"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "かいこてき",
+        "written": "回顧的"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "showing (someone) special courtesy (to persuade them to take a post)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "さんこのれい",
+        "written": "三顧の礼"
+      },
+      {
+        "priorities": [],
+        "pronounced": "さんこのれい",
+        "written": "三顧之礼"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "thinking little of one's family"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "かていをかえりみない",
+        "written": "家庭を顧みない"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to give an evasive answer"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "かえりみてたをいう",
+        "written": "顧みて他を言う"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "advisory body",
+          "think tank"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "こもんだん",
+        "written": "顧問団"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "client list",
+          "customer list"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "こきゃくリスト",
+        "written": "顧客リスト"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "consulting agreement",
+          "advisory contract"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "こもんけいやく",
+        "written": "顧問契約"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "councillor",
+          "councilor"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "こもんかん",
+        "written": "顧問官"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "customer relationship management",
+          "CRM"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "こきゃくかんけいかんり",
+        "written": "顧客関係管理"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "heedless of danger",
+          "braving dangers"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "きけんをかえりみず",
+        "written": "危険をかえりみず"
+      },
+      {
+        "priorities": [],
+        "pronounced": "きけんをかえりみず",
+        "written": "危険を顧みず"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "investment advisor",
+          "financial adviser"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "とうしこもん",
+        "written": "投資顧問"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "looking right and left or all about",
+          "vacillation"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "さこうべん",
+        "written": "左顧右眄"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "loyal customer",
+          "important customer"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "じょうこきゃく",
+        "written": "上顧客"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "major customer",
+          "large customer"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おおくちこきゃく",
+        "written": "大口顧客"
+      },
+      {
+        "priorities": [],
+        "pronounced": "おおぐちこきゃく",
+        "written": "大口顧客"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "memoirs",
+          "reminiscences"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news2",
+          "nf31",
+          "spec2"
+        ],
+        "pronounced": "かいころく",
+        "written": "回顧録"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "military adviser",
+          "military advisor"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ぐんじこもん",
+        "written": "軍事顧問"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "reminiscences",
+          "reminiscent discussion"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "かいこだん",
+        "written": "回顧談"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "retrospective exhibition",
+          "retrospective"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "かいこてん",
+        "written": "回顧展"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "senior advisor",
+          "chief advisor"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "さいこうこもん",
+        "written": "最高顧問"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "special advisor",
+          "special adviser"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "とくべつこもん",
+        "written": "特別顧問"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "target demographic",
+          "target audience"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "たいしょうこかくそう",
+        "written": "対象顧客層"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "technical advisor",
+          "expert advisor"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ぎじゅつこもん",
+        "written": "技術顧問"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "turning around to look (at)",
+          "looking back (at)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "こべん",
+        "written": "顧眄"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "woman so glamorous as to bring ruin to a country (castle) as its king (lord) is captivated by her beauty",
+          "femme fatale"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "いっこけいせい",
+        "written": "一顧傾城"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "adviser",
+          "advisor",
+          "consultant"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news1",
+          "nf02"
+        ],
+        "pronounced": "こもん",
+        "written": "顧問"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "assistant counsel",
+          "deputy counsel",
+          "sub-adviser"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ふくこもん",
+        "written": "副顧問"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "concern",
+          "solicitude",
+          "consideration"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "こりょ",
+        "written": "顧慮"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "customer",
+          "client",
+          "patron"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "ichi1",
+          "news1",
+          "nf04"
+        ],
+        "pronounced": "こかく",
+        "written": "顧客"
+      },
+      {
+        "priorities": [
+          "ichi1",
+          "news1",
+          "nf04"
+        ],
+        "pronounced": "こきゃく",
+        "written": "顧客"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "favour",
+          "favor",
+          "patronage"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おんこ",
+        "written": "恩顧"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "look carefully where your own footsteps fall",
+          "seek enlightenment by knowing yourself and not by watching others",
+          "know thyself"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "きゃっかしょうこ",
+        "written": "脚下照顧"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "looking back",
+          "worry",
+          "anxiety"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "こうこ",
+        "written": "後顧"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "not taking the slightest notice (of)",
+          "not giving the slightest consideration (to)",
+          "paying absolutely no attention (to)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "いっこだにしない",
+        "written": "一顧だにしない"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "favor",
+          "patronage",
+          "being partial to",
+          "paying special attention to"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "けんこ",
+        "written": "眷顧"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "inability to make up one's mind due to worrying about how others will think",
+          "hesitation",
+          "wavering",
+          "vacillation"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "うこさべん",
+        "written": "右顧左眄"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "legal adviser",
+          "legal advisor",
+          "corporation lawyer",
+          "family lawyer"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "こもんべんごし",
+        "written": "顧問弁護士"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "patronage",
+          "favour",
+          "favor",
+          "custom"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "あいこ",
+        "written": "愛顧"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "patronage",
+          "favour",
+          "favor",
+          "custom"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ごあいこ",
+        "written": "ご愛顧"
+      },
+      {
+        "priorities": [],
+        "pronounced": "ごあいこ",
+        "written": "御愛顧"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "customer base",
+          "constituency",
+          "customer segment",
+          "patron base",
+          "clientele"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "こかくそう",
+        "written": "顧客層"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "recollecting",
+          "reminiscing",
+          "looking back",
+          "retrospection",
+          "review"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "ichi1",
+          "news1",
+          "nf17"
+        ],
+        "pronounced": "かいこ",
+        "written": "回顧"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "slightest notice",
+          "slightest consideration",
+          "slightest attention",
+          "a little thought",
+          "glance"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news2",
+          "nf48"
+        ],
+        "pronounced": "いっこ",
+        "written": "一顧"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "looking everywhere",
+          "looking in all four directions"
+        ]
+      },
+      {
+        "glosses": [
+          "neighborhood",
+          "vicinity"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しこ",
+        "written": "四顧"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "looking back"
+        ]
+      },
+      {
+        "glosses": [
+          "consideration",
+          "concerning oneself"
+        ]
+      },
+      {
+        "glosses": [
+          "reflecting",
+          "reconsidering"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "かえりみ",
+        "written": "顧み"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to look back on (the past)",
+          "to reflect on",
+          "to reminisce about"
+        ]
+      },
+      {
+        "glosses": [
+          "to look behind (at)",
+          "to turn round (and look)",
+          "to look over one's shoulder"
+        ]
+      },
+      {
+        "glosses": [
+          "to consider",
+          "to concern oneself about",
+          "to take notice of",
+          "to pay attention to",
+          "to take into consideration"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "かえりみる",
+        "written": "顧る"
+      },
+      {
+        "priorities": [
+          "ichi1",
+          "news2",
+          "nf42"
+        ],
+        "pronounced": "かえりみる",
+        "written": "顧みる"
+      }
+    ]
+  }
+]

@@ -33,7 +33,7 @@ export const JLPT_LEVELS: Record<JLPTLevel, JLPTLevelInfo> = {
     level: "N1",
     name: "N1 (Expert)",
     description: "Expert kanji for fluency",
-    totalKanji: 1100,
+    totalKanji: 118,
     color: "bg-red-500",
   },
 };

@@ -1,0 +1,369 @@
+[
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "despite one's busyness"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ぼうをいとわず",
+        "written": "忙を厭わず"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "excuse me for interrupting you when you are so busy"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ごたぼうちゅう",
+        "written": "ご多忙中"
+      },
+      {
+        "priorities": [],
+        "pronounced": "ごたぼうちゅう",
+        "written": "御多忙中"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "in the midst of busyness"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ぼうちゅう",
+        "written": "忙中"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "restless"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "こころぜわしい",
+        "written": "心忙しい"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "there are brief moments of leisure even when at one's busiest"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ぼうちゅうかんあり",
+        "written": "忙中閑あり"
+      },
+      {
+        "priorities": [],
+        "pronounced": "ぼうちゅうかんあり",
+        "written": "忙中閑有り"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "very busy"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おおいそがし",
+        "written": "大いそがし"
+      },
+      {
+        "priorities": [],
+        "pronounced": "おおいそがし",
+        "written": "大忙し"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "being extremely busy",
+          "being swamped with work"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news2",
+          "nf31"
+        ],
+        "pronounced": "ぼうさつ",
+        "written": "忙殺"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "being very busy",
+          "busyness"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "ichi1",
+          "news1",
+          "nf21"
+        ],
+        "pronounced": "たぼう",
+        "written": "多忙"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "busy period",
+          "busy season"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "はんぼうき",
+        "written": "繁忙期"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "having free time to spare in the midst of busyness",
+          "leisure in the intervals of one's work"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ぼうちゅうゆうかん",
+        "written": "忙中有閑"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "pressure of business",
+          "busy"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "ichi1"
+        ],
+        "pronounced": "はんぼう",
+        "written": "煩忙"
+      },
+      {
+        "priorities": [
+          "news2",
+          "nf33",
+          "spec2"
+        ],
+        "pronounced": "はんぼう",
+        "written": "繁忙"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to be very busily occupied",
+          "to be swamped with work"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ぼうさつされる",
+        "written": "忙殺される"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "in great haste",
+          "hurriedly",
+          "in a hurry"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "そうぼうとして",
+        "written": "怱忙として"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "looking busy",
+          "appearing busy",
+          "looking restless"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "せわしげ",
+        "written": "忙しげ"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "restless",
+          "fidgety",
+          "fussy"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "きぜわしい",
+        "written": "気ぜわしい"
+      },
+      {
+        "priorities": [],
+        "pronounced": "きぜわしい",
+        "written": "気忙しい"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "restless",
+          "fidgety",
+          "in a hurry"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "せわしない",
+        "written": "忙しない"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "busy",
+          "hectic",
+          "frantic"
+        ]
+      },
+      {
+        "glosses": [
+          "restless",
+          "hurried",
+          "fidgety"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "せわしい",
+        "written": "忙しい"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "busy",
+          "occupied",
+          "hectic"
+        ]
+      },
+      {
+        "glosses": [
+          "restless",
+          "hurried",
+          "fidgety"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "いそがしい",
+        "written": "忙がしい"
+      },
+      {
+        "priorities": [
+          "ichi1",
+          "news1",
+          "nf18"
+        ],
+        "pronounced": "いそがしい",
+        "written": "忙しい"
+      }
+    ]
+  }
+]

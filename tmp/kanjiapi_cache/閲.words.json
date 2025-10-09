@@ -1,0 +1,535 @@
+[
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "career"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "えつれき",
+        "written": "閲歴"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "inspection (of troops)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news2",
+          "nf33"
+        ],
+        "pronounced": "かんえつ",
+        "written": "観閲"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "inspection of police (by the prefectural chief of police)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しえつ",
+        "written": "視閲"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "personal inspection"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しんえつ",
+        "written": "親閲"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "prepublication censorship"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "じぜんけんえつ",
+        "written": "事前検閲"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "private perusal"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ないえつ",
+        "written": "内閲"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "proofreader"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "こうえつがかり",
+        "written": "校閲係"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "reading room"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "えつらんしつ",
+        "written": "閲覧室"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "reviewing stand"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "えっぺいだい",
+        "written": "閲兵台"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "revised by section chief"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ぶちょうえつ",
+        "written": "部長閲"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "self-censorship"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "じこけんえつ",
+        "written": "自己検閲"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Web browser",
+          "Web-browsing software"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "インターネットえつらんソフト",
+        "written": "インターネット閲覧ソフト"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "cosmic censorship hypothesis",
+          "cosmic censorship conjecture"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "うちゅうけんえつかせつ",
+        "written": "宇宙検閲仮説"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "cosmic censorship hypothesis",
+          "cosmic censorship conjecture"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "うちゅうけんえつかんかせつ",
+        "written": "宇宙検閲官仮説"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "inspection",
+          "examination"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "さえつ",
+        "written": "査閲"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "inspection (esp. of a document)",
+          "stamp of approval (for a document)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "えつ",
+        "written": "閲"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "inspector",
+          "censor"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "けんえつかん",
+        "written": "検閲官"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "military review",
+          "(military) parade"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "かんえつしき",
+        "written": "観閲式"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "number of views (videos, etc.)",
+          "view count"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "えつらんすう",
+        "written": "閲覧数"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "parade",
+          "review (of troops)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "えっぺい",
+        "written": "閲兵"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "reader",
+          "(website) visitor"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "えつらんしゃ",
+        "written": "閲覧者"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "reading",
+          "perusal"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "えつどく",
+        "written": "閲読"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "reviewer",
+          "person who checks accuracy of written work"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "こうえつしゃ",
+        "written": "校閲者"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "revision",
+          "proofreading"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news2",
+          "nf31",
+          "spec2"
+        ],
+        "pronounced": "こうえつ",
+        "written": "校閲"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "viewer discretion advised",
+          "not safe for work",
+          "NSFW"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "えつらんちゅうい",
+        "written": "閲覧注意"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "browsing (the web)"
+        ]
+      },
+      {
+        "glosses": [
+          "inspection",
+          "reading",
+          "perusal"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "ichi1",
+          "news1",
+          "nf17"
+        ],
+        "pronounced": "えつらん",
+        "written": "閲覧"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "censorship"
+        ]
+      },
+      {
+        "glosses": [
+          "inspection",
+          "examination"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "ichi1",
+          "news1",
+          "nf14"
+        ],
+        "pronounced": "けんえつ",
+        "written": "検閲"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to elapse",
+          "to pass (time)"
+        ]
+      },
+      {
+        "glosses": [
+          "to inspect",
+          "to examine",
+          "to check"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "えっす",
+        "written": "閲す"
+      },
+      {
+        "priorities": [],
+        "pronounced": "けみす",
+        "written": "閲す"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to elapse",
+          "to pass (time)"
+        ]
+      },
+      {
+        "glosses": [
+          "to inspect",
+          "to examine",
+          "to check"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "えっする",
+        "written": "閲する"
+      },
+      {
+        "priorities": [],
+        "pronounced": "けみする",
+        "written": "閲する"
+      }
+    ]
+  }
+]

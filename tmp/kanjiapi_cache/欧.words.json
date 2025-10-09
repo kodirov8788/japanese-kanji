@@ -1,0 +1,2001 @@
+[
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Central Europe"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news1",
+          "nf18"
+        ],
+        "pronounced": "ちゅうおう",
+        "written": "中欧"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Central and Eastern Europe"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ちゅうとうおう",
+        "written": "中・東欧"
+      },
+      {
+        "priorities": [],
+        "pronounced": "ちゅうとうおう",
+        "written": "中東欧"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Congress of Local and Regional Authorities of Europe"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おうしゅうちほうじちたいかいぎ",
+        "written": "欧州地方自治体会議"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Council of Europe"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おうしゅうひょうぎかい",
+        "written": "欧州評議会"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Eastern Europe"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "ichi1",
+          "news1",
+          "nf03"
+        ],
+        "pronounced": "とうおう",
+        "written": "東欧"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Eastern European countries"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "とうおうしょこく",
+        "written": "東欧諸国"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Europe"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おう",
+        "written": "欧"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Europe"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ヨーロッパ",
+        "written": "欧羅巴"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Europe"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おうしゅう",
+        "written": "欧洲"
+      },
+      {
+        "priorities": [
+          "news1",
+          "nf01"
+        ],
+        "pronounced": "おうしゅう",
+        "written": "欧州"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Europe and Asia"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おうあ",
+        "written": "欧亜"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "European Aeronautic Defense and Space Company EADS NV"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おうしゅうこうくうぼうえいうちゅうかいしゃ",
+        "written": "欧州航空防衛宇宙会社"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "European Agency for Safety and Health at Work"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おうしゅうろうどうあんぜんえいせいきこう",
+        "written": "欧州労働安全衛生機構"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "European Bank for Reconstruction and Development"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おうしゅうふっこうかいはつぎんこう",
+        "written": "欧州復興開発銀行"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "European Banking Federation"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おうしゅうぎんこうれんめい",
+        "written": "欧州銀行連盟"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "European Clearing Union"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おうしゅうけっさいどうめい",
+        "written": "欧州決済同盟"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "European Commission (abbr)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おうしゅうい",
+        "written": "欧州委"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "European Commission (executive of the EU)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おうしゅういいんかい",
+        "written": "欧州委員会"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "European Constitution"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おうしゅうけんぽう",
+        "written": "欧州憲法"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "European Council"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おうしゅうりじかい",
+        "written": "欧州理事会"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "European Court of Human Rights"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おうしゅうじんけんさいばんしょ",
+        "written": "欧州人権裁判所"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "European Monetary Institute"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おうしゅうつうかきかん",
+        "written": "欧州通貨機関"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "European Nuclear Energy Agency"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おうしゅうげんしりょくきかん",
+        "written": "欧州原子力機関"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "European Parliament"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おうしゅうぎかい",
+        "written": "欧州議会"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "European Russia"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おうろ",
+        "written": "欧露"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "European Space Agency"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おうしゅううちゅうきかん",
+        "written": "欧州宇宙機関"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "European campaign (esp. soccer)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おうしゅうえんせい",
+        "written": "欧州遠征"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "European countries"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おうしゅうしょこく",
+        "written": "欧州諸国"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Europeanism"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おうかしゅぎ",
+        "written": "欧化主義"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Indo-European language(s)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "いんおうご",
+        "written": "印欧語"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Indo-European languages"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "いんおうごぞく",
+        "written": "印欧語族"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Japan Association for Trade with Russia & Central-Eastern Europe (ROTOBO)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ロシアとうおうぼうえきかい",
+        "written": "ロシア東欧貿易会"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Japanese containing expressions literally translated from European languages"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おうぶんみゃく",
+        "written": "欧文脈"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Latin font"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おうぶんフォント",
+        "written": "欧文フォント"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Nordic Council"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ほくおうかいぎ",
+        "written": "北欧会議"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Nordic Council"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ほくおうりじかい",
+        "written": "北欧理事会"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Norse mythology"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ほくおうしんわ",
+        "written": "北欧神話"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Norway spruce (Picea abies)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おうしゅうとうひ",
+        "written": "欧州唐檜"
+      },
+      {
+        "priorities": [],
+        "pronounced": "オウシュウトウヒ",
+        "written": "欧州唐檜"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Party of European Socialists"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おうしゅうしゃかいとう",
+        "written": "欧州社会党"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Proto-Indo-European (language)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "いんおうきご",
+        "written": "印欧基語"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Proto-Indo-European (language)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "いんおうそご",
+        "written": "印欧祖語"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Scandinavian design"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ほくおうデザイン",
+        "written": "北欧デザイン"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Scots pine (Pinus sylvestris)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おうしゅうあかまつ",
+        "written": "欧州赤松"
+      },
+      {
+        "priorities": [],
+        "pronounced": "オウシュウアカマツ",
+        "written": "欧州赤松"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Southern Europe"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news2",
+          "nf32"
+        ],
+        "pronounced": "なんおう",
+        "written": "南欧"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Stockholm school"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ほくおうがくは",
+        "written": "北欧学派"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Treaty on European Union (1993)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おうしゅうれんごうじょうやく",
+        "written": "欧州連合条約"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "West European countries"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "せいおうしょこく",
+        "written": "西欧諸国"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Westerner"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "せいおうじん",
+        "written": "西欧人"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Westernization"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おうべいか",
+        "written": "欧米化"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "alignment with the Western powers of America and Europe"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しんおうべいろせん",
+        "written": "親欧米路線"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "all Europe"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ぜんおう",
+        "written": "全欧"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "alphabetic character set"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おうじしゅうごう",
+        "written": "欧字集合"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "alphabetic code"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おうじコード",
+        "written": "欧字コード"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "alphabetic coded set"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おうじコードかしゅうごう",
+        "written": "欧字コード化集合"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "alphabetic string"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おうじれつ",
+        "written": "欧字列"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "alphanumeric character set"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おうすうじえいすうじしゅうごう",
+        "written": "欧数字英数字集合"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "alphanumeric character set"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おうすうじしゅうごう",
+        "written": "欧数字集合"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "alphanumeric code"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おうすうじコード",
+        "written": "欧数字コード"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "alphanumeric coded set"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おうすうじコードかしゅうごう",
+        "written": "欧数字コード化集合"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "alphanumeric data"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おうすうじえいすうじデータ",
+        "written": "欧数字英数字データ"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "alphanumeric data"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おうすうじデータ",
+        "written": "欧数字データ"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "half-width space"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おうぶんかんかく",
+        "written": "欧文間隔"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "out of Asia and into Europe"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "だつあにゅうおう",
+        "written": "脱亜入欧"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "pan-European"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "はんおうしゅう",
+        "written": "汎欧州"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "post-war Europe"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "せんごおうしゅう",
+        "written": "戦後欧州"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "proportional spacing"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おうぶんピッチしょり",
+        "written": "欧文ピッチ処理"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "staying in Europe"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "たいおう",
+        "written": "滞欧"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Asia and Europe",
+          "Eurasia"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "あおう",
+        "written": "亜欧"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Conventional Armed Forces in Europe",
+          "CFE"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おうしゅうつうじょうせんりょく",
+        "written": "欧州通常戦力"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Council of Europe",
+          "CE"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おうしゅうかいぎ",
+        "written": "欧州会議"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Eurasia",
+          "Eurasian Continent"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おうあたいりく",
+        "written": "欧亜大陸"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Europe and America",
+          "the West"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "ichi1"
+        ],
+        "pronounced": "おうべい",
+        "written": "欧米"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "European Atomic Community",
+          "Euratom"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おうしゅうげんしりょくきょうどうたい",
+        "written": "欧州原子力共同体"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "European Central Bank",
+          "ECB"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おうしゅうちゅうおうぎんこう",
+        "written": "欧州中央銀行"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "European Community",
+          "EC"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おうしゅうきょうどうたい",
+        "written": "欧州共同体"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "European Computer Manufacturers Association",
+          "ECMA"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おうしゅうでんしけいさんきこうぎょうかい",
+        "written": "欧州電子計算機工業会"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "European Court of Justice",
+          "Court of Justice of the European Communities"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おうしゅうさいばんしょ",
+        "written": "欧州裁判所"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "European Currency Unit",
+          "ECU"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おうしゅうつうかたんい",
+        "written": "欧州通貨単位"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "European Economic Area",
+          "EEA"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おうしゅうけいざいりょういき",
+        "written": "欧州経済領域"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "European Economic Community",
+          "EEC"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おうしゅうけいざいきょうどうたい",
+        "written": "欧州経済共同体"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "European Monetary Fund",
+          "EMF"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おうしゅうつうかききん",
+        "written": "欧州通貨基金"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "European Monetary Institute",
+          "EMI"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おうしゅうつうかきこう",
+        "written": "欧州通貨機構"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "European Monetary System",
+          "EMS"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おうしゅうつうかせいど",
+        "written": "欧州通貨制度"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "European Organization for the Exploitation of Meteorological Satellites",
+          "EUMETSAT"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おうしゅうきしょうえいせいきかん",
+        "written": "欧州気象衛星機関"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "European Political Co-operation",
+          "EPC"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おうしゅうせいじきょうりょく",
+        "written": "欧州政治協力"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "European Stability Mechanism",
+          "ESM"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おうしゅうあんていメカニズム",
+        "written": "欧州安定メカニズム"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "European System of Central Banks",
+          "ESCB"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おうしゅうちゅうおうぎんこうせいど",
+        "written": "欧州中央銀行制度"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "European Telecommunications Standards Institute",
+          "ETSI"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おうしゅうでんきつうしんひょうじゅんかきこう",
+        "written": "欧州電気通信標準化機構"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "European Trade Union Confederation",
+          "ETUC"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おうしゅうろうどうくみあいれんごう",
+        "written": "欧州労働組合連合"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "European Union",
+          "EU"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おうしゅうれんごう",
+        "written": "欧州連合"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "European language",
+          "European languages"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おうご",
+        "written": "欧語"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "European letters",
+          "Latin script"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おうじ",
+        "written": "欧字"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Europeans and Americans",
+          "Westerners"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おうべいじん",
+        "written": "欧米人"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "India and Europe",
+          "Indo-European"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "いんおう",
+        "written": "印欧"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Japan and Europe",
+          "Japanese-European"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "にちおう",
+        "written": "日欧"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Nordic countries",
+          "Scandinavian countries"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ほくおうしょこく",
+        "written": "北欧諸国"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Organization for Security and Co-operation in Europe",
+          "OSCE"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おうしゅうあんぜんほしょうきょうりょくきこう",
+        "written": "欧州安全保障協力機構"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Toshiba Research Europe Ltd.",
+          "TREL"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "とうしばおうしゅうけんきゅうじょ",
+        "written": "東芝欧州研究所"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Treaty on Conventional Armed Forces in Europe",
+          "CFE"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おうしゅうつうじょうせんりょくせいげんじょうやく",
+        "written": "欧州通常戦力制限条約"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Western civilization",
+          "Western civilisation"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "せいおうぶんめい",
+        "written": "西欧文明"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Western countries",
+          "European and (North) American countries"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おうべいしょこく",
+        "written": "欧米諸国"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Western typewriter",
+          "typewriter using Roman letters"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おうぶんタイプライター",
+        "written": "欧文タイプライター"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "dispatching to Europe (e.g. an envoy)",
+          "sending to Europe"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "けんおう",
+        "written": "遣欧"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "going to Europe",
+          "trip to Europe"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news2",
+          "nf45"
+        ],
+        "pronounced": "とおう",
+        "written": "渡欧"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "pertaining to Europe",
+          "towards Europe"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "たいおう",
+        "written": "対欧"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "the United States and Europe",
+          "the United States and the European Union"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "べいおう",
+        "written": "米欧"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "visit to Europe",
+          "visiting Europe"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news1",
+          "nf19"
+        ],
+        "pronounced": "ほうおう",
+        "written": "訪欧"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "westernization",
+          "westernisation"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "せいおうか",
+        "written": "西欧化"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "European Organization for Nuclear Research",
+          "Organisation européenne pour la recherche nucléaire (formerly Conseil Européenne pour la Recherche Nucléaire)",
+          "CERN"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おうしゅうげんしかくけんきゅうきかん",
+        "written": "欧州原子核研究機関"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "European-style",
+          "Western",
+          "Occidental"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news2",
+          "nf47"
+        ],
+        "pronounced": "おうふう",
+        "written": "欧風"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "First World War (1914-1918)",
+          "World War I",
+          "Great European War"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おうしゅうたいせん",
+        "written": "欧州大戦"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Nordic person",
+          "Scandinavian",
+          "Northern European"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ほくおうじん",
+        "written": "北欧人"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Northern Europe",
+          "Nordic countries",
+          "Scandinavia"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news1",
+          "nf11"
+        ],
+        "pronounced": "ほくおう",
+        "written": "北欧"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "being in Europe",
+          "staying in Europe",
+          "residing in Europe"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ざいおう",
+        "written": "在欧"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "writing in a European language",
+          "European text",
+          "Roman letters"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news2",
+          "nf44"
+        ],
+        "pronounced": "おうぶん",
+        "written": "欧文"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "English oak (Quercus robur)",
+          "pedunculate oak",
+          "common oak",
+          "French oak"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おうしゅうなら",
+        "written": "欧州楢"
+      },
+      {
+        "priorities": [],
+        "pronounced": "オウシュウナラ",
+        "written": "欧州楢"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Europeanization",
+          "Europeanisation",
+          "Westernization",
+          "Westernisation"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おうか",
+        "written": "欧化"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Western Europe"
+        ]
+      },
+      {
+        "glosses": [
+          "the West",
+          "the Occident",
+          "Europe"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "ichi1",
+          "news1",
+          "nf05"
+        ],
+        "pronounced": "せいおう",
+        "written": "西欧"
+      }
+    ]
+  }
+]

@@ -1,0 +1,968 @@
+[
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "aerosol"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "えんむしつ",
+        "written": "煙霧質"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "atomization"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "むか",
+        "written": "霧化"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "cloud chamber"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "きりばこ",
+        "written": "霧箱"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "cloud forest"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "うんむりん",
+        "written": "雲霧林"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "clouds and fog"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "うんむ",
+        "written": "雲霧"
+      },
+      {
+        "priorities": [],
+        "pronounced": "くもきり",
+        "written": "雲霧"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "dense fog"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "めいむ",
+        "written": "迷霧"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "evening mist"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news2",
+          "nf45",
+          "spec2"
+        ],
+        "pronounced": "せきむ",
+        "written": "夕霧"
+      },
+      {
+        "priorities": [
+          "news2",
+          "nf45",
+          "spec2"
+        ],
+        "pronounced": "ゆうぎり",
+        "written": "夕霧"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "fog appearing at dawn"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ぎょうむ",
+        "written": "暁霧"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "fog signal"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "むちゅうしんごう",
+        "written": "霧中信号"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "foghorn"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "むてき",
+        "written": "霧笛"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "ice fog"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ひょうむ",
+        "written": "氷霧"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "in the fog"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "むちゅう",
+        "written": "霧中"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "inland fog"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ないりくむ",
+        "written": "内陸霧"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "mountain fog"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "やまぎり",
+        "written": "山霧"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "night fog"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "よぎり",
+        "written": "夜霧"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "radiation fog"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ほうしゃぎり",
+        "written": "放射霧"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "river mist"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "かわぎり",
+        "written": "川霧"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "sea fog"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "うみぎり",
+        "written": "海霧"
+      },
+      {
+        "priorities": [],
+        "pronounced": "かいむ",
+        "written": "海霧"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "silvermound aretemisia"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "あさぎりそう",
+        "written": "朝霧草"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "snow grain"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "むせつ",
+        "written": "霧雪"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "spray drying"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ふんむかんそう",
+        "written": "噴霧乾燥"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to be enveloped in mist"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "きりにおおわれる",
+        "written": "霧に覆われる"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to be shrouded in mist"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "きりにつつまれる",
+        "written": "霧に包まれる"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "trees protecting land from sea fogs"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ぼうむりん",
+        "written": "防霧林"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "vanishing like mist"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "むしょう",
+        "written": "霧消"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "vanishing like mist"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news2",
+          "nf40"
+        ],
+        "pronounced": "うんさんむしょう",
+        "written": "雲散霧消"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "(many things) gathering like clouds and vanishing like mist",
+          "swarming and scattering"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "うんしゅうむさん",
+        "written": "雲集霧散"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Musha Incident (Taiwan; 1930)",
+          "Wushe Uprising"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "むしゃじけん",
+        "written": "霧社事件"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "atomizing",
+          "spraying"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ふんむ",
+        "written": "噴霧"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "dispersing",
+          "vanishing"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "むさん",
+        "written": "霧散"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "drizzle",
+          "light rain"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "ichi1",
+          "news2",
+          "nf46"
+        ],
+        "pronounced": "きりさめ",
+        "written": "霧雨"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "mist",
+          "fog"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "さぎり",
+        "written": "狭霧"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "misty",
+          "foggy"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "きりふかい",
+        "written": "霧深い"
+      },
+      {
+        "priorities": [],
+        "pronounced": "きりぶかい",
+        "written": "霧深い"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "morning fog",
+          "morning mist"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news2",
+          "nf45",
+          "spec2"
+        ],
+        "pronounced": "あさぎり",
+        "written": "朝霧"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "sparse mist",
+          "scattered mist"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "むらぎり",
+        "written": "斑霧"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "steam fog",
+          "sea smoke"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "じょうきぎり",
+        "written": "蒸気霧"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "summer fog",
+          "summer mist"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "なつぎり",
+        "written": "夏霧"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "thick fog",
+          "dense fog"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ふかいきり",
+        "written": "深い霧"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "wax apple (Syzygium samarangense)",
+          "Java apple"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "れんぶ",
+        "written": "蓮霧"
+      },
+      {
+        "priorities": [],
+        "pronounced": "レンブ",
+        "written": "蓮霧"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "winter fog",
+          "fog during winter"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ふゆぎり",
+        "written": "冬霧"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "fog-like cloud",
+          "high fog",
+          "stratus cloud"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "きりぐも",
+        "written": "霧雲"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "heavy fog",
+          "dense fog",
+          "thick fog"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news2",
+          "nf30",
+          "spec2"
+        ],
+        "pronounced": "のうむ",
+        "written": "濃霧"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "mist form",
+          "atomized form",
+          "spray (form)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "きりじょう",
+        "written": "霧状"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "rime",
+          "hoarfrost",
+          "silver frost"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "むひょう",
+        "written": "霧氷"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "thick fog (of suspicion)",
+          "black veil of secrecy",
+          "covered-up crime, unethical act, etc."
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news2",
+          "nf43",
+          "spec2"
+        ],
+        "pronounced": "くろいきり",
+        "written": "黒い霧"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "fog bow",
+          "fogbow",
+          "mistbow",
+          "white rainbow"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "きりにじ",
+        "written": "霧虹"
+      },
+      {
+        "priorities": [],
+        "pronounced": "むこう",
+        "written": "霧虹"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "haze",
+          "mist",
+          "fog",
+          "smog"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "えんむ",
+        "written": "煙霧"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "sprayer",
+          "vaporizer",
+          "vaporiser",
+          "atomizer",
+          "atomiser"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ふんむき",
+        "written": "噴霧器"
+      },
+      {
+        "priorities": [],
+        "pronounced": "ふんむき",
+        "written": "噴霧機"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "totally at a loss",
+          "lose one's bearings",
+          "in a maze",
+          "in a fog",
+          "all at sea",
+          "up in the air",
+          "mystified",
+          "bewildered"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ごりむちゅう",
+        "written": "五里夢中"
+      },
+      {
+        "priorities": [],
+        "pronounced": "ごりむちゅう",
+        "written": "五里霧中"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Asian mist (illegal maneuver in professional wrestling)"
+        ]
+      },
+      {
+        "glosses": [
+          "evil fog"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "どくぎり",
+        "written": "毒霧"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "spray"
+        ]
+      },
+      {
+        "glosses": [
+          "fog",
+          "mist"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "ichi1",
+          "news1",
+          "nf11"
+        ],
+        "pronounced": "きり",
+        "written": "霧"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "spraying"
+        ]
+      },
+      {
+        "glosses": [
+          "sprayer",
+          "atomizer",
+          "atomiser",
+          "vaporizer"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news2",
+          "nf43"
+        ],
+        "pronounced": "きりふき",
+        "written": "霧吹き"
+      }
+    ]
+  }
+]

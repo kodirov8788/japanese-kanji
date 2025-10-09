@@ -1,0 +1,675 @@
+[
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Ancient Chinese banquet music"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "えんがく",
+        "written": "宴楽"
+      },
+      {
+        "priorities": [],
+        "pronounced": "えんがく",
+        "written": "燕楽"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Symposium (book by Plato)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "きょうえん",
+        "written": "饗宴"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "banquet"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "がえん",
+        "written": "賀宴"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "banquet hall"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "えんかいじょう",
+        "written": "宴会場"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "baseball all-star game"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "きゅうえん",
+        "written": "球宴"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "cherry blossom viewing drinking party"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "はなのえん",
+        "written": "花の宴"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "cherry blossom viewing party"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "はなみのうたげ",
+        "written": "花見の宴"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "court banquet"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ぎょえん",
+        "written": "御宴"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "farewell dinner"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "べつえん",
+        "written": "別宴"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "grand banquet"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "せいえん",
+        "written": "盛宴"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "politicking by wining and dining"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "えんかいせいじ",
+        "written": "宴会政治"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "private dinner"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ないえん",
+        "written": "内宴"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "small (dinner) party"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しょうえん",
+        "written": "小宴"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "tea gathering"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "さえん",
+        "written": "茶宴"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "wedding reception banquet"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "けっこんひろうえん",
+        "written": "結婚披露宴"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "welcome party"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "かんげいえん",
+        "written": "歓迎宴"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "winding stream party (event for composing poetry and drinking rice wine)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "きょくすいのえん",
+        "written": "曲水の宴"
+      },
+      {
+        "priorities": [],
+        "pronounced": "ごくすいのえん",
+        "written": "曲水の宴"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "banquet",
+          "dinner party"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news2",
+          "nf25",
+          "spec2"
+        ],
+        "pronounced": "えんせき",
+        "written": "宴席"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "black sabbath",
+          "witches' sabbath"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "あくまのうたげ",
+        "written": "悪魔の宴"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "celebratory banquet",
+          "feast"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news2",
+          "nf30"
+        ],
+        "pronounced": "しゅくえん",
+        "written": "祝宴"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "drinking party hall",
+          "banquet seat"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "えんゆう",
+        "written": "宴遊"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "feast",
+          "banquet"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "きょうえん",
+        "written": "享宴"
+      },
+      {
+        "priorities": [
+          "news2",
+          "nf39"
+        ],
+        "pronounced": "きょうえん",
+        "written": "供宴"
+      },
+      {
+        "priorities": [
+          "news2",
+          "nf30",
+          "spec2"
+        ],
+        "pronounced": "きょうえん",
+        "written": "饗宴"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "merrymaking",
+          "partying"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "えんらく",
+        "written": "宴楽"
+      },
+      {
+        "priorities": [],
+        "pronounced": "えんらく",
+        "written": "燕楽"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "opening of a banquet",
+          "opening of a wedding reception"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "かいえん",
+        "written": "開宴"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "parting party",
+          "divorce party"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "りえん",
+        "written": "離宴"
+      },
+      {
+        "priorities": [],
+        "pronounced": "りえん",
+        "written": "離筵"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "party in full swing",
+          "party at its peak"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "えんもたけなわ",
+        "written": "宴もたけなわ"
+      },
+      {
+        "priorities": [],
+        "pronounced": "えんもたけなわ",
+        "written": "宴も酣"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "splendid banquet",
+          "joyous banquet"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "かえん",
+        "written": "佳宴"
+      },
+      {
+        "priorities": [],
+        "pronounced": "かえん",
+        "written": "嘉宴"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to give a dinner party",
+          "to hold a banquet"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "えんをはる",
+        "written": "宴を張る"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "banquet",
+          "invitation to a party",
+          "party"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しょうえん",
+        "written": "招宴"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "drinking party",
+          "banquet",
+          "feast"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しゅえん",
+        "written": "酒宴"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "party",
+          "banquet",
+          "feast"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "うたげ",
+        "written": "讌"
+      },
+      {
+        "priorities": [],
+        "pronounced": "えん",
+        "written": "讌"
+      },
+      {
+        "priorities": [
+          "news1",
+          "nf09"
+        ],
+        "pronounced": "うたげ",
+        "written": "宴"
+      },
+      {
+        "priorities": [
+          "news1",
+          "nf09"
+        ],
+        "pronounced": "えん",
+        "written": "宴"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "reception (e.g. wedding)",
+          "banquet",
+          "celebration",
+          "party"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "ichi1"
+        ],
+        "pronounced": "ひろうえん",
+        "written": "披露宴"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "revelry",
+          "tumultuous party",
+          "wild party",
+          "uproarious banquet"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "きょうえん",
+        "written": "狂宴"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "party",
+          "banquet",
+          "reception",
+          "feast",
+          "dinner"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "ichi1",
+          "news1",
+          "nf12"
+        ],
+        "pronounced": "えんかい",
+        "written": "宴会"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "New Year's banquet (held annually by the emperor on January 5, prior to WWII)"
+        ]
+      },
+      {
+        "glosses": [
+          "New Year's party"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しんねんえんかい",
+        "written": "新年宴会"
+      }
+    ]
+  }
+]

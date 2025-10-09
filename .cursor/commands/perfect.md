@@ -10,7 +10,7 @@ Review @web best practices → list options → pick one → explain to user how
 
 🧹 2. Standards
 
-Clean: names, modules, no “utils dump.”
+Clean: names, modules, no "utils dump."
 
 Secure: validate inputs, enforce authZ, no secrets in logs.
 
@@ -82,7 +82,25 @@ Peer reviewed.
 
 Inform user about @web practice choice.
 
-🗂️ 10. Task File Workflow
+🔄 10. Autonomous Planning & Repetition
+
+If task takes more time than expected:
+
+- **Reassess Scope:** Break down complex tasks into smaller, manageable chunks
+- **Plan Iterations:** Create phased approach with clear milestones
+- **Autonomous Execution:** Continue working independently without user intervention
+- **Progress Tracking:** Update task status and log progress regularly
+- **Quality Gates:** Run verification steps after each iteration
+- **Adaptive Strategy:** Adjust approach based on intermediate results
+
+For long-running tasks:
+
+- Set clear checkpoints every 30-60 minutes
+- Document decisions and rationale
+- Maintain momentum with incremental progress
+- Escalate only if blocked by external dependencies
+
+🗂️ 11. Task File Workflow
 
 For each task cycle, create a file:
 corrents-task/time-test.md like (corrent-tasks/27.09-08:22-test.md)

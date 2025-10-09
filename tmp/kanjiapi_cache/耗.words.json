@@ -1,0 +1,286 @@
+[
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "casualty"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "そんもうじんいん",
+        "written": "損耗人員"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "consumable goods"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news2",
+          "nf39",
+          "spec1"
+        ],
+        "pronounced": "しょうもうひん",
+        "written": "消耗品"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "exhaustive"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しょうこうてき",
+        "written": "消耗的"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "loss"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "そんもう",
+        "written": "損耗"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "natural decrease"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "げんこう",
+        "written": "減耗"
+      },
+      {
+        "priorities": [],
+        "pronounced": "げんもう",
+        "written": "減耗"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "oil depletion"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "せきゆげんもう",
+        "written": "石油減耗"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "person of diminished capacity (e.g. drugs, alcohol, mental retardation, etc.)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しんしんこうじゃくしゃ",
+        "written": "心神耗弱者"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "war of attrition"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しょうもうせん",
+        "written": "消耗戦"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "weaken and decline"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "すいもう",
+        "written": "衰耗"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "abrasion resistance",
+          "wear resistance"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "たいまもうせい",
+        "written": "耐摩耗性"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "expenses for consumable goods",
+          "supplies expenses"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しょうもうひんひ",
+        "written": "消耗品費"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "normal wear and tear",
+          "natural wear"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しぜんそんもう",
+        "written": "自然損耗"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "wear",
+          "abrasion"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "まもう",
+        "written": "磨耗"
+      },
+      {
+        "priorities": [
+          "news2",
+          "nf45"
+        ],
+        "pronounced": "まもう",
+        "written": "摩耗"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "diminished capacity",
+          "diminished responsibility",
+          "legally unaccountable (e.g. due to mental illness, drugs, alcohol, etc.)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news2",
+          "nf45",
+          "spec2"
+        ],
+        "pronounced": "しんしんこうじゃく",
+        "written": "心神耗弱"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "exhaustion",
+          "consumption",
+          "using up",
+          "dissipation",
+          "waste"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "ichi1",
+          "news1",
+          "nf24"
+        ],
+        "pronounced": "しょうこう",
+        "written": "消耗"
+      },
+      {
+        "priorities": [
+          "ichi1",
+          "news1",
+          "nf24"
+        ],
+        "pronounced": "しょうもう",
+        "written": "消耗"
+      }
+    ]
+  }
+]

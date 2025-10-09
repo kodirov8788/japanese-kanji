@@ -1,0 +1,449 @@
+[
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "fist fight"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news2",
+          "nf42"
+        ],
+        "pronounced": "なぐりあい",
+        "written": "殴り合い"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "punching and kicking"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "なぐるける",
+        "written": "殴るける"
+      },
+      {
+        "priorities": [],
+        "pronounced": "なぐるける",
+        "written": "殴る蹴る"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to hit with a club"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ぼうでなぐる",
+        "written": "棒で殴る"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "beating to death",
+          "striking dead"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おうさつ",
+        "written": "殴殺"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "hitting endlessly",
+          "beating up comprehensively"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "タコなぐり",
+        "written": "たこ殴り"
+      },
+      {
+        "priorities": [],
+        "pronounced": "タコなぐり",
+        "written": "タコ殴り"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "scribble",
+          "scrawl"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "なぐりがき",
+        "written": "殴り書き"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to fight",
+          "to exchange blows"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "なぐりあう",
+        "written": "殴りあう"
+      },
+      {
+        "priorities": [],
+        "pronounced": "なぐりあう",
+        "written": "殴り合う"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to hit hard",
+          "to strike hard"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "なぐりつける",
+        "written": "殴りつける"
+      },
+      {
+        "priorities": [],
+        "pronounced": "なぐりつける",
+        "written": "殴り付ける"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to knock down",
+          "to knock out"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "なぐりたおす",
+        "written": "なぐり倒す"
+      },
+      {
+        "priorities": [],
+        "pronounced": "なぐりたおす",
+        "written": "殴りたおす"
+      },
+      {
+        "priorities": [],
+        "pronounced": "なぐりたおす",
+        "written": "殴り倒す"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to scribble (write quickly)",
+          "to dash off"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "かきなぐる",
+        "written": "書きなぐる"
+      },
+      {
+        "priorities": [],
+        "pronounced": "かきなぐる",
+        "written": "書き殴る"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to strike dead",
+          "to beat to death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "なぐりころす",
+        "written": "殴りころす"
+      },
+      {
+        "priorities": [],
+        "pronounced": "なぐりころす",
+        "written": "殴り殺す"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "hit",
+          "strike",
+          "blow"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news1",
+          "nf24"
+        ],
+        "pronounced": "おうだ",
+        "written": "殴打"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "raid",
+          "attack",
+          "assault"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "なぐりこみ",
+        "written": "擲り込み"
+      },
+      {
+        "priorities": [],
+        "pronounced": "なぐりこみ",
+        "written": "殴りこみ"
+      },
+      {
+        "priorities": [
+          "news2",
+          "nf46",
+          "spec2"
+        ],
+        "pronounced": "なぐりこみ",
+        "written": "殴り込み"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to knock (a person) off his feet",
+          "to hit (something) hard",
+          "to send (someone) flying"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "なぐりとばす",
+        "written": "擲り飛ばす"
+      },
+      {
+        "priorities": [],
+        "pronounced": "なぐりとばす",
+        "written": "殴り飛ばす"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to raid",
+          "to storm",
+          "to launch an attack (on)",
+          "to mount an assault (on)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "なぐりこむ",
+        "written": "擲り込む"
+      },
+      {
+        "priorities": [],
+        "pronounced": "なぐりこむ",
+        "written": "殴りこむ"
+      },
+      {
+        "priorities": [],
+        "pronounced": "なぐりこむ",
+        "written": "殴り込む"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to strike",
+          "to hit",
+          "to beat",
+          "to punch"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "なぐる",
+        "written": "撲る"
+      },
+      {
+        "priorities": [],
+        "pronounced": "なぐる",
+        "written": "擲る"
+      },
+      {
+        "priorities": [
+          "ichi1",
+          "news1",
+          "nf11"
+        ],
+        "pronounced": "なぐる",
+        "written": "殴る"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to throw a punch at",
+          "to swing at",
+          "to strike out at",
+          "to raise a hand against"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "なぐりかかる",
+        "written": "殴りかかる"
+      },
+      {
+        "priorities": [],
+        "pronounced": "なぐりかかる",
+        "written": "殴り掛かる"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to hit hard",
+          "to punch hard",
+          "to give a hard blow",
+          "to wallop",
+          "to sock"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ぶんなぐる",
+        "written": "ぶん殴る"
+      },
+      {
+        "priorities": [],
+        "pronounced": "ぶんなぐる",
+        "written": "打ん殴る"
+      },
+      {
+        "priorities": [],
+        "pronounced": "ブンなぐる",
+        "written": "ブン殴る"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "slanting (rain, snow, etc.)",
+          "driving"
+        ]
+      },
+      {
+        "glosses": [
+          "striking on the side",
+          "side blow"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "よこなぐり",
+        "written": "横なぐり"
+      },
+      {
+        "priorities": [],
+        "pronounced": "よこなぐり",
+        "written": "横殴り"
+      }
+    ]
+  }
+]

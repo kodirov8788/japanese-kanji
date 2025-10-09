@@ -1,0 +1,325 @@
+[
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "a certain high school"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ぼうこうこう",
+        "written": "某高校"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "a certain month"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ぼうげつ",
+        "written": "某月"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "a certain publication"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ぼうし",
+        "written": "某誌"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "certain country"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ぼうこく",
+        "written": "某国"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "certain day"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ぼうじつ",
+        "written": "某日"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "certain place"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ぼうしょ",
+        "written": "某所"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "so-and-so"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ぼうぼう",
+        "written": "某々"
+      },
+      {
+        "priorities": [],
+        "pronounced": "ぼうぼう",
+        "written": "某某"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "the work (doings) of so-and-so"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ぼうのしわざ",
+        "written": "某の仕業"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "a certain ministry",
+          "an unspecified ministry"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ぼうしょう",
+        "written": "某省"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "a certain someone",
+          "Mr So-and-so"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "だれそれ",
+        "written": "誰それ"
+      },
+      {
+        "priorities": [],
+        "pronounced": "だれそれ",
+        "written": "誰某"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "certain company",
+          "unnamed company"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ぼうしゃ",
+        "written": "某社"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "certain person",
+          "certain amount"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "なんのなにがし",
+        "written": "何のなにがし"
+      },
+      {
+        "priorities": [],
+        "pronounced": "なんのなにがし",
+        "written": "何の某"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "a certain person",
+          "unnamed person",
+          "Mr. So-and-so",
+          "a certain someone who shall remain unnamed"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ぼうし",
+        "written": "某氏"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "I",
+          "me"
+        ]
+      },
+      {
+        "glosses": [
+          "certain",
+          "one"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "spec1"
+        ],
+        "pronounced": "ぼう",
+        "written": "某"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "I",
+          "me"
+        ]
+      },
+      {
+        "glosses": [
+          "someone",
+          "unknown person"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "それがし",
+        "written": "某"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "I",
+          "me"
+        ]
+      },
+      {
+        "glosses": [
+          "certain amount",
+          "some"
+        ]
+      },
+      {
+        "glosses": [
+          "certain person",
+          "Mr So-and-so",
+          "a certain ..."
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "なにがし",
+        "written": "何がし"
+      },
+      {
+        "priorities": [],
+        "pronounced": "なにがし",
+        "written": "何某"
+      },
+      {
+        "priorities": [],
+        "pronounced": "なにがし",
+        "written": "某"
+      },
+      {
+        "priorities": [],
+        "pronounced": "なにぼう",
+        "written": "何某"
+      }
+    ]
+  }
+]

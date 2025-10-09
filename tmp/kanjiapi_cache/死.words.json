@@ -1,0 +1,9260 @@
+[
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "(crime of) inflicting bodily injury resulting in death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しょうがいちしざい",
+        "written": "傷害致死罪"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "(crime of) rape (or attempted rape) resulting in death or injury"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ごうかんちししょうざい",
+        "written": "強姦致死傷罪"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "(death by) electrocution"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "かんでんし",
+        "written": "感電死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "(dying of) natural causes"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しぜんし",
+        "written": "自然死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "(fitting) place to die"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しにどころ",
+        "written": "死にどころ"
+      },
+      {
+        "priorities": [],
+        "pronounced": "しにどころ",
+        "written": "死に処"
+      },
+      {
+        "priorities": [],
+        "pronounced": "しにどころ",
+        "written": "死に所"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "(method of) euthanasia"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "あんしじゅつ",
+        "written": "安死術"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "(on the) verge of death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ひんし",
+        "written": "ひん死"
+      },
+      {
+        "priorities": [
+          "news2",
+          "nf41"
+        ],
+        "pronounced": "ひんし",
+        "written": "瀕死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "(theory of) the immortality of the soul"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "たましいふしせつ",
+        "written": "魂不死説"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "(you) couldn't kill (him) if you tried"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ころしてもしなない",
+        "written": "殺しても死なない"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Bataan Death March (1942)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "バターンしのこうしん",
+        "written": "バターン死の行進"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Book of the Dead (ancient Egypt)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ししゃのしょ",
+        "written": "死者の書"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Dead Sea"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news2",
+          "nf35"
+        ],
+        "pronounced": "しかい",
+        "written": "死海"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Dead Sea scrolls"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しかいしゃほん",
+        "written": "死海写本"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Dead Sea scrolls"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しかいぶんしょ",
+        "written": "死海文書"
+      },
+      {
+        "priorities": [],
+        "pronounced": "しかいもんじょ",
+        "written": "死海文書"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Death in Venice (1912 novella by Thomas Mann, film, opera)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ベニスにしす",
+        "written": "ベニスに死す"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Death of a Salesman (1949 play by Arthur Miller)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "セールスマンのし",
+        "written": "セールスマンの死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "I can't die and leave things this way"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しんでもしにきれぬ",
+        "written": "死んでも死に切れぬ"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "I can't die and leave things this way"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しんでもしにきれない",
+        "written": "死んでも死にきれない"
+      },
+      {
+        "priorities": [],
+        "pronounced": "しんでもしにきれない",
+        "written": "死んでも死に切れない"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "a bad person does not deserve to die in his own bed"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "あくにんはたたみのうえではしねない",
+        "written": "悪人は畳の上では死ねない"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "accidental death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "じこし",
+        "written": "事故死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "accidental death (esp. while climbing mountains or being shipwrecked)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "そうなんし",
+        "written": "遭難死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "after death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news1",
+          "nf06"
+        ],
+        "pronounced": "しご",
+        "written": "死後"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "after one out"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "いっしご",
+        "written": "一死後"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "after two outs"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "にしご",
+        "written": "二死後"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "all that lives must eventually die"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "いきみはしにみ",
+        "written": "生き身は死に身"
+      },
+      {
+        "priorities": [],
+        "pronounced": "いきみはしにみ",
+        "written": "生き身は死身"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "apoptosis"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "よていし",
+        "written": "予定死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "as lifeless as cold ashes"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しかい",
+        "written": "死灰"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "bases are loaded with no outs"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "むしまんるい",
+        "written": "無死満塁"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "bases on balls and pitches striking the batsmen"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news1",
+          "nf16"
+        ],
+        "pronounced": "ししきゅう",
+        "written": "四死球"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "being jealous of someone over something but also thinking they should be sentenced to death over it (esp. of male teachers having sexual relations with their students)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "うらやましけい",
+        "written": "うらやま死刑"
+      },
+      {
+        "priorities": [],
+        "pronounced": "うらやましけい",
+        "written": "羨ま死刑"
+      },
+      {
+        "priorities": [],
+        "pronounced": "うらやましけい",
+        "written": "裏山死刑"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "between life and death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "せいしのさかい",
+        "written": "生死の境"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "birth is the beginning of death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しょうはしのはじめ",
+        "written": "生は死の始め"
+      },
+      {
+        "priorities": [],
+        "pronounced": "せいはしのはじめ",
+        "written": "生は死の始め"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "birth, illness, old age and death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "せいびょうろうし",
+        "written": "生病老死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "bleeding to death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しゅっけつし",
+        "written": "出血死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "body of a person who died an unnatural death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "へんしたい",
+        "written": "変死体"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "body of a strangled person"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "こうさつしたい",
+        "written": "絞殺死体"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "brain death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "ichi1",
+          "news1",
+          "nf03"
+        ],
+        "pronounced": "のうし",
+        "written": "脳死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "burning to death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "らんし",
+        "written": "爛死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "burnt corpse"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しょうしたい",
+        "written": "焼死体"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "capital punishment"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しけいせいど",
+        "written": "死刑制度"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "cardiac death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しんぞうし",
+        "written": "心臓死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "case fatality rate"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ちしりつ",
+        "written": "致死率"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "cause of death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news1",
+          "nf08"
+        ],
+        "pronounced": "しいん",
+        "written": "死因"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "cell death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "さいぼうし",
+        "written": "細胞死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "certain death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ばんし",
+        "written": "万死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "coroner"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "けんしかん",
+        "written": "検死官"
+      },
+      {
+        "priorities": [],
+        "pronounced": "けんしかん",
+        "written": "検視官"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "corpse"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しし",
+        "written": "死屍"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "corpse of a person who has met a violent death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ざんしたい",
+        "written": "惨死体"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "dead axle"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しじく",
+        "written": "死軸"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "dead horse"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しば",
+        "written": "死馬"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "dead point"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "してん",
+        "written": "死点"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "dead space"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しくう",
+        "written": "死腔"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "deadweight loss"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しじゅうてきそんしつ",
+        "written": "死重的損失"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しぼつ",
+        "written": "死歿"
+      },
+      {
+        "priorities": [
+          "news2",
+          "nf30"
+        ],
+        "pronounced": "しぼつ",
+        "written": "死没"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "death (and entering the hereafter)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しで",
+        "written": "死出"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "death benefit"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しぼうきゅうふきん",
+        "written": "死亡給付金"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "death benefit (from life insurance)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しぼうほしょう",
+        "written": "死亡保障"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "death by being run over"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "れきし",
+        "written": "轢死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "death by drowning"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おぼれじに",
+        "written": "溺れ死に"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "death by drowning"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "できし",
+        "written": "溺死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "death by drowning"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news1",
+          "nf17"
+        ],
+        "pronounced": "すいし",
+        "written": "水死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "death by falling"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ついらくし",
+        "written": "墜落死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "death by fire"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news1",
+          "nf15"
+        ],
+        "pronounced": "しょうし",
+        "written": "焼死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "death by hanging"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "けいし",
+        "written": "経死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "death by laughter"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "わらいじに",
+        "written": "笑い死に"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "death by smoke suffocation"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "えんし",
+        "written": "煙死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "death certificate"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しぼうしょうめいしょ",
+        "written": "死亡証明書"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "death certificate"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しぼうしんだんしょ",
+        "written": "死亡診断書"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "death due to shock (triggered by blood loss, heart failure or other causes)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ショックし",
+        "written": "ショック死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "death during sexual intercourse"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ふくじょうし",
+        "written": "腹上死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "death from disease contracted at the front"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "せんびょうし",
+        "written": "戦病死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "death from infection"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "かんせんし",
+        "written": "感染死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "death from natural causes"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ないいんし",
+        "written": "内因死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "death from poisoning"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ちゅうどくし",
+        "written": "中毒死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "death from suffocation"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ちっし",
+        "written": "窒死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "death in agony"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "もんし",
+        "written": "悶死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "death in battle"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "ichi1",
+          "news1",
+          "nf19"
+        ],
+        "pronounced": "せんし",
+        "written": "戦死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "death march"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しのこうしん",
+        "written": "死の行進"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "death not caused by a violent crime (excl. dying of natural causes)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ひはんざいし",
+        "written": "非犯罪死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "death of God"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "かみのし",
+        "written": "神の死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "death rattle"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しぜんぜんめい",
+        "written": "死前喘鳴"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "death sentence"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しけいせんこく",
+        "written": "死刑宣告"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "death sentence"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しけいはんけつ",
+        "written": "死刑判決"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "deathbed"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しのとこ",
+        "written": "死の床"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "decapitating oneself"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ふんし",
+        "written": "刎死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "declared death without identification of a body"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "にんていしぼう",
+        "written": "認定死亡"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "demon of death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しま",
+        "written": "死魔"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "desperate effort"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news2",
+          "nf43"
+        ],
+        "pronounced": "しりょく",
+        "written": "死力"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "double suicide"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ごういじょうし",
+        "written": "合意情死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "double suicide"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "あいたいじに",
+        "written": "相対死"
+      },
+      {
+        "priorities": [],
+        "pronounced": "あいたいじに",
+        "written": "相対死に"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "drowned body"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "すいしたい",
+        "written": "水死体"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "drowned body"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "できしたい",
+        "written": "溺死体"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "drowned person"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "すいししゃ",
+        "written": "水死者"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "drowned person"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "できししゃ",
+        "written": "溺死者"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "duty ends only in death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ししてのちやむ",
+        "written": "死してのちやむ"
+      },
+      {
+        "priorities": [],
+        "pronounced": "ししてのちやむ",
+        "written": "死してのち已む"
+      },
+      {
+        "priorities": [],
+        "pronounced": "ししてのちやむ",
+        "written": "死して後已む"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "dying by the wayside"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "とうし",
+        "written": "倒死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "dying for one's country"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "いっしほうこく",
+        "written": "一死報国"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "dying in a fit of anger or indignation"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news2",
+          "nf38"
+        ],
+        "pronounced": "ふんし",
+        "written": "憤死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "dying in miserable circumstances"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "きゅうし",
+        "written": "窮死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "dying in prison"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ろうし",
+        "written": "牢死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "dying in vain"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "とし",
+        "written": "徒死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "dying insane"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "きょうし",
+        "written": "狂死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "dying of cancer"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "がんし",
+        "written": "がん死"
+      },
+      {
+        "priorities": [],
+        "pronounced": "がんし",
+        "written": "ガン死"
+      },
+      {
+        "priorities": [],
+        "pronounced": "がんし",
+        "written": "癌死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "dying of love"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "こいじに",
+        "written": "恋死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "dying of old age"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ろうし",
+        "written": "老死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "dying of thirst"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "かっし",
+        "written": "渇死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "earthquake-related death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しんさいかんれんし",
+        "written": "震災関連死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "epidermal necrolysis"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ひょうひえし",
+        "written": "表皮壊死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "estimated time of death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しぼうすいていじこく",
+        "written": "死亡推定時刻"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "euthanasia"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news1",
+          "nf14"
+        ],
+        "pronounced": "あんらくし",
+        "written": "安楽死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "execution"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しけいしっこう",
+        "written": "死刑執行"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "execution by decapitation followed by public display of the body (form of punishment in ancient China)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "きし",
+        "written": "棄市"
+      },
+      {
+        "priorities": [],
+        "pronounced": "きし",
+        "written": "棄死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "execution technique in which the flesh is chopped away"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "とし",
+        "written": "屠死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "executioner"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しけいしっこうにん",
+        "written": "死刑執行人"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "exerting oneself to the utmost, prepared to die if necessary"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "たいしいちばん",
+        "written": "大死一番"
+      },
+      {
+        "priorities": [],
+        "pronounced": "だいしいちばん",
+        "written": "大死一番"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "extinct volcano"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しかざん",
+        "written": "死火山"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "face of a dead person"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しにがお",
+        "written": "死に顔"
+      },
+      {
+        "priorities": [],
+        "pronounced": "しにがお",
+        "written": "死顔"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "falling to one's death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ついし",
+        "written": "墜死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "fatal disease"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しびょう",
+        "written": "死病"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "fatal situation"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しちゅう",
+        "written": "死中"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "fatal wound"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ちししょう",
+        "written": "致死傷"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "fear of death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しのきょうふ",
+        "written": "死の恐怖"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "fetal death due to distress"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "たいじせっぱくかし",
+        "written": "胎児切迫仮死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "fighting to the death (with swords)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "きりじに",
+        "written": "切り死に"
+      },
+      {
+        "priorities": [],
+        "pronounced": "きりじに",
+        "written": "斬り死に"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "funeral makeup"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しにげしょう",
+        "written": "死に化粧"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "give me liberty, or give me death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "じゆうかしか",
+        "written": "自由か死か"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "half-dead"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "はんし",
+        "written": "半死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "heaps of corpses all around"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ししるいるい",
+        "written": "死屍累々"
+      },
+      {
+        "priorities": [],
+        "pronounced": "ししるいるい",
+        "written": "死屍累累"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "heat death (i.e. of the universe)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ねつてきし",
+        "written": "熱的死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "if a man hears the Way in the morning, he may die in the evening without regret"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "あしたにみちをきかばゆうべにしすともかなり",
+        "written": "朝に道を聞かば、夕べに死すとも可なり"
+      },
+      {
+        "priorities": [],
+        "pronounced": "あしたにみちをきかばゆうべにしすともかなり",
+        "written": "朝に道を聞かば夕べに死すとも可なり"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "if you get too absorbed when playing go, you will miss your parent's deathbed"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ごにこるとおやのしにめにあわぬ",
+        "written": "碁に凝ると親の死に目に会わぬ"
+      },
+      {
+        "priorities": [],
+        "pronounced": "ごにこるとおやのしにめにあわぬ",
+        "written": "碁に凝ると親の死に目に逢わぬ"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "illegal arrest and imprisonment resulting in death or bodily injury"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "たいほかんきんちししょうざい",
+        "written": "逮捕監禁致死傷罪"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "infant mortality"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "にゅうじしぼうりつ",
+        "written": "乳児死亡率"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "infant mortality rate"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ようじしぼうりつ",
+        "written": "幼児死亡率"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "instant death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "そくしぼう",
+        "written": "即死亡"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "instant death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "ichi1",
+          "news2",
+          "nf36"
+        ],
+        "pronounced": "そくし",
+        "written": "即死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "interphase death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "かんきし",
+        "written": "間期死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "karoshi line (official measure of excessive hours of overtime per month)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "かろうしライン",
+        "written": "過労死ライン"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "killed vaccine"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しきんワクチン",
+        "written": "死菌ワクチン"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "lesser cuckoo (Cuculus poliocephalus)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しでたおさ",
+        "written": "死出田長"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "lesser cuckoo (Cuculus poliocephalus)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しでのたおさ",
+        "written": "死出の田長"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "lethal"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ちしせい",
+        "written": "致死性"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "lethal dose"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news2",
+          "nf35",
+          "spec2"
+        ],
+        "pronounced": "ちしりょう",
+        "written": "致死量"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "lethal gene"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ちしいでんし",
+        "written": "致死遺伝子"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "lethal injection"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ちしちゅうしゃ",
+        "written": "致死注射"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "lethal mutation"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ちしとつぜんへんい",
+        "written": "致死突然変異"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "life and death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "せいとし",
+        "written": "生と死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "life and death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news2",
+          "nf26"
+        ],
+        "pronounced": "ししょう",
+        "written": "死生"
+      },
+      {
+        "priorities": [
+          "news2",
+          "nf26"
+        ],
+        "pronounced": "しせい",
+        "written": "死生"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "life and death are the two faces of the same coin"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "せいしいちにょ",
+        "written": "生死一如"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "living is difficult; dying is easy"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "せいはかたくしはやすし",
+        "written": "生は難く死は易し"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "manner of death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しにざま",
+        "written": "死にざま"
+      },
+      {
+        "priorities": [],
+        "pronounced": "しにざま",
+        "written": "死に様"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "matter of life and death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "せいしにかかわるもんだい",
+        "written": "生死にかかわる問題"
+      },
+      {
+        "priorities": [],
+        "pronounced": "せいしにかかわるもんだい",
+        "written": "生死に関わる問題"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "moment of death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しにめ",
+        "written": "死に目"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "morgue"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "したいおきば",
+        "written": "死体置き場"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "morgue"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "したいほかんじょ",
+        "written": "死体保管所"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "mortal"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しすべき",
+        "written": "死すべき"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "mysterious death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "かいし",
+        "written": "怪死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "narrow escape from death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "きゅうしにいっしょう",
+        "written": "九死に一生"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "narrow escape from the jaw of death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "きゅうしいっしょう",
+        "written": "九死一生"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "narrowly averting death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news2",
+          "nf37"
+        ],
+        "pronounced": "きゅうし",
+        "written": "九死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "near-death experience"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "りんしたいけん",
+        "written": "臨死体験"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "necromancer"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しりょうじゅつし",
+        "written": "死霊術師"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "necrophilia"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "したいせいあい",
+        "written": "死体性愛"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "necrosis"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news2",
+          "nf33"
+        ],
+        "pronounced": "えし",
+        "written": "壊死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "neonatal death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しんせいじしぼう",
+        "written": "新生児死亡"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "no outs"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news1",
+          "nf07"
+        ],
+        "pronounced": "むし",
+        "written": "無死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "non-lethal weapon"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ひちしせいへいき",
+        "written": "非致死性兵器"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "number of deaths"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しぼうすう",
+        "written": "死亡数"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "obituary notice"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しぼうきじ",
+        "written": "死亡記事"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "old soldiers never die; they just fade away"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ろうへいはしなずただきえさるのみ",
+        "written": "老兵は死なずただ消え去るのみ"
+      },
+      {
+        "priorities": [],
+        "pronounced": "ろうへいはしなずただきえさるのみ",
+        "written": "老兵は死なず只消え去るのみ"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "on the verge of dying"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "すいし",
+        "written": "垂死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "once you're dead, that's it"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しんではなみがさくものか",
+        "written": "死んで花実が咲くものか"
+      },
+      {
+        "priorities": [],
+        "pronounced": "しんではなみがさくものか",
+        "written": "死んで花見が咲くものか"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "once you're dead, that's it"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しんではなみがなるものか",
+        "written": "死んで花実がなるものか"
+      },
+      {
+        "priorities": [],
+        "pronounced": "しんではなみがなるものか",
+        "written": "死んで花実が成るものか"
+      },
+      {
+        "priorities": [],
+        "pronounced": "しんではなみがなるものか",
+        "written": "死んで花見がなるものか"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "one's opinion on (life and) death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しせいかん",
+        "written": "死生観"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "organ transplant from a brain-dead donor"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "のうしいしょく",
+        "written": "脳死移植"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "pancreatic necrosis"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "すいえし",
+        "written": "膵壊死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "pancreatic necrosis"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "すいぞうえし",
+        "written": "膵臓壊死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "paper flower for a funeral"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しかばな",
+        "written": "死花花"
+      },
+      {
+        "priorities": [],
+        "pronounced": "しかばな",
+        "written": "紙花花"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "person frozen to death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "とうししゃ",
+        "written": "凍死者"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "phoenix"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news2",
+          "nf40"
+        ],
+        "pronounced": "ふしちょう",
+        "written": "不死鳥"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "pitch that hits the batter"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news1",
+          "nf12"
+        ],
+        "pronounced": "しきゅう",
+        "written": "死球"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "place of death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しぼうち",
+        "written": "死亡地"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "place of execution"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しけいじょう",
+        "written": "死刑場"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "post-mortem certificate"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "したいけんあんしょ",
+        "written": "死体検案書"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "preimplantation death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ちゃくしょうぜんしぼう",
+        "written": "着床前死亡"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "premature death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ようし",
+        "written": "夭死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "professional negligence resulting in death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ぎょうむじょうかしつちし",
+        "written": "業務上過失致死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "professional negligence resulting in injury or death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ぎょうむじょうかしつちししょう",
+        "written": "業務上過失致死傷"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "programmed cell death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "プログラムさいぼうし",
+        "written": "プログラム細胞死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "ptomaine poisoning"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しどく",
+        "written": "屍毒"
+      },
+      {
+        "priorities": [],
+        "pronounced": "しどく",
+        "written": "死毒"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "putrid smell of a corpse"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ししゅう",
+        "written": "屍臭"
+      },
+      {
+        "priorities": [],
+        "pronounced": "ししゅう",
+        "written": "死臭"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "rigor mortis"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しごこうちょく",
+        "written": "死後硬直"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "saprophagy"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しぶつきせい",
+        "written": "死物寄生"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "saving from the brink of death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "きし",
+        "written": "起死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "see Naples and die"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ナポリをみてからしね",
+        "written": "ナポリを見てから死ね"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "see Naples and die"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ナポリをみてしね",
+        "written": "ナポリを見て死ね"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "stillbirth"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news2",
+          "nf40"
+        ],
+        "pronounced": "しさん",
+        "written": "死産"
+      },
+      {
+        "priorities": [
+          "news2",
+          "nf40"
+        ],
+        "pronounced": "しざん",
+        "written": "死産"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "stillborn baby"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しざんじ",
+        "written": "死産児"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "sudden death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "とつぜんし",
+        "written": "突然死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "sudden death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "とんし",
+        "written": "頓死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "sudden death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news1",
+          "nf23"
+        ],
+        "pronounced": "きゅうし",
+        "written": "急死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "suicide brought on by excessive overwork"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "かろうじし",
+        "written": "過労自死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "suicide corps"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "けっしたい",
+        "written": "決死隊"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "thanatology"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しせいがく",
+        "written": "死生学"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "the circle of reincarnation"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "りんねしょうじ",
+        "written": "輪廻生死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "the four inevitables in human life (birth, aging, sickness, and death)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しょうろうびょうし",
+        "written": "生老病死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "the instant of death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しう",
+        "written": "死有"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "three outs"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "さんし",
+        "written": "三死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "time of death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しぼうじこく",
+        "written": "死亡時刻"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "time to die"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しにどき",
+        "written": "死に時"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to be burnt to death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "やけしぬ",
+        "written": "焼け死ぬ"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to be dying"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しにかかる",
+        "written": "死にかかる"
+      },
+      {
+        "priorities": [],
+        "pronounced": "しにかかる",
+        "written": "死に掛かる"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to be out of danger"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しせんをこえる",
+        "written": "死線を越える"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to be separated by death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しにわかれる",
+        "written": "死に別れる"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to commute a death sentence to life imprisonment"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しいっとうをげんずる",
+        "written": "死一等を減ずる"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to die"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しす",
+        "written": "死す"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to die"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しする",
+        "written": "死する"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to die"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おっちぬ",
+        "written": "おっ死ぬ"
+      },
+      {
+        "priorities": [],
+        "pronounced": "おっちぬ",
+        "written": "押っ死ぬ"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to die and be reborn as something else"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しにかわる",
+        "written": "死に変る"
+      },
+      {
+        "priorities": [],
+        "pronounced": "しにかわる",
+        "written": "死に変わる"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to die of embarrassment"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "はずかしぬ",
+        "written": "恥ずか死ぬ"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to fight to the last (death)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しぬまでたたかう",
+        "written": "死ぬまで戦う"
+      },
+      {
+        "priorities": [],
+        "pronounced": "しぬまでたたかう",
+        "written": "死ぬ迄戦う"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to hasten one's death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しにいそぐ",
+        "written": "死に急ぐ"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to have a narrow escape from death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "きゅうしにいっしょうをえる",
+        "written": "九死に一生を得る"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to let die"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しなす",
+        "written": "死なす"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to outlive"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しにおくれる",
+        "written": "死に後れる"
+      },
+      {
+        "priorities": [],
+        "pronounced": "しにおくれる",
+        "written": "死に遅れる"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to revive the dead"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ししゃをいかす",
+        "written": "死者を生かす"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to starve to death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ひしぬ",
+        "written": "乾死ぬ"
+      },
+      {
+        "priorities": [],
+        "pronounced": "ひしぬ",
+        "written": "干死ぬ"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "unclaimed dead traveler"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "こうりょしぼうにん",
+        "written": "行旅死亡人"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "undead"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ふししゃ",
+        "written": "不死者"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "unnatural death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "いじょうし",
+        "written": "異状死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "useless learning"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しにがくもん",
+        "written": "死に学問"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "valley of death (barrier between product development and commercialization stages)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しのたに",
+        "written": "死の谷"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "vehicular manslaughter"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "きけんうんてんちしざい",
+        "written": "危険運転致死罪"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "video game in which the player is likely to die frequently"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しにゲー",
+        "written": "死にゲー"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "waning moon"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しはく",
+        "written": "死魄"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "(crime of) abandonment of a corpse",
+          "abandoning a dead body"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "したいいき",
+        "written": "死体遺棄"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "(death from) starvation",
+          "starving to death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "ichi1",
+          "news1",
+          "nf22"
+        ],
+        "pronounced": "がし",
+        "written": "餓死"
+      },
+      {
+        "priorities": [
+          "ichi1",
+          "news1",
+          "nf22"
+        ],
+        "pronounced": "がしん",
+        "written": "餓死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "(death from) starvation",
+          "starving to death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "うえじに",
+        "written": "飢え死"
+      },
+      {
+        "priorities": [],
+        "pronounced": "うえじに",
+        "written": "飢死"
+      },
+      {
+        "priorities": [],
+        "pronounced": "うえじに",
+        "written": "飢死に"
+      },
+      {
+        "priorities": [],
+        "pronounced": "うえじに",
+        "written": "餓え死に"
+      },
+      {
+        "priorities": [],
+        "pronounced": "うえじに",
+        "written": "饑死"
+      },
+      {
+        "priorities": [],
+        "pronounced": "かつえじに",
+        "written": "飢え死"
+      },
+      {
+        "priorities": [],
+        "pronounced": "かつえじに",
+        "written": "飢死"
+      },
+      {
+        "priorities": [],
+        "pronounced": "かつえじに",
+        "written": "飢死に"
+      },
+      {
+        "priorities": [],
+        "pronounced": "かつえじに",
+        "written": "餓え死に"
+      },
+      {
+        "priorities": [],
+        "pronounced": "かつえじに",
+        "written": "饑死"
+      },
+      {
+        "priorities": [
+          "ichi1"
+        ],
+        "pronounced": "うえじに",
+        "written": "飢え死に"
+      },
+      {
+        "priorities": [
+          "ichi1"
+        ],
+        "pronounced": "かつえじに",
+        "written": "飢え死に"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "(state of) apparent death",
+          "suspended animation"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news2",
+          "nf33"
+        ],
+        "pronounced": "かし",
+        "written": "仮死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Christianity (in feudal Japan)",
+          "Christian"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "キリシタン",
+        "written": "切支丹"
+      },
+      {
+        "priorities": [],
+        "pronounced": "キリシタン",
+        "written": "切死丹"
+      },
+      {
+        "priorities": [],
+        "pronounced": "キリシタン",
+        "written": "吉利支丹"
+      },
+      {
+        "priorities": [],
+        "pronounced": "キリシタン",
+        "written": "鬼理死丹"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Dead Souls (novel by Gogol)",
+          "Myortvye dushi"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しせるたましい",
+        "written": "死せる魂"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "I love you too",
+          "I would (now) not mind dying"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しんでもいいわ",
+        "written": "死んでもいいわ"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "a blooming cut flower",
+          "glorious death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しにばな",
+        "written": "死に花"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "abolition of the death penalty",
+          "abolition of capital punishment"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しけいはいし",
+        "written": "死刑廃止"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "accidental death",
+          "casualty"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ひとじに",
+        "written": "人死に"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "adipocere (waxy substance formed by the decomposition of corpses subjected to moisture)",
+          "grave wax"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しろう",
+        "written": "屍蝋"
+      },
+      {
+        "priorities": [],
+        "pronounced": "しろう",
+        "written": "屍蠟"
+      },
+      {
+        "priorities": [],
+        "pronounced": "しろう",
+        "written": "死蝋"
+      },
+      {
+        "priorities": [],
+        "pronounced": "しろう",
+        "written": "死蠟"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "advancing in the face of death",
+          "having a narrow escape from the jaw of death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ばんしいっしょう",
+        "written": "万死一生"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "all but dead",
+          "half killed"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "はんしはんしょう",
+        "written": "半死半生"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "all things being in flux through the endless circle of birth, death, and rebirth",
+          "the circle of transmigration"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しょうじりんね",
+        "written": "生死輪廻"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "all things being in flux through the endless circle of birth, death, and rebirth",
+          "the circle of transmigration"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しょうじるてん",
+        "written": "生死流転"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "all things being in flux through the endless circle of birth, death, and rebirth",
+          "the circle of transmigration"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "るてんしょうじ",
+        "written": "流転生死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "becoming emaciated and die",
+          "wither away"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "すいし",
+        "written": "衰死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "being on the verge of starvation",
+          "being about to starve"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "がしすんぜん",
+        "written": "餓死寸前"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "burial clothes",
+          "clothes worn to commit suicide"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しにしょうぞく",
+        "written": "死に装束"
+      },
+      {
+        "priorities": [],
+        "pronounced": "しにしょうぞく",
+        "written": "死装束"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "capital crime",
+          "crime resulting in a death penalty"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しざい",
+        "written": "死罪"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "carrying a casket",
+          "carrying something (in a group) on one shoulder, as if it were a casket (considered an ill-omened way to carry something)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しびとかつぎ",
+        "written": "死人担ぎ"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "casualties",
+          "injuries and deaths"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news2",
+          "nf27"
+        ],
+        "pronounced": "ししょう",
+        "written": "死傷"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "casualties",
+          "the killed and wounded"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news1",
+          "nf09"
+        ],
+        "pronounced": "ししょうしゃ",
+        "written": "死傷者"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "child who has survived the suicide of a parent",
+          "child of a person who committed suicide"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "じしいじ",
+        "written": "自死遺児"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "committing suicide (to remonstrate or dissuade one's lord)",
+          "preparing to die in an effort to dissuade one's lord"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "かんし",
+        "written": "諌死"
+      },
+      {
+        "priorities": [],
+        "pronounced": "かんし",
+        "written": "諫死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "corpse",
+          "dead person"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "ichi1",
+          "news2",
+          "nf45"
+        ],
+        "pronounced": "しにん",
+        "written": "死人"
+      },
+      {
+        "priorities": [
+          "ichi1",
+          "news2",
+          "nf45"
+        ],
+        "pronounced": "しびと",
+        "written": "死人"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "criminal condemned to death",
+          "convict on death row"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "かくていしけいしゅう",
+        "written": "確定死刑囚"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "criminal condemned to death",
+          "convict on death row"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しけいかくていしゃ",
+        "written": "死刑確定者"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "criminal condemned to death",
+          "convict on death row"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news1",
+          "nf16"
+        ],
+        "pronounced": "しけいしゅう",
+        "written": "死刑囚"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "crying over spilt milk",
+          "counting the age of one's dead child"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しんだこのとしをかぞえる",
+        "written": "死んだ子の年を数える"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "dance of death",
+          "danse macabre"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しのぶとう",
+        "written": "死の舞踏"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "dead child",
+          "stillborn child"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しじ",
+        "written": "死児"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "dead city",
+          "ghost town"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しと",
+        "written": "死都"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "dead flesh",
+          "carrion"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しにく",
+        "written": "屍肉"
+      },
+      {
+        "priorities": [],
+        "pronounced": "しにく",
+        "written": "死肉"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "dead men tell no tales",
+          "the dead cannot speak in their own defense"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しにんにくちなし",
+        "written": "死人に口なし"
+      },
+      {
+        "priorities": [],
+        "pronounced": "しにんにくちなし",
+        "written": "死人に口無し"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "dead thing",
+          "useless item"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しぶつ",
+        "written": "死物"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "deadly disease",
+          "sickness unto death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しにいたるやまい",
+        "written": "死にいたる病"
+      },
+      {
+        "priorities": [],
+        "pronounced": "しにいたるやまい",
+        "written": "死に至る病"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "death benefit",
+          "life insurance payout"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しぼうほけんきん",
+        "written": "死亡保険金"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "death by (child) abuse",
+          "(child) abuse resulting in death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ぎゃくたいし",
+        "written": "虐待死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "death by crushing",
+          "being crushed to death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news2",
+          "nf33"
+        ],
+        "pronounced": "あっし",
+        "written": "圧死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "death by heatstroke",
+          "heat-related death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ねっし",
+        "written": "熱死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "death by strangulation",
+          "ligature strangulation"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "こうし",
+        "written": "絞死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "death by suffocation",
+          "death by choking"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ちっそくし",
+        "written": "窒息死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "death from assault",
+          "death resulting from a violent act"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ぼうこうし",
+        "written": "暴行死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "death from cold",
+          "freezing to death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "こごえじに",
+        "written": "凍え死に"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "death from cold",
+          "freezing to death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news2",
+          "nf39",
+          "spec2"
+        ],
+        "pronounced": "とうし",
+        "written": "凍死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "death from disease",
+          "death from illness"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "ichi1",
+          "news1",
+          "nf20"
+        ],
+        "pronounced": "びょうし",
+        "written": "病死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "death from prostration",
+          "death from emaciation"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "すいじゃくし",
+        "written": "衰弱死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "death in battle",
+          "death on the battlefield"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "うちじに",
+        "written": "討ち死に"
+      },
+      {
+        "priorities": [],
+        "pronounced": "うちじに",
+        "written": "討死"
+      },
+      {
+        "priorities": [],
+        "pronounced": "うちじに",
+        "written": "討死に"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "death in jail",
+          "death in prison"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ごくし",
+        "written": "獄死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "death in madness",
+          "dying insane"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "くるいじに",
+        "written": "狂い死に"
+      },
+      {
+        "priorities": [],
+        "pronounced": "くるいじに",
+        "written": "狂死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "death penalty",
+          "capital punishment"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "ichi1",
+          "news1",
+          "nf05"
+        ],
+        "pronounced": "しけい",
+        "written": "死刑"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "death rate",
+          "mortality rate"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news1",
+          "nf12"
+        ],
+        "pronounced": "しぼうりつ",
+        "written": "死亡率"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "death with dignity",
+          "natural death (as opposed to extending one's life unnaturally with life support)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "そんげんし",
+        "written": "尊厳死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "declaration of death",
+          "pronouncing someone to be dead"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しぼうせんこく",
+        "written": "死亡宣告"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "decomposed body",
+          "decomposing corpse"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ふらんしたい",
+        "written": "腐乱死体"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "desperately",
+          "for one's dear life"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "spec1"
+        ],
+        "pronounced": "ひっしになって",
+        "written": "必死になって"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "desperation",
+          "struggle to the death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しにものぐるい",
+        "written": "死にものぐるい"
+      },
+      {
+        "priorities": [],
+        "pronounced": "しにものぐるい",
+        "written": "死にもの狂い"
+      },
+      {
+        "priorities": [
+          "news2",
+          "nf45"
+        ],
+        "pronounced": "しにものぐるい",
+        "written": "死に物狂い"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "die all together",
+          "go to the grave together"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しなばもろとも",
+        "written": "死なばもろとも"
+      },
+      {
+        "priorities": [],
+        "pronounced": "しなばもろとも",
+        "written": "死なば諸共"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "direct death",
+          "death directly caused by an accident, disease, etc."
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ちょくせつし",
+        "written": "直接死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "disaster-related death",
+          "catastrophe-related death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "さいがいかんれんし",
+        "written": "災害関連死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "dying alone (esp. of someone who lives alone and dies of natural causes at home without anyone knowing)",
+          "solitary death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "こどくし",
+        "written": "孤独死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "dying alone (esp. of someone who lives alone and dies of natural causes at home without anyone knowing)",
+          "solitary death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "こりつし",
+        "written": "孤立死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "dying by the roadside",
+          "dying a dog's death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "のたれじに",
+        "written": "のたれ死に"
+      },
+      {
+        "priorities": [],
+        "pronounced": "のたれじに",
+        "written": "野垂れ死に"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "dying in vain",
+          "wasteful sacrifice of life"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "いぬじに",
+        "written": "犬死"
+      },
+      {
+        "priorities": [],
+        "pronounced": "いぬじに",
+        "written": "犬死に"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "dying of cuteness",
+          "dying from seeing something that makes one's heart go pitter-patter"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "きゅんし",
+        "written": "きゅん死"
+      },
+      {
+        "priorities": [],
+        "pronounced": "キュンし",
+        "written": "キュン死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "dying of shame",
+          "being so ashamed one wants to die"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "きし",
+        "written": "愧死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "dying of shame",
+          "being so ashamed one wants to die"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ざんし",
+        "written": "慙死"
+      },
+      {
+        "priorities": [],
+        "pronounced": "ざんし",
+        "written": "慚死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "dying while traveling",
+          "dying while abroad"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "かくし",
+        "written": "客死"
+      },
+      {
+        "priorities": [],
+        "pronounced": "きゃくし",
+        "written": "客死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "excess deaths",
+          "excess mortality"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ちょうかしぼう",
+        "written": "超過死亡"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "excess mortality rate",
+          "mortality displacement"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ちょうかしぼうりつ",
+        "written": "超過死亡率"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "execution",
+          "death by execution"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "けいし",
+        "written": "刑死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "falling to one's death",
+          "death from a fall"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "てんらくし",
+        "written": "転落死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "fatal accident",
+          "deadly accident"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しぼうじこ",
+        "written": "死亡事故"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "fatal familial insomnia",
+          "FFI"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ちしせいかぞくせいふみんしょう",
+        "written": "致死性家族性不眠症"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "fate",
+          "life or death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しめい",
+        "written": "死命"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "fetal death (foetal)",
+          "embryonic demise"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "たいじしぼう",
+        "written": "胎児死亡"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "fetal distress",
+          "foetal distress"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "たいじかし",
+        "written": "胎児仮死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "finding a way out of a potentially fatal situation",
+          "seeking a way out of a desperate situation"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しちゅうきゅうかつ",
+        "written": "死中求活"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "following one's master into the grave",
+          "committing suicide after one's lord has died"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "じゅんし",
+        "written": "殉死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "fuck Japan",
+          "drop dead, Japan"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "にほんしね",
+        "written": "日本死ね"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "give water to a dying person",
+          "water given to a dying person"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しにみず",
+        "written": "死に水"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "group of death",
+          "tournament group containing many strong teams"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しのくみ",
+        "written": "死の組"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "he has not lived that lives not after death",
+          "the great use of life is to spend it for something that will outlast it"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ひとはししてなをとどむ",
+        "written": "人は死して名を留む"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "hoarding",
+          "storing away (without using)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しぞう",
+        "written": "死蔵"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "home death",
+          "dying at home"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ざいたくし",
+        "written": "在宅死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "idling one's life away",
+          "living to no purpose"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "すいせいぼうし",
+        "written": "酔生夢死"
+      },
+      {
+        "priorities": [],
+        "pronounced": "すいせいむし",
+        "written": "酔生夢死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "incident of death",
+          "fatal case"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しぼうれい",
+        "written": "死亡例"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "intrauterine fetal death (foetal)",
+          "IUFD"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しきゅうないたいじしぼう",
+        "written": "子宮内胎児死亡"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "involuntary manslaughter",
+          "accidental homicide"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "かしつちしざい",
+        "written": "過失致死罪"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "karoshi",
+          "death from overwork"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "かろうし",
+        "written": "過労死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "large number of deaths",
+          "massive fatalities"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "たいりょうし",
+        "written": "大量死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "lethal",
+          "fatal"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news1",
+          "nf21"
+        ],
+        "pronounced": "ちし",
+        "written": "致死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "lethal factor",
+          "lethal gene"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ちしいんし",
+        "written": "致死因子"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "lethal radioactive fallout",
+          "atomic dust"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news2",
+          "nf32"
+        ],
+        "pronounced": "しのはい",
+        "written": "死の灰"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "life and death",
+          "life or death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news1",
+          "nf18"
+        ],
+        "pronounced": "しかつ",
+        "written": "死活"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "life and death",
+          "life or death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "いきしに",
+        "written": "生き死に"
+      },
+      {
+        "priorities": [],
+        "pronounced": "いきしに",
+        "written": "生死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "life insurance",
+          "insurance payable at death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しぼうほけん",
+        "written": "死亡保険"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "lovers' suicide",
+          "double suicide"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "じょうし",
+        "written": "情死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "manslaughter",
+          "bodily injury resulting in death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しょうがいちし",
+        "written": "傷害致死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "maternal mortality rate",
+          "maternal mortality ratio"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "にんさんぷしぼうりつ",
+        "written": "妊産婦死亡率"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "matter of life or death",
+          "life-and-death problem"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しかつもんだい",
+        "written": "死活問題"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "median lethal dose",
+          "LD50"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "はんすうちしりょう",
+        "written": "半数致死量"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "merchant of death",
+          "arms dealer"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しのしょうにん",
+        "written": "死の商人"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "morgue",
+          "mortuary"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "したいあんちじょ",
+        "written": "死体安置所"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "mountain of death",
+          "steep mountain which the dead must cross to reach the afterlife"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しでのやま",
+        "written": "死出の山"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "near-death",
+          "close to death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "りんし",
+        "written": "臨死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "necrophilia",
+          "necrophilism"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しかん",
+        "written": "屍姦"
+      },
+      {
+        "priorities": [],
+        "pronounced": "しかん",
+        "written": "死姦"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "obituary",
+          "notification of death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しぼうこうこく",
+        "written": "死亡広告"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "once a fool, always a fool",
+          "idiots will only be cured when they die"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "バカはしななきゃなおらない",
+        "written": "バカは死ななきゃ治らない"
+      },
+      {
+        "priorities": [],
+        "pronounced": "バカはしななきゃなおらない",
+        "written": "馬鹿は死ななきゃ治らない"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "one's opinion on life and death",
+          "life-and-death issue (e.g. in religion)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "せいしかん",
+        "written": "生死観"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "people have sympathy for kindred in distress",
+          "(when) the fox dies, the rabbit cries"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "きつねししてうさぎなく",
+        "written": "狐死して兎泣く"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "people have sympathy for kindred in distress",
+          "when the rabbit dies, the fox grieves"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "うさぎしすればきつねこれをかなしむ",
+        "written": "兎死すれば狐これを悲しむ"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "perpetual youth and longevity",
+          "immortality"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ふろうふし",
+        "written": "不老不死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "person killed in action",
+          "the war dead"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "せんししゃ",
+        "written": "戦死者"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "person who died an unnatural death",
+          "person accidentally killed"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "へんししゃ",
+        "written": "変死者"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "pining away",
+          "dying from love"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "こがれじに",
+        "written": "焦がれ死に"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "place of death",
+          "place to die"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ししょ",
+        "written": "死処"
+      },
+      {
+        "priorities": [],
+        "pronounced": "ししょ",
+        "written": "死所"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "place to die",
+          "place of death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しにばしょ",
+        "written": "死に場所"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "plague",
+          "Black Death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "こくしびょう",
+        "written": "黒死病"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "playing dead",
+          "planking"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "したいごっこ",
+        "written": "死体ごっこ"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "poorly selling line (of products)",
+          "unprofitable line"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しにすじ",
+        "written": "死に筋"
+      },
+      {
+        "priorities": [],
+        "pronounced": "しにすじ",
+        "written": "死筋"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "preparedness for death",
+          "do-or-die spirit"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news2",
+          "nf35"
+        ],
+        "pronounced": "けっし",
+        "written": "決死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "preparing for death",
+          "preparedness for death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "かんし",
+        "written": "敢死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "readiness to die",
+          "(in the) face of death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "けっしのかくご",
+        "written": "決死の覚悟"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "related death",
+          "death indirectly caused (by an accident, disease, etc.)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "かんれんし",
+        "written": "関連死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "report of death",
+          "notification of a death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しぼうとどけ",
+        "written": "死亡届"
+      },
+      {
+        "priorities": [],
+        "pronounced": "しぼうとどけ",
+        "written": "死亡届け"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "resting after a meal is sacrosanct",
+          "even if your parents have just died, take a rest after your meal"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おやがしんでもしょくやすみ",
+        "written": "親が死んでも食休み"
+      },
+      {
+        "priorities": [],
+        "pronounced": "おやがしんでもじきやすみ",
+        "written": "親が死んでも食休み"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "scaffold",
+          "gallows"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しけいだい",
+        "written": "死刑台"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "sudden infant death syndrome",
+          "SIDS"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ようじとつぜんししょうこうぐん",
+        "written": "幼児突然死症候群"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "suicidal ideation",
+          "suicidal thoughts"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "きしねんりょ",
+        "written": "希死念慮"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "suicidal ligature strangulation",
+          "suicide by strangulation"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "じこうし",
+        "written": "自絞死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "suicide by hanging",
+          "hanging oneself"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "いし",
+        "written": "縊死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "suicide survivor (i.e. family member of someone who has committed suicide)",
+          "survivor of suicide"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "じしいぞく",
+        "written": "自死遺族"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "taking action although it may result in death",
+          "acting while being fully prepared to die"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "けっしこう",
+        "written": "決死行"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to approach (one's) death",
+          "to face (one's) death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しをむかえる",
+        "written": "死を迎える"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to be dead",
+          "to be lifeless"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しんでいる",
+        "written": "死んでいる"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to be nearing death",
+          "to be dying"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しにゆく",
+        "written": "死にゆく"
+      },
+      {
+        "priorities": [],
+        "pronounced": "しにゆく",
+        "written": "死に行く"
+      },
+      {
+        "priorities": [],
+        "pronounced": "しにゆく",
+        "written": "死に逝く"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to be the worst of the worst",
+          "to deserve to die ten thousand deaths"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ばんしにあたいする",
+        "written": "万死に値する"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to cause casualties",
+          "to result in deaths"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ししゃがでる",
+        "written": "死者が出る"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to die a natural death",
+          "to die in one's own bed"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "たたみのうえでしぬ",
+        "written": "畳の上で死ぬ"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to die by drowning",
+          "to drown"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おぼれじぬ",
+        "written": "おぼれ死ぬ"
+      },
+      {
+        "priorities": [],
+        "pronounced": "おぼれじぬ",
+        "written": "溺れ死ぬ"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to die out",
+          "to become extinct"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しにたえる",
+        "written": "死に絶える"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to drive to death (e.g. by suicide)",
+          "to cause to die"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しにおいやる",
+        "written": "死に追いやる"
+      },
+      {
+        "priorities": [],
+        "pronounced": "しにおいやる",
+        "written": "死に追い遣る"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to freeze to death",
+          "to die of cold"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "こごえしぬ",
+        "written": "凍え死ぬ"
+      },
+      {
+        "priorities": [],
+        "pronounced": "こごえじぬ",
+        "written": "凍え死ぬ"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to look dead on the inside",
+          "to have a blank expression"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "めがしんでいる",
+        "written": "目が死んでいる"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to prepare for death",
+          "to get ready to die"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しをかくごする",
+        "written": "死を覚悟する"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to search for a way out of a potentially fatal situation",
+          "to seek for a way out of a desperate situation"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しちゅうにかつをもとめる",
+        "written": "死中に活を求める"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to wet the lips of a dying person",
+          "to attend someone's last moments"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しにみずをとる",
+        "written": "死に水を取る"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "toxic epidermal necrolysis",
+          "TEN"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ちゅうどくせいひょうひえしゆうかいしょう",
+        "written": "中毒性表皮壊死融解症"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "toxic epidermal necrosis",
+          "TEN"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ちゅうどくせいひょうひえししょう",
+        "written": "中毒性表皮壊死症"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "tragic death",
+          "violent death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ざんし",
+        "written": "惨死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "two out",
+          "two down (and one to go)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news1",
+          "nf04"
+        ],
+        "pronounced": "にし",
+        "written": "二死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "undetermined manner of death",
+          "suspicious death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ふしんし",
+        "written": "不審死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "unnatural death",
+          "violent death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news2",
+          "nf43"
+        ],
+        "pronounced": "ひごうのし",
+        "written": "非業の死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "violent (tragic or accidental) death",
+          "dog's death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おうし",
+        "written": "横死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "vote for a losing candidate",
+          "wasted vote"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news2",
+          "nf28"
+        ],
+        "pronounced": "しひょう",
+        "written": "死票"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "wasted money",
+          "unused money"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しにがね",
+        "written": "死に金"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "weakening pulse",
+          "exhausted (mining) vein"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しみゃく",
+        "written": "死脈"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "when the enemy is defeated, the victorious soldiers can be killed off",
+          "when the nimble rabbit dies, the hunting dog is cooked"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "こうとししてそうくにらる",
+        "written": "狡兎死して走狗烹らる"
+      },
+      {
+        "priorities": [],
+        "pronounced": "こうとししてそうくにらる",
+        "written": "狡兎死して走狗煮らる"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "withering",
+          "dying"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news2",
+          "nf32",
+          "spec2"
+        ],
+        "pronounced": "こし",
+        "written": "枯死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "wrongful death",
+          "death caused by violent crime"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "はんざいし",
+        "written": "犯罪死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "as good as dead",
+          "might as well be dead",
+          "more dead than alive"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しんだもどうぜん",
+        "written": "死んだも同然"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "bereavement",
+          "separation by death",
+          "loss"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news2",
+          "nf40"
+        ],
+        "pronounced": "しべつ",
+        "written": "死別"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "daredevil",
+          "reckless",
+          "thinking nothing of one's death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ししょうふち",
+        "written": "死生不知"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "dead weight",
+          "dead load",
+          "static load"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しかじゅう",
+        "written": "死荷重"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "deadly disease",
+          "fatal disease",
+          "final illness"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しのやまい",
+        "written": "死の病"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "death",
+          "decease",
+          "passing away"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "ichi1",
+          "news1",
+          "nf05"
+        ],
+        "pronounced": "しきょ",
+        "written": "死去"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "death",
+          "dying",
+          "mortality"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しぼう",
+        "written": "ﾀﾋ亡"
+      },
+      {
+        "priorities": [
+          "ichi1",
+          "news1",
+          "nf04"
+        ],
+        "pronounced": "しぼう",
+        "written": "死亡"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "death during surgery",
+          "intra-operative death",
+          "operational death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "じゅっちゅうし",
+        "written": "術中死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "death portrait",
+          "shini-e",
+          "ukiyo-e print depicting someone in their final moments"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しにえ",
+        "written": "死に絵"
+      },
+      {
+        "priorities": [],
+        "pronounced": "しにえ",
+        "written": "死絵"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "death toll",
+          "number of deaths",
+          "body count"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ししゃすう",
+        "written": "死者数"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "declaration of brain death",
+          "determination of brain death",
+          "diagnosis of brain death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "のうしはんてい",
+        "written": "脳死判定"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "defending to the last",
+          "desperate defence",
+          "stubborn defence"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news2",
+          "nf28"
+        ],
+        "pronounced": "ししゅ",
+        "written": "死守"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "drop dead",
+          "go to hell",
+          "fuck you"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しね",
+        "written": "市ね"
+      },
+      {
+        "priorities": [],
+        "pronounced": "しね",
+        "written": "死ね"
+      },
+      {
+        "priorities": [],
+        "pronounced": "しね",
+        "written": "氏ね"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "dying from blood loss",
+          "bleeding to death",
+          "hemorrhaging to death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しっけつし",
+        "written": "失血死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "dying in vain",
+          "useless death",
+          "meaningless death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "むだじに",
+        "written": "徒死に"
+      },
+      {
+        "priorities": [],
+        "pronounced": "むだじに",
+        "written": "無駄死に"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "early death",
+          "premature death",
+          "dying young"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "わかじに",
+        "written": "若死に"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "extinction",
+          "annihilation",
+          "destruction"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news2",
+          "nf46"
+        ],
+        "pronounced": "しめつ",
+        "written": "死滅"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "falling dead",
+          "perishing",
+          "dying"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "へいし",
+        "written": "へい死"
+      },
+      {
+        "priorities": [],
+        "pronounced": "へいし",
+        "written": "斃死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "he has not lived that lives not after death",
+          "the great use of life is to spend it for something that will outlast it",
+          "tigers leave their hide when they die; men leave their name"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "とらはししてかわをとどめひとはししてなをのこす",
+        "written": "虎は死して皮を留め人は死して名を残す"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "involuntary manslaughter",
+          "accidental homicide",
+          "negligent homicide"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news1",
+          "nf14"
+        ],
+        "pronounced": "かしつちし",
+        "written": "過失致死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "invulnerability",
+          "immortality",
+          "insensibility to pain"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news2",
+          "nf47",
+          "spec2"
+        ],
+        "pronounced": "ふじみ",
+        "written": "不死身"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "life or death struggle",
+          "mortal combat",
+          "struggle to the death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news2",
+          "nf27"
+        ],
+        "pronounced": "しとう",
+        "written": "死闘"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "moribund state",
+          "near-death",
+          "barely alive condition"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ひんしじょうたい",
+        "written": "瀕死状態"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "necrotizing fasciitis",
+          "necrotising fasciitis",
+          "flesh-eating bacteria syndrome"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "えしせいきんまくえん",
+        "written": "壊死性筋膜炎"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "no mortal escapes death",
+          "all men must die",
+          "he who has life, certainly has death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "せいあるものはかならずしあり",
+        "written": "生ある者は必ず死あり"
+      },
+      {
+        "priorities": [],
+        "pronounced": "せいあるものはかならずしあり",
+        "written": "生有る者は必ず死有り"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "one's last journey",
+          "the journey to the other world",
+          "death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しでのたび",
+        "written": "死出の旅"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "one's last moments",
+          "(on) the point of death",
+          "(on) one's deathbed"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しにぎわ",
+        "written": "死にぎわ"
+      },
+      {
+        "priorities": [],
+        "pronounced": "しにぎわ",
+        "written": "死に際"
+      },
+      {
+        "priorities": [],
+        "pronounced": "しにぎわ",
+        "written": "死際"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "osteonecrosis",
+          "avascular necrosis",
+          "bone infarction"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "こつえし",
+        "written": "骨壊死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "playing dead",
+          "feigning death",
+          "playing possum"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しんだふり",
+        "written": "死んだふり"
+      },
+      {
+        "priorities": [],
+        "pronounced": "しんだふり",
+        "written": "死んだ振り"
+      },
+      {
+        "priorities": [],
+        "pronounced": "しんだフリ",
+        "written": "死んだフリ"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "postmortem lividity",
+          "livor mortis",
+          "death spot"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しはん",
+        "written": "屍斑"
+      },
+      {
+        "priorities": [],
+        "pronounced": "しはん",
+        "written": "死斑"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "premature death",
+          "untimely death",
+          "dying young"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "はやじに",
+        "written": "早死に"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "skeletal remains",
+          "dry bones of a corpse",
+          "human skeleton"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "はっこつしたい",
+        "written": "白骨死体"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "spirit of a dead person",
+          "ghost",
+          "departed soul"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しりょう",
+        "written": "死霊"
+      },
+      {
+        "priorities": [],
+        "pronounced": "しれい",
+        "written": "死霊"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "take a long walk off a short pier",
+          "go stick your head in a pig",
+          "bash your head against the corner of a block of tofu and die"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "とうふのかどにあたまをぶつけてしね",
+        "written": "豆腐の角に頭をぶつけて死ね"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "the deceased",
+          "deaths",
+          "persons killed"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news1",
+          "nf16"
+        ],
+        "pronounced": "しぼうしゃ",
+        "written": "死亡者"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "time of death",
+          "one's final hour",
+          "one's end"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news2",
+          "nf27"
+        ],
+        "pronounced": "しき",
+        "written": "死期"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to be dying",
+          "to be about to die",
+          "to be close to death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しにかける",
+        "written": "死にかける"
+      },
+      {
+        "priorities": [],
+        "pronounced": "しにかける",
+        "written": "死に掛ける"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to cause someone's death",
+          "to cause someone to die",
+          "to kill"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しにいたらしめる",
+        "written": "死にいたらしめる"
+      },
+      {
+        "priorities": [],
+        "pronounced": "しにいたらしめる",
+        "written": "死に至らしめる"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to claim lives",
+          "to cause deaths",
+          "to result in fatalities"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ししゃをだす",
+        "written": "死者を出す"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to commit suicide",
+          "to end one's life",
+          "to choose death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しをえらぶ",
+        "written": "死を選ぶ"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to make frantic efforts",
+          "to make an all-out effort",
+          "to try desperately"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しりょくをつくす",
+        "written": "死力を尽くす"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to result in death",
+          "to lead to death",
+          "to be fatal (e.g. disease)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しにいたる",
+        "written": "死に至る"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to result in death",
+          "to lead to death",
+          "to be linked with death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しにつながる",
+        "written": "死につながる"
+      },
+      {
+        "priorities": [],
+        "pronounced": "しにつながる",
+        "written": "死に繋がる"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "tumor necrosis factor (e.g. cachexin)",
+          "tumour necrosis factor",
+          "TNF"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しゅようえしいんし",
+        "written": "腫瘍壊死因子"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "unnatural death",
+          "accidental death",
+          "violent death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news2",
+          "nf33"
+        ],
+        "pronounced": "へんし",
+        "written": "変死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "withered trees and cold ash",
+          "someone who is detached and free of desires",
+          "someone who has no vitality"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "こぼくしかい",
+        "written": "枯木死灰"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "(dead) body",
+          "corpse",
+          "carcass",
+          "remains"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しがい",
+        "written": "屍骸"
+      },
+      {
+        "priorities": [],
+        "pronounced": "しがい",
+        "written": "死がい"
+      },
+      {
+        "priorities": [
+          "news2",
+          "nf46"
+        ],
+        "pronounced": "しがい",
+        "written": "死骸"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "autopsy",
+          "postmortem",
+          "post-mortem examination",
+          "necropsy"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "したいかいぼう",
+        "written": "死体解剖"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "autopsy imaging",
+          "postmortem computed tomography",
+          "PMCT",
+          "virtopsy"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しぼうじがぞうしんだん",
+        "written": "死亡時画像診断"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "best regards",
+          "please remember me",
+          "please treat me favorably (favourably)",
+          "please take care of"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "よろしく",
+        "written": "夜呂死苦"
+      },
+      {
+        "priorities": [],
+        "pronounced": "よろしく",
+        "written": "夜露四苦"
+      },
+      {
+        "priorities": [],
+        "pronounced": "よろしく",
+        "written": "夜露死苦"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "dead body",
+          "corpse",
+          "cadaver",
+          "carcass"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "したい",
+        "written": "屍体"
+      },
+      {
+        "priorities": [
+          "ichi1",
+          "news1",
+          "nf06"
+        ],
+        "pronounced": "したい",
+        "written": "死体"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "dead person",
+          "(the) deceased",
+          "(the) dead",
+          "casualties"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "ichi1",
+          "news1",
+          "nf03"
+        ],
+        "pronounced": "ししゃ",
+        "written": "死者"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "death by physical trauma",
+          "violent death",
+          "exogenous death",
+          "death by an external cause"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "がいいんし",
+        "written": "外因死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "god of death",
+          "death deity",
+          "Death",
+          "Grim Reaper"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しにがみ",
+        "written": "死に神"
+      },
+      {
+        "priorities": [],
+        "pronounced": "しにがみ",
+        "written": "死神"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "revival from the brink of death",
+          "recovering from a hopeless situation",
+          "resuscitation",
+          "revitalization"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news1",
+          "nf22"
+        ],
+        "pronounced": "きしかいせい",
+        "written": "起死回生"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "sudden infant death syndrome",
+          "SIDS",
+          "cot death",
+          "crib death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "にゅうようじとつぜんししょうこうぐん",
+        "written": "乳幼児突然死症候群"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "all out",
+          "like hell",
+          "like crazy",
+          "desperately",
+          "expecting to die"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しぬきで",
+        "written": "死ぬ気で"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "empty eyes",
+          "thousand-yard stare",
+          "blank glaze",
+          "expressionless look",
+          "eyes of a dead fish"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しんださかなのめ",
+        "written": "死んだ魚の目"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "feigning death",
+          "playing possum",
+          "tonic immobility",
+          "thanatosis",
+          "apparent death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ぎし",
+        "written": "擬死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to death (bored, scared, etc.)",
+          "to distraction",
+          "like crazy",
+          "like mad",
+          "so much",
+          "dying (e.g. for a drink)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しぬほど",
+        "written": "死ぬほど"
+      },
+      {
+        "priorities": [],
+        "pronounced": "しぬほど",
+        "written": "死ぬ程"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "apoptosis"
+        ]
+      },
+      {
+        "glosses": [
+          "suicide"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "じし",
+        "written": "自死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "at some limit (pain, hunger, etc.)"
+        ]
+      },
+      {
+        "glosses": [
+          "at the point of death",
+          "almost dead",
+          "about to die"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しにそう",
+        "written": "死にそう"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "at the risk of one's life"
+        ]
+      },
+      {
+        "glosses": [
+          "dead body"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しにみ",
+        "written": "死に身"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "being subjected to download speed restrictions (as a result of exceeding one's monthly mobile data allowance)"
+        ]
+      },
+      {
+        "glosses": [
+          "racking up unmanageably large mobile data costs",
+          "bill shock",
+          "death by packet"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "パケし",
+        "written": "パケ死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "blind spot (e.g. of a driver)"
+        ]
+      },
+      {
+        "glosses": [
+          "dead angle",
+          "dead ground",
+          "dead space",
+          "sector without fire"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news2",
+          "nf31"
+        ],
+        "pronounced": "しかく",
+        "written": "死角"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "dead horse"
+        ]
+      },
+      {
+        "glosses": [
+          "stupid horse",
+          "useless horse",
+          "crowbait"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しにうま",
+        "written": "死に馬"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "dead letter"
+        ]
+      },
+      {
+        "glosses": [
+          "meaningless writing"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しぶん",
+        "written": "死文"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "deadline (boundary around a prison which prisoners were not allowed to cross)"
+        ]
+      },
+      {
+        "glosses": [
+          "borderline between life and death",
+          "verge of death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news2",
+          "nf42"
+        ],
+        "pronounced": "しせん",
+        "written": "死線"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "death"
+        ]
+      },
+      {
+        "glosses": [
+          "death and life",
+          "death or life"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しにいき",
+        "written": "死に生き"
+      },
+      {
+        "priorities": [],
+        "pronounced": "しにいき",
+        "written": "死生"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "dishonor that persists after death"
+        ]
+      },
+      {
+        "glosses": [
+          "shame at the moment of one's death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しにはじ",
+        "written": "死に恥"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "dying in a fit of anger"
+        ]
+      },
+      {
+        "glosses": [
+          "fainting"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "きし",
+        "written": "気死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "examination of a body to determine if a crime has been committed"
+        ]
+      },
+      {
+        "glosses": [
+          "autopsy",
+          "post-mortem (examination)",
+          "(coroner's) inquest"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "けんし",
+        "written": "検屍"
+      },
+      {
+        "priorities": [],
+        "pronounced": "けんし",
+        "written": "検死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "face of a dead person"
+        ]
+      },
+      {
+        "glosses": [
+          "look of death (in one's face)",
+          "shadow of death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しそう",
+        "written": "死相"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "for a family line to become extinct"
+        ]
+      },
+      {
+        "glosses": [
+          "to die"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しぜつ",
+        "written": "死絶"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "inevitability of death (one of the four kinds of suffering)"
+        ]
+      },
+      {
+        "glosses": [
+          "death pains",
+          "agony of death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しく",
+        "written": "死苦"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "narrow escape from the jaws of death"
+        ]
+      },
+      {
+        "glosses": [
+          "there being barely a chance of escaping death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "じっしいっしょう",
+        "written": "十死一生"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "one out"
+        ]
+      },
+      {
+        "glosses": [
+          "dying",
+          "laying down one's life"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "いっし",
+        "written": "一死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "quality of one's death"
+        ]
+      },
+      {
+        "glosses": [
+          "way to die",
+          "means of dying"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しにかた",
+        "written": "死に方"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to kill"
+        ]
+      },
+      {
+        "glosses": [
+          "to let die"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しなせる",
+        "written": "死なせる"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "attacking a knocked down opponent (in a fighting game)",
+          "kicking a dead body"
+        ]
+      },
+      {
+        "glosses": [
+          "kicking someone when they are down",
+          "hitting someone when they are down"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "したいげり",
+        "written": "死体蹴り"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "bombing (in sales)",
+          "flopping"
+        ]
+      },
+      {
+        "glosses": [
+          "death from explosion",
+          "death from bombing"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news2",
+          "nf41"
+        ],
+        "pronounced": "ばくし",
+        "written": "爆死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "dead language",
+          "extinct language"
+        ]
+      },
+      {
+        "glosses": [
+          "obsolete word",
+          "dated word",
+          "word that has become passé"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news2",
+          "nf26",
+          "spec2"
+        ],
+        "pronounced": "しご",
+        "written": "死語"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "immortality",
+          "eternal life"
+        ]
+      },
+      {
+        "glosses": [
+          "undeath",
+          "undead"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news2",
+          "nf39"
+        ],
+        "pronounced": "ふし",
+        "written": "不死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "person who has escaped death",
+          "failed suicide"
+        ]
+      },
+      {
+        "glosses": [
+          "person who has outlived their time",
+          "dotard",
+          "doddering old man"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しにそこない",
+        "written": "死に損い"
+      },
+      {
+        "priorities": [],
+        "pronounced": "しにそこない",
+        "written": "死に損ない"
+      },
+      {
+        "priorities": [],
+        "pronounced": "しにぞこない",
+        "written": "死に損い"
+      },
+      {
+        "priorities": [],
+        "pronounced": "しにぞこない",
+        "written": "死に損ない"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "at the risk of one's life",
+          "even if (I) die",
+          "even if it kills one (me, him, etc.)"
+        ]
+      },
+      {
+        "glosses": [
+          "at all costs",
+          "no matter what",
+          "as long as I live",
+          "definitely"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しんでも",
+        "written": "死んでも"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "(an) out"
+        ]
+      },
+      {
+        "glosses": [
+          "death"
+        ]
+      },
+      {
+        "glosses": [
+          "death penalty (by strangulation or decapitation; most severe of the five ritsuryō punishments)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news1",
+          "nf01"
+        ],
+        "pronounced": "し",
+        "written": "死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "brinkmate (inevitable checkmate)"
+        ]
+      },
+      {
+        "glosses": [
+          "inevitable death"
+        ]
+      },
+      {
+        "glosses": [
+          "frantic",
+          "frenetic",
+          "desperate"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "ichi1",
+          "news1",
+          "nf05"
+        ],
+        "pronounced": "ひっし",
+        "written": "必死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "damned"
+        ]
+      },
+      {
+        "glosses": [
+          "dead",
+          "useless"
+        ]
+      },
+      {
+        "glosses": [
+          "dying",
+          "death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しに",
+        "written": "死に"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "death"
+        ]
+      },
+      {
+        "glosses": [
+          "samsara (cycle of death and rebirth)"
+        ]
+      },
+      {
+        "glosses": [
+          "life and death",
+          "life or death"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "ichi1",
+          "news1",
+          "nf17"
+        ],
+        "pronounced": "しょうし",
+        "written": "生死"
+      },
+      {
+        "priorities": [
+          "ichi1",
+          "news1",
+          "nf17"
+        ],
+        "pronounced": "しょうじ",
+        "written": "生死"
+      },
+      {
+        "priorities": [
+          "ichi1",
+          "news1",
+          "nf17"
+        ],
+        "pronounced": "せいし",
+        "written": "生死"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "hopeless situation"
+        ]
+      },
+      {
+        "glosses": [
+          "lame duck"
+        ]
+      },
+      {
+        "glosses": [
+          "losing posture",
+          "falling position from which it is impossible to recover"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news1",
+          "nf24"
+        ],
+        "pronounced": "しにたい",
+        "written": "死に体"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "proper place to die"
+        ]
+      },
+      {
+        "glosses": [
+          "(nearly certain) death",
+          "extremely dangerous place (or situation) from which one might not return alive"
+        ]
+      },
+      {
+        "glosses": [
+          "dilemma",
+          "predicament",
+          "inescapable situation"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しち",
+        "written": "死地"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to cease",
+          "to stop"
+        ]
+      },
+      {
+        "glosses": [
+          "to die",
+          "to pass away"
+        ]
+      },
+      {
+        "glosses": [
+          "to lose spirit",
+          "to lose vigor",
+          "to look dead"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "ichi1",
+          "news2",
+          "nf46"
+        ],
+        "pronounced": "しぬ",
+        "written": "死ぬ"
+      },
+      {
+        "priorities": [
+          "ichi1",
+          "news2",
+          "nf46"
+        ],
+        "pronounced": "ﾀﾋぬ",
+        "written": "死ぬ"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to survive (when others died)",
+          "to outlive others"
+        ]
+      },
+      {
+        "glosses": [
+          "to come close to dying",
+          "to be almost killed",
+          "to narrowly escape death"
+        ]
+      },
+      {
+        "glosses": [
+          "to fail to die (after attempting suicide)",
+          "to fail to kill oneself",
+          "to survive (when one should have died)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しにそこなう",
+        "written": "死にそこなう"
+      },
+      {
+        "priorities": [],
+        "pronounced": "しにそこなう",
+        "written": "死に損なう"
+      }
+    ]
+  }
+]

@@ -1,0 +1,3156 @@
+[
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Hymenoptera"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "まくしもく",
+        "written": "膜翅目"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Japan Cornea Society"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "にっぽんかくまくがっかい",
+        "written": "日本角膜学会"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Stevens-Johnson syndrome"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ひふねんまくがんしょうこうぐん",
+        "written": "皮膚粘膜眼症候群"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "allantois"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "にょうまく",
+        "written": "尿膜"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "amnion"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ようまく",
+        "written": "羊膜"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "amniotes"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ようまくるい",
+        "written": "羊膜類"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "amniotic cavity"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ようまくくう",
+        "written": "羊膜腔"
+      },
+      {
+        "priorities": [],
+        "pronounced": "ようまくこう",
+        "written": "羊膜腔"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "anamniotes"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "むようまくるい",
+        "written": "無羊膜類"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "aponeurosis"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "けんまく",
+        "written": "腱膜"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "aseptic meningitis"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "むきんせいずいまくえん",
+        "written": "無菌性髄膜炎"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "bacterial meningitis"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "さいきんせいずいまくえん",
+        "written": "細菌性髄膜炎"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "cellular membrane"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "さいぼうまく",
+        "written": "細胞膜"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "cere (skin at the base of a bird's beak)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ろうまく",
+        "written": "蝋膜"
+      },
+      {
+        "priorities": [],
+        "pronounced": "ろうまく",
+        "written": "蠟膜"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "cerebrospinal meningitis"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "のうせきずいまくえん",
+        "written": "脳脊髄膜炎"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "chlamydospore (thick-walled spore that can survive harsh conditions)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "こうまくほうし",
+        "written": "厚膜胞子"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "chorioallantois"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しょうにょうまく",
+        "written": "漿尿膜"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "chorion"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "じゅうもうまく",
+        "written": "絨毛膜"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "chorioretinitis"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "みゃくらくもうまくえん",
+        "written": "脈絡網膜炎"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "choroiditis"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "みゃくらくまくえん",
+        "written": "脈絡膜炎"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "conjunctiva (eye)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "けつまく",
+        "written": "結膜"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "conjunctivitis"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "けつまくえん",
+        "written": "結膜炎"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "cornea"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news1",
+          "nf24"
+        ],
+        "pronounced": "かくまく",
+        "written": "角膜"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "corneal reflex"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "かくまくはんしゃ",
+        "written": "角膜反射"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "corneal transplant"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "かくまくいしょく",
+        "written": "角膜移植"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "corneal xerosis"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "かくまくかんそうしょう",
+        "written": "角膜乾燥症"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "diabetic retinopathy"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "とうにょうびょうせいもうまくしょう",
+        "written": "糖尿病性網膜症"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "diaphragm"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おうかくまく",
+        "written": "横膈膜"
+      },
+      {
+        "priorities": [],
+        "pronounced": "おうかくまく",
+        "written": "横隔膜"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "diaphragm process"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "かくまくほう",
+        "written": "隔膜法"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "diaphragmatic hernia"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おうかくまくヘルニア",
+        "written": "横隔膜ヘルニア"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "egg membrane"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "らんまく",
+        "written": "卵膜"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "embryonic membrane"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "はいまく",
+        "written": "胚膜"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "endocarditis"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しんないまくえん",
+        "written": "心内膜炎"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "endometrial cancer"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しきゅうないまくがん",
+        "written": "子宮内膜がん"
+      },
+      {
+        "priorities": [],
+        "pronounced": "しきゅうないまくがん",
+        "written": "子宮内膜ガン"
+      },
+      {
+        "priorities": [],
+        "pronounced": "しきゅうないまくがん",
+        "written": "子宮内膜癌"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "endometriosis"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しきゅうないまくしょう",
+        "written": "子宮内膜症"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "endometritis"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しきゅうないまくえん",
+        "written": "子宮内膜炎"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "epidemic keratoconjunctivitis"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "りゅうこうせいかくけつまくえん",
+        "written": "流行性角結膜炎"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "epidemic keratoconjunctivitis"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "りゅうこうせいけつまくえん",
+        "written": "流行性結膜炎"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "epidural block"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "こうまくがいブロック",
+        "written": "硬膜外ブロック"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "eye bank"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "かくまくぎんこう",
+        "written": "角膜銀行"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "fascia"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "きんまく",
+        "written": "筋膜"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "gastric mucosa"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "いねんまく",
+        "written": "胃粘膜"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "heart valve"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しんぞうべんまく",
+        "written": "心臓弁膜"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "herpetic keratitis"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "かくまくヘルペス",
+        "written": "角膜ヘルペス"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "hymen"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しょじょまく",
+        "written": "処女膜"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "hymenopterans"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "まくしるい",
+        "written": "膜翅類"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "indusium"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ほうまく",
+        "written": "包膜"
+      },
+      {
+        "priorities": [],
+        "pronounced": "ほうまく",
+        "written": "胞膜"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "intestinal membrane"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ちょうかんまく",
+        "written": "腸管膜"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "intramucosal carcinoma"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ねんまくないがん",
+        "written": "粘膜内がん"
+      },
+      {
+        "priorities": [],
+        "pronounced": "ねんまくないがん",
+        "written": "粘膜内ガン"
+      },
+      {
+        "priorities": [],
+        "pronounced": "ねんまくないがん",
+        "written": "粘膜内癌"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "keratoconus"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "えんすいかくまく",
+        "written": "円錐角膜"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "ligament"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "かんまく",
+        "written": "間膜"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "lining membrane"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ないまく",
+        "written": "内膜"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "mantle (of an invertebrate)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "がいとうまく",
+        "written": "外套膜"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "membrane bone"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "まくこつ",
+        "written": "膜骨"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "membrane keyboard"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "まくがたキーボード",
+        "written": "膜型キーボード"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "membrane potential"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "まくでんい",
+        "written": "膜電位"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "membrane wall"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "まくへき",
+        "written": "膜壁"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "membranophone"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "まくめいがっき",
+        "written": "膜鳴楽器"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "membranous"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "まくせい",
+        "written": "膜性"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "membranous bone"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "まくせいこつ",
+        "written": "膜性骨"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "membranous nephropathy"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "まくせいじんしょう",
+        "written": "膜性腎症"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "meninges"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ずいまく",
+        "written": "髄膜"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "meninges"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "のうまく",
+        "written": "脳膜"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "meningioma"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ずいまくしゅ",
+        "written": "髄膜腫"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "meningitis"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "のうまくえん",
+        "written": "脳膜炎"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "meningitis"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news2",
+          "nf34"
+        ],
+        "pronounced": "ずいまくえん",
+        "written": "髄膜炎"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "meningococcus (Neisseria meningitidis)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ずいまくえんきん",
+        "written": "髄膜炎菌"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "mesenteric vascular occlusion"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ちょうかんまくけっかんへいそくしょう",
+        "written": "腸間膜血管閉塞症"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "mesentery"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ちょうかんまく",
+        "written": "腸間膜"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "metalization"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "きんぞくひまくかこう",
+        "written": "金属被膜加工"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "mucous membrane"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news1",
+          "nf21"
+        ],
+        "pronounced": "ねんまく",
+        "written": "粘膜"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "nuclear membrane"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "かくまく",
+        "written": "核膜"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "oriented conduction film"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "いほうどうでんまく",
+        "written": "異方導電膜"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "papillary mucosa"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "にゅうとうじょうねんまく",
+        "written": "乳頭状粘膜"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "patagium (vertebrate flying or gliding membrane)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ひまく",
+        "written": "飛膜"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "pericarditis"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しんまくえん",
+        "written": "心膜炎"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "perichondrium"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "なんこつまく",
+        "written": "軟骨膜"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "perineurium"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しんけいしゅうまく",
+        "written": "神経周膜"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "periodontitis"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しまくえん",
+        "written": "歯膜炎"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "periosteum"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "こつまく",
+        "written": "骨膜"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "periostitis"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "こつまくえん",
+        "written": "骨膜炎"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "peritoneum"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ふくまく",
+        "written": "腹膜"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "peritonitis"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news2",
+          "nf27"
+        ],
+        "pronounced": "ふくまくえん",
+        "written": "腹膜炎"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "pharyngoconjunctival fever"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "いんとうけつまくねつ",
+        "written": "咽頭結膜熱"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "pia mater (membranes surrounding the brain and spinal cord)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "なんまく",
+        "written": "軟膜"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "plantar fasciitis"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "そくていきんまくえん",
+        "written": "足底筋膜炎"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "pleura"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "きょうまく",
+        "written": "胸膜"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "pleura"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ろくまく",
+        "written": "肋膜"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "pleural cavity"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "きょうまくくう",
+        "written": "胸膜腔"
+      },
+      {
+        "priorities": [],
+        "pronounced": "きょうまくこう",
+        "written": "胸膜腔"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "pleurisy"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "きょうまくえん",
+        "written": "胸膜炎"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "property of a film or membrane"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "まくしつ",
+        "written": "膜質"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "retina"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news1",
+          "nf20"
+        ],
+        "pronounced": "もうまく",
+        "written": "網膜"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "retinal detachment"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "もうまくはくり",
+        "written": "網膜はく離"
+      },
+      {
+        "priorities": [],
+        "pronounced": "もうまくはくり",
+        "written": "網膜剝離"
+      },
+      {
+        "priorities": [],
+        "pronounced": "もうまくはくり",
+        "written": "網膜剥離"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "retinal scan"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "もうまくスキャン",
+        "written": "網膜スキャン"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "retinitis"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "もうまくえん",
+        "written": "網膜炎"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "retinoblastoma"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "もうまくがさいぼうしゅ",
+        "written": "網膜芽細胞腫"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "retinopathy"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "もうまくしょう",
+        "written": "網膜症"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "retinopathy of prematurity"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "みじゅくじもうまくしょう",
+        "written": "未熟児網膜症"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "retroperitoneum"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "こうふくまく",
+        "written": "後腹膜"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "reverse osmosis membrane"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ぎゃくしんとうまく",
+        "written": "逆浸透膜"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "sclera"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "きょうまく",
+        "written": "強膜"
+      },
+      {
+        "priorities": [],
+        "pronounced": "きょうまく",
+        "written": "鞏膜"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "sclerenchyma cell"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "こうまくさいぼう",
+        "written": "厚膜細胞"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "scleritis"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "きょうまくえん",
+        "written": "強膜炎"
+      },
+      {
+        "priorities": [],
+        "pronounced": "きょうまくえん",
+        "written": "鞏膜炎"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "semipermeable membrane"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "はんとうまく",
+        "written": "半透膜"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "solar retinitis"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "にっこうもうまくえん",
+        "written": "日光網膜炎"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "spinal dura mater"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "せきずいこうまく",
+        "written": "脊髄硬膜"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "subarachnoid space"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "くもまくかくう",
+        "written": "蜘蛛膜下腔"
+      },
+      {
+        "priorities": [],
+        "pronounced": "クモまくかくう",
+        "written": "クモ膜下腔"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "subdural hemorrhage"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "こうまくかしゅっけつ",
+        "written": "硬膜下出血"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "submucosa"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ねんまくかそう",
+        "written": "粘膜下層"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "superior mesenteric artery syndrome"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "じょうちょうかんまくどうみゃくへいさしょう",
+        "written": "上腸間膜動脈閉鎖症"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "synovial sarcoma"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "かつまくにくしゅ",
+        "written": "滑膜肉腫"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "tensor tympani muscle"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "こまくちょうきん",
+        "written": "鼓膜張筋"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "the arachnoid (membrane)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "くもまく",
+        "written": "くも膜"
+      },
+      {
+        "priorities": [],
+        "pronounced": "くもまく",
+        "written": "蜘蛛膜"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "thin film"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news2",
+          "nf27"
+        ],
+        "pronounced": "うすまく",
+        "written": "薄膜"
+      },
+      {
+        "priorities": [
+          "news2",
+          "nf27"
+        ],
+        "pronounced": "はくまく",
+        "written": "薄膜"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "thin-film interference"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "はくまくかんしょう",
+        "written": "薄膜干渉"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "ultrafiltration membrane"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "げんがいろかまく",
+        "written": "限外ろ過膜"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "uvea"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ぶどうまく",
+        "written": "葡萄膜"
+      },
+      {
+        "priorities": [],
+        "pronounced": "ブドウまく",
+        "written": "ブドウ膜"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "uveitis"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ぶどうまくえん",
+        "written": "ぶどう膜炎"
+      },
+      {
+        "priorities": [],
+        "pronounced": "ぶどうまくえん",
+        "written": "ブドウ膜炎"
+      },
+      {
+        "priorities": [],
+        "pronounced": "ぶどうまくえん",
+        "written": "葡萄膜炎"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "valve (of the heart and the veins)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "べんまく",
+        "written": "弁膜"
+      },
+      {
+        "priorities": [],
+        "pronounced": "べんまく",
+        "written": "瓣膜"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "valve of the veins"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "けっかんべんまく",
+        "written": "血管弁膜"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "(dried) paint coating",
+          "(layer of) paint"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "とまく",
+        "written": "塗膜"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Amniota",
+          "amniotes"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ゆうようまくるい",
+        "written": "有羊膜類"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Metal Oxide Semiconductor",
+          "MOS"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "きんぞくさんかまくはんどうたい",
+        "written": "金属酸化膜半導体"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "TFT",
+          "Thin Film Transistor"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "うすまくトランジスター",
+        "written": "薄膜トランジスター"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "acute gastric mucosal lesions",
+          "AGML"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "きゅうせいいねんまくびょうへん",
+        "written": "急性胃粘膜病変"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "basement membrane",
+          "basal lamina"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "きていまく",
+        "written": "基底膜"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "biological membrane",
+          "biomembrane"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "せいたいまく",
+        "written": "生体膜"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "bunion",
+          "hallux valgus"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "けんまくりゅう",
+        "written": "腱膜瘤"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "carotid endarterectomy",
+          "CEA"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ないけいどうみゃくないまくはくりじゅつ",
+        "written": "内頚動脈内膜剥離術"
+      },
+      {
+        "priorities": [],
+        "pronounced": "ないけいどうみゃくないまくはくりじゅつ",
+        "written": "内頸動脈内膜剥離術"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "caul",
+          "greater omentum"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "だいもうまく",
+        "written": "大網膜"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "chorioamnionitis",
+          "intra-amniotic infection"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "じゅうもうまくようまくえん",
+        "written": "絨毛膜羊膜炎"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "complementary metal-oxide semiconductor",
+          "CMOS"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "そうほがたきんぞくさんかまくはんどうたい",
+        "written": "相補型金属酸化膜半導体"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "decidua",
+          "deciduous membrane"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "だつらくまく",
+        "written": "脱落膜"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "diabetic retinopathy",
+          "retinopathia diabetica"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "とうにょうびょうもうまくしょう",
+        "written": "糖尿病網膜症"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "dura",
+          "dura mater"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "こうまく",
+        "written": "硬膜"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "eardrum",
+          "tympanic membrane"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news2",
+          "nf35",
+          "spec2"
+        ],
+        "pronounced": "こまく",
+        "written": "鼓膜"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "endometrium",
+          "uterine mucosa"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しきゅうないまく",
+        "written": "子宮内膜"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "epidural anaesthesia",
+          "epidural anesthesia"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "こうまくがいますい",
+        "written": "硬膜外麻酔"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "epidural hematoma",
+          "epidural haematoma"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "こうまくがいけっしゅ",
+        "written": "硬膜外血腫"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "extracorporeal membrane oxygenation",
+          "ECMO"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "たいがいしきまくがたじんこうはい",
+        "written": "体外式膜型人工肺"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "false membrane",
+          "pseudomembrane"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ぎまく",
+        "written": "偽膜"
+      },
+      {
+        "priorities": [],
+        "pronounced": "ぎまく",
+        "written": "義膜"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "fibrous capsule",
+          "tunica fibrosa"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "せんいまく",
+        "written": "線維膜"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "film",
+          "membrane"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ひまく",
+        "written": "皮膜"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "film making",
+          "membrane production"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "せいまく",
+        "written": "製膜"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "film thickness",
+          "coating thickness"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "まくあつ",
+        "written": "膜厚"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "keratitis",
+          "corneitis"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "かくまくえん",
+        "written": "角膜炎"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "keratotomy",
+          "corneal incision"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "かくまくせっかい",
+        "written": "角膜切開"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "membrane",
+          "film"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news1",
+          "nf11"
+        ],
+        "pronounced": "まく",
+        "written": "膜"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "membranous labyrinth (of the inner ear)",
+          "membraneous labyrinth"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "まくせいめいろ",
+        "written": "膜性迷路"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "membranous labyrinth (of the inner ear)",
+          "membraneous labyrinth"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "まくめいろ",
+        "written": "膜迷路"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "meningococcal meningitis",
+          "cerebrospinal meningitis"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ずいまくえんきんせいずいまくえん",
+        "written": "髄膜炎菌性髄膜炎"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "mucosal cancer",
+          "mucosal carcinoma"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ねんまくがん",
+        "written": "粘膜がん"
+      },
+      {
+        "priorities": [],
+        "pronounced": "ねんまくがん",
+        "written": "粘膜癌"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "myringitis",
+          "tympanitis"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "こまくえん",
+        "written": "鼓膜炎"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "nasal mucous membrane",
+          "nasal mucosa"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "びねんまく",
+        "written": "鼻粘膜"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "nictitating membrane",
+          "haw"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しゅんまく",
+        "written": "瞬膜"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "oil film",
+          "oil slick"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ゆまく",
+        "written": "油膜"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "organic thin-film solar cell",
+          "plastic solar cell"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ゆうきはくまくたいようでんち",
+        "written": "有機薄膜太陽電池"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "partition",
+          "diaphragm"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "かくまく",
+        "written": "隔膜"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "pericardium",
+          "pericardial sac"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しんまく",
+        "written": "心膜"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "periodontal membrane",
+          "periodontal ligament"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しこんまく",
+        "written": "歯根膜"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "retina verification",
+          "retinal scan"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "もうまくしょうごう",
+        "written": "網膜照合"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "subarachnoid hemorrhage",
+          "subarachnoid haemorrhage"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "くもまくかしゅっけつ",
+        "written": "くも膜下出血"
+      },
+      {
+        "priorities": [],
+        "pronounced": "くもまくかしゅっけつ",
+        "written": "蜘蛛膜下出血"
+      },
+      {
+        "priorities": [],
+        "pronounced": "クモまくかしゅっけつ",
+        "written": "クモ膜下出血"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "synovial membrane",
+          "synovium"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "かつえきまく",
+        "written": "滑液膜"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "the difference between truth and fiction in art being very subtle",
+          "art abides in a realm that is neither truth nor fiction"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "きょじつひにく",
+        "written": "虚実皮膜"
+      },
+      {
+        "priorities": [],
+        "pronounced": "きょじつひまく",
+        "written": "虚実皮膜"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "thin film transistor",
+          "TFT"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "うすまくトランジスタ",
+        "written": "薄膜トランジスタ"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "valvular disease",
+          "valvular heart disease"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "べんまくしょう",
+        "written": "弁膜症"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "valvular heart disease",
+          "heart valve disease"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しんぞうべんまくしょう",
+        "written": "心臓弁膜症"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "choroid",
+          "chorioid",
+          "choroid coat"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "みゃくらくまく",
+        "written": "脈絡膜"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "cranial dura mater",
+          "cerebral dura mater",
+          "dura mater encephali"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "のうこうまく",
+        "written": "脳硬膜"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "embryonic membrane",
+          "fetal membrane",
+          "foetal membrane"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "たいまく",
+        "written": "胎膜"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "endometrial cyst",
+          "endometrioma",
+          "chocolate cyst"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ないまくしょうせいのうほう",
+        "written": "内膜症性嚢胞"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "epidural haemorrhage",
+          "epidural hemorrhage",
+          "epidural bleeding"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "こうまくがいしゅっけつ",
+        "written": "硬膜外出血"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "membranous",
+          "membraneous",
+          "filmy"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "まくじょう",
+        "written": "膜状"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "necrotizing fasciitis",
+          "necrotising fasciitis",
+          "flesh-eating bacteria syndrome"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "えしせいきんまくえん",
+        "written": "壊死性筋膜炎"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "pericardial cavity",
+          "pericardial space",
+          "cavitas pericardiaca"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しんまくこう",
+        "written": "心膜腔"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "protective coating",
+          "protective film",
+          "overcoat"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ほごまく",
+        "written": "保護膜"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "septic meningitis",
+          "purulent meningitis",
+          "suppurative meningitis"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "かのうせいずいまくえん",
+        "written": "化膿性髄膜炎"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "subdural hematoma",
+          "subdural hemorrhage",
+          "subdural haemorrhage"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "こうまくかけっしゅ",
+        "written": "硬膜下血腫"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "biofilm",
+          "biological slime",
+          "biological membrane",
+          "biomembrane"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "せいぶつまく",
+        "written": "生物膜"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "(bacterial) capsule"
+        ]
+      },
+      {
+        "glosses": [
+          "ovarian follicle sheath",
+          "theca"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "きょうまく",
+        "written": "莢膜"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "chorion"
+        ]
+      },
+      {
+        "glosses": [
+          "serous membrane",
+          "serosa"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しょうまく",
+        "written": "しょう膜"
+      },
+      {
+        "priorities": [],
+        "pronounced": "しょうまく",
+        "written": "漿膜"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "tunic (plants)",
+          "capsule"
+        ]
+      },
+      {
+        "glosses": [
+          "coating",
+          "film",
+          "membrane"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news2",
+          "nf43"
+        ],
+        "pronounced": "ひまく",
+        "written": "被膜"
+      }
+    ]
+  }
+]

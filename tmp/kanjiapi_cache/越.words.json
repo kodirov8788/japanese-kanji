@@ -1,0 +1,4635 @@
+[
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "(crossing) over ..."
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ごえ",
+        "written": "越え"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "(kept) overnight"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "よいごし",
+        "written": "宵越し"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Ban'etsu West Line"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ばんえつさいせん",
+        "written": "磐越西線"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Battle of Hokuetsu (1868)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ほくえつせんそう",
+        "written": "北越戦争"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Chūetsu earthquake (Niigata prefecture, 2004)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ちゅうえつじしん",
+        "written": "中越地震"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Chūetsu earthquake (Niigata prefecture, 2004)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "にいがたけんちゅうえつじしん",
+        "written": "新潟県中越地震"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Echigo (former province located in present-day Niigata Prefecture)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news1",
+          "nf17"
+        ],
+        "pronounced": "えちご",
+        "written": "越後"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Echizen (former province located in parts of present-day Fukui and Gifu prefectures)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "えちぜん",
+        "written": "越前"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Esshū (the three former provinces of Echizen, Etchū and Echigo)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "えっしゅう",
+        "written": "越州"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Etchū (former province located in present-day Toyama Prefecture)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "えっちゅう",
+        "written": "越中"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Etenraku (Japanese court music composition)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "えてんらく",
+        "written": "越天楽"
+      },
+      {
+        "priorities": [],
+        "pronounced": "えてんらく",
+        "written": "越殿楽"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Jōetsu Shinkansen"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "じょうえつしんかんせん",
+        "written": "上越新幹線"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Jōetsu University of Education"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "じょうえつきょういくだいがく",
+        "written": "上越教育大学"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Koshi (former province located in present-day Fukui, Ishikawa, Toyama and Niigata prefectures; later split into Echizen, Etchū, and Echigo)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "こしのくに",
+        "written": "越国"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Koshihikari (variety of rice)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "こしひかり",
+        "written": "越光"
+      },
+      {
+        "priorities": [],
+        "pronounced": "コシヒカリ",
+        "written": "越光"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Lepus brachyurus lyoni (subspecies of Japanese hare)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "えちごうさぎ",
+        "written": "越後兎"
+      },
+      {
+        "priorities": [],
+        "pronounced": "エチゴウサギ",
+        "written": "越後兎"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Miyakoshi Corporation"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "みやこししょうじ",
+        "written": "宮越商事"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Nachi-Fujikoshi Corporation"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "かぶしきがいしゃふじこし",
+        "written": "株式会社不二越"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Nomura's jellyfish (Nemopilema nomurai)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "えちぜんくらげ",
+        "written": "越前水母"
+      },
+      {
+        "priorities": [],
+        "pronounced": "エチゼンクラゲ",
+        "written": "越前水母"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Passover"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "すぎこしのまつり",
+        "written": "過ぎ越しの祭"
+      },
+      {
+        "priorities": [],
+        "pronounced": "すぎこしのまつり",
+        "written": "過越しの祭"
+      },
+      {
+        "priorities": [],
+        "pronounced": "すぎこしのまつり",
+        "written": "過越の祭"
+      },
+      {
+        "priorities": [],
+        "pronounced": "すぎこしのまつり",
+        "written": "過越祭"
+      },
+      {
+        "priorities": [],
+        "pronounced": "すぎこしまつり",
+        "written": "過越祭"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Raetsu (supposed Malay peninsula country during the Tang dynasty)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "らえつ",
+        "written": "羅越"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "San'etsu (the three former provinces of Echizen, Etchū and Echigo)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "さんえつ",
+        "written": "三越"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Shin-Etsu Chemical"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しんえつかがくこうぎょう",
+        "written": "信越化学工業"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Sino-Vietnamese War (1979)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ちゅうえつせんそう",
+        "written": "中越戦争"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Vietnam"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "えつなん",
+        "written": "越南"
+      },
+      {
+        "priorities": [],
+        "pronounced": "ベトナム",
+        "written": "越南"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Vietnamese (language)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "えつご",
+        "written": "越語"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Vietnamese (language)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "えつなんご",
+        "written": "越南語"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Vietnamese reading (of Chinese characters)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "かんえつおん",
+        "written": "漢越音"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Wu and Yue (two rival states in ancient China)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ごえつ",
+        "written": "呉越"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "a bit lower (price)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "もうひとこえ",
+        "written": "もう一声"
+      },
+      {
+        "priorities": [],
+        "pronounced": "もうひとこえ",
+        "written": "もう一越"
+      },
+      {
+        "priorities": [],
+        "pronounced": "もうひとこえ",
+        "written": "もう一越え"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "adjusting one's fare for riding past one's destination"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "のりこしせいさん",
+        "written": "のりこし精算"
+      },
+      {
+        "priorities": [],
+        "pronounced": "のりこしせいさん",
+        "written": "乗り越し精算"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "appeal made directly to a senior official without going through formalities"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "えっそ",
+        "written": "越訴"
+      },
+      {
+        "priorities": [],
+        "pronounced": "おっそ",
+        "written": "越訴"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "area on Japan Sea side of Japan, including Niigata"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news1",
+          "nf12"
+        ],
+        "pronounced": "じょうえつ",
+        "written": "上越"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "balance carried forward"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "くりこしきん",
+        "written": "繰り越し金"
+      },
+      {
+        "priorities": [],
+        "pronounced": "くりこしきん",
+        "written": "繰越し金"
+      },
+      {
+        "priorities": [],
+        "pronounced": "くりこしきん",
+        "written": "繰越金"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "being well-known to"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "みしりごし",
+        "written": "見知り越し"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "conditional jump"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "じょうけんつきとびこし",
+        "written": "条件付き飛び越し"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "conditional jump instruction"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "じょうけんつきとびこしめいれい",
+        "written": "条件付き飛越し命令"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "crepe with fine wrinkles"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ひとこしちりめん",
+        "written": "一越縮緬"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "cross-border"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "こっきょうごえ",
+        "written": "国境越え"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "crossing a mountain"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "やまごえ",
+        "written": "山越え"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "crossing a mountain pass"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "とうげごえ",
+        "written": "峠越え"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "crossing a river"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "かわごえ",
+        "written": "川越え"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "crossing a river"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "かわごし",
+        "written": "川越し"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "destination of a move"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ひっこしさき",
+        "written": "引っ越し先"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "dispute between China and Vietnam"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ちゅうえつふんそう",
+        "written": "中越紛争"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "eastern pale clouded yellow (butterfly, Colias erate)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おつねんちょう",
+        "written": "越年蝶"
+      },
+      {
+        "priorities": [],
+        "pronounced": "オツネンチョウ",
+        "written": "越年蝶"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "exceeding capacity"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "キャパごえ",
+        "written": "キャパ越え"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "excess fare (for going too far)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "のりこしりょうきん",
+        "written": "乗り越し料金"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "feeling of food or drink going down the throat"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "のどごし",
+        "written": "のど越し"
+      },
+      {
+        "priorities": [],
+        "pronounced": "のどごし",
+        "written": "喉ごし"
+      },
+      {
+        "priorities": [],
+        "pronounced": "のどごし",
+        "written": "喉越し"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "finely-striate buccinum (species of whelk, Buccinum striatissimum)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "えっちゅうばい",
+        "written": "越虫貝"
+      },
+      {
+        "priorities": [],
+        "pronounced": "エッチュウバイ",
+        "written": "越虫貝"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "fundamental tone in the traditional Japanese 12-tone scale (approx. D)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "いちこつ",
+        "written": "壱越"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "gaining admission into a school in a school district other than one's own"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "えっきょうにゅうがく",
+        "written": "越境入学"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "guesstimating"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "かべごしすいりょう",
+        "written": "壁越し推量"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "having more losses than wins"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news1",
+          "nf24"
+        ],
+        "pronounced": "まけこし",
+        "written": "負け越し"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "ichikotsu mode (one of the six main gagaku modes)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "いちこちちょう",
+        "written": "壱越調"
+      },
+      {
+        "priorities": [],
+        "pronounced": "いちこつちょう",
+        "written": "壱越調"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "jump instruction"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "とびこしめいれい",
+        "written": "飛越し命令"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "keeping over the summer"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "なつごし",
+        "written": "夏越し"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "left (unpaid) from previous month"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "つきごし",
+        "written": "月越し"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "over one's shoulder"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "かたごし",
+        "written": "肩ごし"
+      },
+      {
+        "priorities": [],
+        "pronounced": "かたごし",
+        "written": "肩越し"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "overdraft"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "とうざかしこし",
+        "written": "当座貸越"
+      },
+      {
+        "priorities": [],
+        "pronounced": "とうざかしこし",
+        "written": "当座貸越し"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "overdraft"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "かしこし",
+        "written": "貸し越し"
+      },
+      {
+        "priorities": [],
+        "pronounced": "かしこし",
+        "written": "貸越"
+      },
+      {
+        "priorities": [],
+        "pronounced": "かしこし",
+        "written": "貸越し"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "overflow"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "えつりゅう",
+        "written": "越流"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "overseas Vietnamese"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "えっきょう",
+        "written": "越僑"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "passage of lines"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ちょうえつこうたい",
+        "written": "超越交代"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "passage point"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ちょうえつてん",
+        "written": "超越点"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "please come again"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "またおこしくださいませ",
+        "written": "またお越しくださいませ"
+      },
+      {
+        "priorities": [],
+        "pronounced": "またおこしくださいませ",
+        "written": "またお越し下さいませ"
+      },
+      {
+        "priorities": [],
+        "pronounced": "またおこしくださいませ",
+        "written": "又お越し下さいませ"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "poverty caused by the high costs of (repetitive) moving"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ひっこしびんぼう",
+        "written": "引っ越し貧乏"
+      },
+      {
+        "priorities": [],
+        "pronounced": "ひっこしびんぼう",
+        "written": "引越し貧乏"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "prevailing wind"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "たくえつふう",
+        "written": "卓越風"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "riding past (one's station)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "ichi1"
+        ],
+        "pronounced": "のりこし",
+        "written": "乗り越し"
+      },
+      {
+        "priorities": [
+          "ichi1"
+        ],
+        "pronounced": "のりこし",
+        "written": "乗越し"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "rudely reaching over one's serving tray to grab food behind it with one's chopsticks"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ぜんごし",
+        "written": "膳越し"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "self-transcendence"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "じこちょうえつ",
+        "written": "自己超越"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "separation (e.g. by a screen, curtain, or door)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ものごし",
+        "written": "物越し"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "show jumping (equestrian event)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しょうがいひえつ",
+        "written": "障害飛越"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "soba given to one's new neighbors after moving in"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ひっこしそば",
+        "written": "引越し蕎麦"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "soba noodles eaten at night on New Year's Eve"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "としこしそば",
+        "written": "年越しそば"
+      },
+      {
+        "priorities": [],
+        "pronounced": "としこしそば",
+        "written": "年越し蕎麦"
+      },
+      {
+        "priorities": [],
+        "pronounced": "としこしそば",
+        "written": "年越蕎麦"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "street performance by itinerant entertainers featuring a tumbling act in which a child performer wears a carved lion's head"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "えちごじし",
+        "written": "越後獅子"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "summer purification rites (held at shrines on the last day of the 6th lunar month)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "なごしのはらえ",
+        "written": "名越しの祓"
+      },
+      {
+        "priorities": [],
+        "pronounced": "なごしのはらえ",
+        "written": "夏越しの祓"
+      },
+      {
+        "priorities": [],
+        "pronounced": "なごしのはらえ",
+        "written": "夏越の祓"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "superiority complex"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ゆうえつふくごう",
+        "written": "優越複合"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "thinly slicing soft-boned fish for sashimi"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "せごし",
+        "written": "背越し"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "through a (computer, etc.) screen"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "がめんごし",
+        "written": "画面越し"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "through a fusuma"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ふすまごし",
+        "written": "ふすま越し"
+      },
+      {
+        "priorities": [],
+        "pronounced": "ふすまごし",
+        "written": "襖越し"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "through glass"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ガラスごし",
+        "written": "ガラス越し"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to able to enter the New Year (i.e. have work finished, debts paid, etc.)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "としがこせる",
+        "written": "年が越せる"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to be out of danger"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しせんをこえる",
+        "written": "死線を越える"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to cross a mountain"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "やまごしをする",
+        "written": "山越しをする"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to cross a river"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "かわをこえる",
+        "written": "川を越える"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to enter a New Year"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "としをこす",
+        "written": "年を越す"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to go too far"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "どをこす",
+        "written": "度をこす"
+      },
+      {
+        "priorities": [],
+        "pronounced": "どをこす",
+        "written": "度を超す"
+      },
+      {
+        "priorities": [],
+        "pronounced": "どをこす",
+        "written": "度を越す"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to leap over"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "とびこす",
+        "written": "跳び越す"
+      },
+      {
+        "priorities": [],
+        "pronounced": "とびこす",
+        "written": "跳越す"
+      },
+      {
+        "priorities": [],
+        "pronounced": "とびこす",
+        "written": "飛越す"
+      },
+      {
+        "priorities": [
+          "news2",
+          "nf41"
+        ],
+        "pronounced": "とびこす",
+        "written": "飛び越す"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to look over the fence"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "かきねごしにみる",
+        "written": "垣根越しに見る"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to overdraw"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "かりこす",
+        "written": "借り越す"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "transcendental"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ちょうえつてき",
+        "written": "超越的"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "transcendental"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ちょうえつろんてき",
+        "written": "超越論的"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "transcendental consciousness"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ちょうえつろんてきいしき",
+        "written": "超越論的意識"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "transcendental deity"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ちょうえつじん",
+        "written": "超越神"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "transcendental function"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ちょうえつかんすう",
+        "written": "超越関数"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "transcendental idealism"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ちょうえつろんてきかんねんろん",
+        "written": "超越論的観念論"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "transcendental method"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ちょうえつろんてきほうほう",
+        "written": "超越論的方法"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "transcendental number"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ちょうえつすう",
+        "written": "超越数"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "transcendental number theory"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ちょうえつすうろん",
+        "written": "超越数論"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "transcendental philosophy"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ちょうえつろんてつがく",
+        "written": "超越論哲学"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "transcendentalism"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ちょうえつしゅぎ",
+        "written": "超越主義"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "unconditional jump instruction"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "むじょうけんとびこしめいれい",
+        "written": "無条件飛越し命令"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "variety of sweet potato with red skin and sweet yellow flesh (product of the Kawagoe region)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "かわごえいも",
+        "written": "川越芋"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "wave overtopping"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "えっぱ",
+        "written": "越波"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "winter bonus"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "えっとうしきん",
+        "written": "越冬資金"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "wintering party (team)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "えっとうたい",
+        "written": "越冬隊"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "wintering spot (e.g. of a migrating bird)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "えっとうち",
+        "written": "越冬地"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "you can never be too careful"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ようじんにこしたことはない",
+        "written": "用心に越したことはない"
+      },
+      {
+        "priorities": [],
+        "pronounced": "ようじんにこしたことはない",
+        "written": "用心に越した事は無い"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Ōoka Echizen (televised period drama; 1970-1999)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おおおかえちぜん",
+        "written": "大岡越前"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Chinese, Japanese, Korean and Vietnamese (usu. characters)",
+          "CJKV"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "にっちゅうかんえつ",
+        "written": "日中韓越"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Japan and Vietnam",
+          "Japanese-Vietnamese"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "にちえつ",
+        "written": "日越"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Kōshin'etsu region (including Yamanashi, Nagano and Niigata prefectures)",
+          "Koshinetsu"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "こうしんえつちほう",
+        "written": "甲信越地方"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Sino-Vietnamese word",
+          "Vietnamese word of Chinese origin"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "かんえつご",
+        "written": "漢越語"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "balance brought forward",
+          "transferred amount (of money)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "くりこし",
+        "written": "繰り越"
+      },
+      {
+        "priorities": [],
+        "pronounced": "くりこし",
+        "written": "繰越"
+      },
+      {
+        "priorities": [],
+        "pronounced": "くりこし",
+        "written": "繰越し"
+      },
+      {
+        "priorities": [
+          "news2",
+          "nf38"
+        ],
+        "pronounced": "くりこし",
+        "written": "繰り越し"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "better safe than sorry",
+          "one should err on the side of caution"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ようじんするにこしたことはない",
+        "written": "用心するにこしたことはない"
+      },
+      {
+        "priorities": [],
+        "pronounced": "ようじんするにこしたことはない",
+        "written": "用心するに越したことはない"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "between the leaves",
+          "through the leaves"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "はごし",
+        "written": "葉ごし"
+      },
+      {
+        "priorities": [],
+        "pronounced": "はごし",
+        "written": "葉越し"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "bitter enemies in the same boat",
+          "rivals finding themselves together by chance"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news2",
+          "nf35",
+          "spec2"
+        ],
+        "pronounced": "ごえつどうしゅう",
+        "written": "呉越同舟"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "by your leave",
+          "with your permission"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "せんえつながら",
+        "written": "僣越ながら"
+      },
+      {
+        "priorities": [],
+        "pronounced": "せんえつながら",
+        "written": "僭越ながら"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "catch up with and overtake",
+          "pass after catching up with"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おいつきおいこせ",
+        "written": "追いつき追い越せ"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "coming",
+          "going"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おこし",
+        "written": "お越し"
+      },
+      {
+        "priorities": [],
+        "pronounced": "おこし",
+        "written": "御越し"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "faith is best in moderation",
+          "worship too hard and you will pass right through paradise"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しんじんすぎてごくらくをとおりこす",
+        "written": "信心過ぎて極楽を通り越す"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "ford",
+          "low-level crossing"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "あらいごし",
+        "written": "洗い越し"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "going down smoothly (esp. of beer)",
+          "tasting good going down"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "のどごしのいい",
+        "written": "のど越しのいい"
+      },
+      {
+        "priorities": [],
+        "pronounced": "のどごしのいい",
+        "written": "のど越しの良い"
+      },
+      {
+        "priorities": [],
+        "pronounced": "のどごしのいい",
+        "written": "喉越しのいい"
+      },
+      {
+        "priorities": [],
+        "pronounced": "のどごしのいい",
+        "written": "喉越しの良い"
+      },
+      {
+        "priorities": [],
+        "pronounced": "のどごしのよい",
+        "written": "のど越しのよい"
+      },
+      {
+        "priorities": [],
+        "pronounced": "のどごしのよい",
+        "written": "のど越しの良い"
+      },
+      {
+        "priorities": [],
+        "pronounced": "のどごしのよい",
+        "written": "喉越しのよい"
+      },
+      {
+        "priorities": [],
+        "pronounced": "のどごしのよい",
+        "written": "喉越しの良い"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "going down smoothly (esp. of beer)",
+          "tasting good going down"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "のどごしがいい",
+        "written": "のどごしが良い"
+      },
+      {
+        "priorities": [],
+        "pronounced": "のどごしがいい",
+        "written": "のど越しがいい"
+      },
+      {
+        "priorities": [],
+        "pronounced": "のどごしがいい",
+        "written": "のど越しが良い"
+      },
+      {
+        "priorities": [],
+        "pronounced": "のどごしがいい",
+        "written": "喉越しがいい"
+      },
+      {
+        "priorities": [],
+        "pronounced": "のどごしがいい",
+        "written": "喉越しが良い"
+      },
+      {
+        "priorities": [],
+        "pronounced": "のどごしがよい",
+        "written": "のどごしが良い"
+      },
+      {
+        "priorities": [],
+        "pronounced": "のどごしがよい",
+        "written": "のど越しがよい"
+      },
+      {
+        "priorities": [],
+        "pronounced": "のどごしがよい",
+        "written": "のど越しが良い"
+      },
+      {
+        "priorities": [],
+        "pronounced": "のどごしがよい",
+        "written": "喉越しがよい"
+      },
+      {
+        "priorities": [],
+        "pronounced": "のどごしがよい",
+        "written": "喉越しが良い"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "greeting the New Year (on New Year's Eve)",
+          "welcoming the New Year"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "としこし",
+        "written": "年越"
+      },
+      {
+        "priorities": [
+          "news2",
+          "nf36"
+        ],
+        "pronounced": "としこし",
+        "written": "年越し"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "housewarming gift",
+          "housewarming"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ひっこしいわい",
+        "written": "引っ越し祝い"
+      },
+      {
+        "priorities": [],
+        "pronounced": "ひっこしいわい",
+        "written": "引越し祝い"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "interlace (e.g. on CRT screens)",
+          "interlaced scanning"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "とびこしそうさ",
+        "written": "飛び越し走査"
+      },
+      {
+        "priorities": [],
+        "pronounced": "とびこしそうさ",
+        "written": "飛越し走査"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "inverted siphon",
+          "siphon culvert"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ふせこし",
+        "written": "伏越し"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "jump",
+          "transfer"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "とびこし",
+        "written": "飛び越し"
+      },
+      {
+        "priorities": [],
+        "pronounced": "とびこし",
+        "written": "飛越し"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "moving (dwelling, office, etc.)",
+          "changing residence"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ひっこし",
+        "written": "引越"
+      },
+      {
+        "priorities": [],
+        "pronounced": "ひっこし",
+        "written": "引越し"
+      },
+      {
+        "priorities": [
+          "ichi1",
+          "news1",
+          "nf12"
+        ],
+        "pronounced": "ひっこし",
+        "written": "引っ越し"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "outstanding debt",
+          "overdraft"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "かりこし",
+        "written": "借り越し"
+      },
+      {
+        "priorities": [],
+        "pronounced": "かりこし",
+        "written": "借越"
+      },
+      {
+        "priorities": [],
+        "pronounced": "かりこし",
+        "written": "借越し"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "over a wall",
+          "crossing a fence"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "へいごし",
+        "written": "塀越し"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "overanxiety",
+          "needless worry"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "とりこしくろう",
+        "written": "とりこし苦労"
+      },
+      {
+        "priorities": [],
+        "pronounced": "とりこしくろう",
+        "written": "とり越し苦労"
+      },
+      {
+        "priorities": [],
+        "pronounced": "とりこしくろう",
+        "written": "取越し苦労"
+      },
+      {
+        "priorities": [],
+        "pronounced": "とりこしくろう",
+        "written": "取越苦労"
+      },
+      {
+        "priorities": [],
+        "pronounced": "とりこしぐろう",
+        "written": "とりこし苦労"
+      },
+      {
+        "priorities": [],
+        "pronounced": "とりこしぐろう",
+        "written": "とり越し苦労"
+      },
+      {
+        "priorities": [],
+        "pronounced": "とりこしぐろう",
+        "written": "取越し苦労"
+      },
+      {
+        "priorities": [],
+        "pronounced": "とりこしぐろう",
+        "written": "取越苦労"
+      },
+      {
+        "priorities": [
+          "news2",
+          "nf46"
+        ],
+        "pronounced": "とりこしくろう",
+        "written": "取り越し苦労"
+      },
+      {
+        "priorities": [
+          "news2",
+          "nf46"
+        ],
+        "pronounced": "とりこしぐろう",
+        "written": "取り越し苦労"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "overdraft",
+          "outstanding debt"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "かりこしきん",
+        "written": "借り越し金"
+      },
+      {
+        "priorities": [],
+        "pronounced": "かりこしきん",
+        "written": "借越金"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "passing",
+          "overtaking"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おいこし",
+        "written": "追越"
+      },
+      {
+        "priorities": [],
+        "pronounced": "おいこし",
+        "written": "追越し"
+      },
+      {
+        "priorities": [
+          "news2",
+          "nf30"
+        ],
+        "pronounced": "おいこし",
+        "written": "追い越し"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "passing the winter",
+          "hibernation"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news1",
+          "nf22"
+        ],
+        "pronounced": "えっとう",
+        "written": "越冬"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "quantum supremacy",
+          "quantum advantage"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "りょうしちょうえつせい",
+        "written": "量子超越性"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "region on Japan Sea side of Japan west of Tokyo",
+          "Nagano and Niigata"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "しんえつ",
+        "written": "信越"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "removalist",
+          "mover"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ひっこしや",
+        "written": "引っ越し屋"
+      },
+      {
+        "priorities": [],
+        "pronounced": "ひっこしや",
+        "written": "引越し屋"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "selling on balance",
+          "net selling"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "うりこし",
+        "written": "売り越し"
+      },
+      {
+        "priorities": [],
+        "pronounced": "うりこし",
+        "written": "売越し"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "sending word (by letter, messenger, etc.)",
+          "writing (to someone)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "もうしこし",
+        "written": "申し越し"
+      },
+      {
+        "priorities": [],
+        "pronounced": "もうしこし",
+        "written": "申越し"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "special rights",
+          "predominant rights"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ゆうえつけん",
+        "written": "優越権"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "spending a day's revenue within the day",
+          "being liberal with one's money"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "よいごしのぜにはもたない",
+        "written": "宵越しの銭は持たない"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "string loincloth",
+          "G-string"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "えっちゅうふんどし",
+        "written": "越中ふんどし"
+      },
+      {
+        "priorities": [],
+        "pronounced": "えっちゅうふんどし",
+        "written": "越中褌"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "superiority complex",
+          "sense of superiority"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "ichi1",
+          "news2",
+          "nf36"
+        ],
+        "pronounced": "ゆうえつかん",
+        "written": "優越感"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "supremacy",
+          "predominance"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ゆうえつせい",
+        "written": "優越性"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "through a wall",
+          "on the other side of a wall"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "かべごし",
+        "written": "壁越し"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to anticipate",
+          "to foresee"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news2",
+          "nf29"
+        ],
+        "pronounced": "みこす",
+        "written": "見越す"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to be beaten to the punch",
+          "to be overtaken"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "さきをこされる",
+        "written": "先を越される"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to carry forward (i.e. on a balance sheet)",
+          "to transfer"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "くりこす",
+        "written": "繰り越す"
+      },
+      {
+        "priorities": [],
+        "pronounced": "くりこす",
+        "written": "繰越す"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to come",
+          "to go"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おこしになる",
+        "written": "お越しになる"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to cross the line",
+          "to go too far"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "いっせんをこえる",
+        "written": "一線を超える"
+      },
+      {
+        "priorities": [],
+        "pronounced": "いっせんをこえる",
+        "written": "一線を越える"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to go out of turn",
+          "to butt in"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "さしこえる",
+        "written": "差し越える"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to go out of turn",
+          "to send"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "さしこす",
+        "written": "差し越す"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to go over the hump",
+          "to get successfully through the bulk of the work"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ひとやまこす",
+        "written": "一山越す"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to go past (a place or thing)",
+          "to go beyond"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "とおりこす",
+        "written": "通りこす"
+      },
+      {
+        "priorities": [],
+        "pronounced": "とおりこす",
+        "written": "通り超す"
+      },
+      {
+        "priorities": [
+          "news2",
+          "nf28"
+        ],
+        "pronounced": "とおりこす",
+        "written": "通り越す"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to move (house)",
+          "to change residence"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ひきこす",
+        "written": "引き越す"
+      },
+      {
+        "priorities": [],
+        "pronounced": "ひきこす",
+        "written": "引越す"
+      },
+      {
+        "priorities": [],
+        "pronounced": "ひっこす",
+        "written": "引っこす"
+      },
+      {
+        "priorities": [
+          "ichi1",
+          "news1",
+          "nf18"
+        ],
+        "pronounced": "ひっこす",
+        "written": "引っ越す"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to send word (to)",
+          "to write (to)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "もうしこす",
+        "written": "申し越す"
+      },
+      {
+        "priorities": [],
+        "pronounced": "もうしこす",
+        "written": "申越す"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to step out of the ring",
+          "to put one's foot outside the ring"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ふみこす",
+        "written": "踏み越す"
+      },
+      {
+        "priorities": [],
+        "pronounced": "ふみこす",
+        "written": "踏越す"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to step over or across",
+          "to overcome"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ふみこえる",
+        "written": "踏み越える"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to surmount a difficulty",
+          "to go across a mountain"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "やまをこす",
+        "written": "山を越す"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to violate the laws of nature",
+          "to overstep the bounds of moderation"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "のりをこえる",
+        "written": "法を越える"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "transcendence",
+          "transcendency"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "ichi1",
+          "news2",
+          "nf40"
+        ],
+        "pronounced": "ちょうえつ",
+        "written": "超越"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "unauthorized proxy",
+          "unauthorized representation"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "えっけんだいり",
+        "written": "越権代理"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "violent",
+          "vehement"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "げきえつ",
+        "written": "激越"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "wintering",
+          "passing the winter"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ふゆごし",
+        "written": "冬越し"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "alms-giver",
+          "person who donates to a monk or a temple",
+          "dana-pati"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "だんおつ",
+        "written": "檀越"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "crossing a border (illegally)",
+          "border violation",
+          "border transgression"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news1",
+          "nf16"
+        ],
+        "pronounced": "えっきょう",
+        "written": "越境"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "exceeding one's authority",
+          "abusing one's legal authority",
+          "ultra vires activities"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "えっけんこうい",
+        "written": "越権行為"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "extravagant",
+          "extreme",
+          "hyper"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "どをこした",
+        "written": "度を超した"
+      },
+      {
+        "priorities": [],
+        "pronounced": "どをこした",
+        "written": "度を越した"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "it's best to",
+          "it's safest to",
+          "there's nothing better than"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "にこしたことはない",
+        "written": "に超したことはない"
+      },
+      {
+        "priorities": [],
+        "pronounced": "にこしたことはない",
+        "written": "に越したことはない"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "jumping over (a hurdle)",
+          "clearing (a fence)",
+          "hurdling"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ひえつ",
+        "written": "飛越"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "overstepping one's powers (competence, authority)",
+          "abuse of one's legal authority",
+          "acting ultra vires"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "せんじょうえっけん",
+        "written": "僭上越権"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "passing lane",
+          "outside lane",
+          "fast lane"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おいこししゃせん",
+        "written": "追い越し車線"
+      },
+      {
+        "priorities": [],
+        "pronounced": "おいこししゃせん",
+        "written": "追越車線"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "roof monitor",
+          "monitor roof",
+          "lantern (roof)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "こしやね",
+        "written": "腰屋根"
+      },
+      {
+        "priorities": [],
+        "pronounced": "こしやね",
+        "written": "越し屋根"
+      },
+      {
+        "priorities": [],
+        "pronounced": "こしやね",
+        "written": "越屋根"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "supremacy",
+          "predominance",
+          "being superior to"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news2",
+          "nf27"
+        ],
+        "pronounced": "ゆうえつ",
+        "written": "優越"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to go to",
+          "to visit",
+          "to call on"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "まかりこす",
+        "written": "まかり越す"
+      },
+      {
+        "priorities": [],
+        "pronounced": "まかりこす",
+        "written": "罷り越す"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to overstep the mark",
+          "to go too far",
+          "to overdo it"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "どをこえる",
+        "written": "度をこえる"
+      },
+      {
+        "priorities": [],
+        "pronounced": "どをこえる",
+        "written": "度を超える"
+      },
+      {
+        "priorities": [],
+        "pronounced": "どをこえる",
+        "written": "度を越える"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to take the initiative",
+          "to forestall",
+          "to beat to the punch"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "さきをこす",
+        "written": "先を越す"
+      },
+      {
+        "priorities": [],
+        "pronounced": "せんをこす",
+        "written": "先を越す"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "winter annual",
+          "biennial",
+          "biennial plant"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "えつねんせいしょくぶつ",
+        "written": "越年生植物"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "winter annual",
+          "biennial",
+          "biennial plant"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "えつねんそう",
+        "written": "越年草"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "extract (of plants, meat, etc.)",
+          "essence",
+          "concentrate",
+          "concentrated stock"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "エキス",
+        "written": "越幾斯"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "going beyond authority",
+          "unauthorized",
+          "unauthorised",
+          "ultra vires"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news2",
+          "nf36",
+          "spec2"
+        ],
+        "pronounced": "えっけん",
+        "written": "越権"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "ignoring",
+          "bypassing",
+          "doing something without consultation",
+          "going over someone's head"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "あたまごし",
+        "written": "頭ごし"
+      },
+      {
+        "priorities": [],
+        "pronounced": "あたまごし",
+        "written": "頭越し"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "net buying",
+          "buying more than selling",
+          "overbought position",
+          "long position"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "かいこし",
+        "written": "買い越し"
+      },
+      {
+        "priorities": [],
+        "pronounced": "かいこし",
+        "written": "買越し"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "preeminence",
+          "excellence",
+          "superiority",
+          "transcendence"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news1",
+          "nf23"
+        ],
+        "pronounced": "たくえつ",
+        "written": "卓越"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to have more losses than wins",
+          "to trail an opponent (e.g. by two games)",
+          "to be behind (in wins)",
+          "to have a losing record"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "まけこす",
+        "written": "負け越す"
+      },
+      {
+        "priorities": [],
+        "pronounced": "まけこす",
+        "written": "負越す"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "viewing through a window",
+          "passing through a window",
+          "going through a window",
+          "doing through a window"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "まどごし",
+        "written": "窓ごし"
+      },
+      {
+        "priorities": [
+          "news2",
+          "nf34"
+        ],
+        "pronounced": "まどごし",
+        "written": "窓越し"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "presumptuous",
+          "arrogant",
+          "audacious",
+          "forward",
+          "insolent"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "せんえつ",
+        "written": "僣越"
+      },
+      {
+        "priorities": [],
+        "pronounced": "せんえつ",
+        "written": "僭越"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to carry over (an issue, decision, work, etc.)",
+          "to carry forward",
+          "to put off",
+          "to postpone",
+          "to defer"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "もちこす",
+        "written": "もち越す"
+      },
+      {
+        "priorities": [],
+        "pronounced": "もちこす",
+        "written": "持ちこす"
+      },
+      {
+        "priorities": [],
+        "pronounced": "もちこす",
+        "written": "持越す"
+      },
+      {
+        "priorities": [
+          "news1",
+          "nf12"
+        ],
+        "pronounced": "もちこす",
+        "written": "持ち越す"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "mistake",
+          "error",
+          "fault",
+          "slip",
+          "blunder",
+          "omission",
+          "oversight",
+          "lapse"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おちど",
+        "written": "落度"
+      },
+      {
+        "priorities": [],
+        "pronounced": "おちど",
+        "written": "越度"
+      },
+      {
+        "priorities": [
+          "news1",
+          "nf21"
+        ],
+        "pronounced": "おちど",
+        "written": "落ち度"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "(looking) over the top of one's glasses"
+        ]
+      },
+      {
+        "glosses": [
+          "(looking) through a pair of glasses"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "めがねごし",
+        "written": "めがね越し"
+      },
+      {
+        "priorities": [],
+        "pronounced": "めがねごし",
+        "written": "眼鏡ごし"
+      },
+      {
+        "priorities": [],
+        "pronounced": "めがねごし",
+        "written": "眼鏡越し"
+      },
+      {
+        "priorities": [],
+        "pronounced": "メガネごし",
+        "written": "メガネ越し"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Chūetsu (region in Niigata)"
+        ]
+      },
+      {
+        "glosses": [
+          "China and Vietnam",
+          "Sino-Vietnamese"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news1",
+          "nf15"
+        ],
+        "pronounced": "ちゅうえつ",
+        "written": "中越"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Easter"
+        ]
+      },
+      {
+        "glosses": [
+          "Passover",
+          "Pesach"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "すぎこし",
+        "written": "過ぎ越し"
+      },
+      {
+        "priorities": [],
+        "pronounced": "すぎこし",
+        "written": "過越"
+      },
+      {
+        "priorities": [],
+        "pronounced": "すぎこし",
+        "written": "過越し"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Echigoya"
+        ]
+      },
+      {
+        "glosses": [
+          "Echigoya (nefarious businessman; stock character in period dramas)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "えちごや",
+        "written": "越後屋"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Mitsukoshi"
+        ]
+      },
+      {
+        "glosses": [
+          "Mitsukoshi (department store)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "みつこし",
+        "written": "三越"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "back-fence"
+        ]
+      },
+      {
+        "glosses": [
+          "over the fence (e.g. looking, conducting a conversation)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "かきねごし",
+        "written": "垣根越し"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "crossing over (a mountain, river, etc.)"
+        ]
+      },
+      {
+        "glosses": [
+          "exceeding (a limit, scope, one's authority, etc.)",
+          "surpassing",
+          "going beyond"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "ゆえつ",
+        "written": "踰越"
+      },
+      {
+        "priorities": [],
+        "pronounced": "ゆえつ",
+        "written": "逾越"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "having more wins than losses"
+        ]
+      },
+      {
+        "glosses": [
+          "taking the lead (in points, goals, etc.)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "かちこし",
+        "written": "勝越し"
+      },
+      {
+        "priorities": [
+          "news1",
+          "nf08"
+        ],
+        "pronounced": "かちこし",
+        "written": "勝ち越し"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "looking over (e.g. a fence)"
+        ]
+      },
+      {
+        "glosses": [
+          "anticipation",
+          "expectation"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "みこし",
+        "written": "見越し"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "playing more than the usual 12 rounds in one game"
+        ]
+      },
+      {
+        "glosses": [
+          "seeing the old year out",
+          "greeting the New Year",
+          "passing the winter",
+          "hibernation"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news1",
+          "nf16"
+        ],
+        "pronounced": "えつねん",
+        "written": "越年"
+      },
+      {
+        "priorities": [
+          "news1",
+          "nf16"
+        ],
+        "pronounced": "おつねん",
+        "written": "越年"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to cross a pass"
+        ]
+      },
+      {
+        "glosses": [
+          "to pass the peak (of something)",
+          "to get through the most difficult part",
+          "to be over the worst (e.g. an illness)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "とうげをこえる",
+        "written": "峠を越える"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to cross a pass"
+        ]
+      },
+      {
+        "glosses": [
+          "to pass the peak (of something)",
+          "to get through the most difficult part",
+          "to be over the worst (e.g. an illness)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "とうげをこす",
+        "written": "峠を越す"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to hand over (e.g. money)"
+        ]
+      },
+      {
+        "glosses": [
+          "to send",
+          "to forward"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "よこす",
+        "written": "寄越す"
+      },
+      {
+        "priorities": [],
+        "pronounced": "よこす",
+        "written": "遣す"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to take the lead (in points, goals, etc. during a match)"
+        ]
+      },
+      {
+        "glosses": [
+          "to have more wins than losses",
+          "to lead an opponent (e.g. by two games)",
+          "to be ahead (in wins)",
+          "to take the lead"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "かちこす",
+        "written": "勝越す"
+      },
+      {
+        "priorities": [
+          "news1",
+          "nf20"
+        ],
+        "pronounced": "かちこす",
+        "written": "勝ち越す"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "work, items, etc. carried over from earlier"
+        ]
+      },
+      {
+        "glosses": [
+          "hangover",
+          "what you ate the day before (and is still being digested)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "もちこし",
+        "written": "持ち越し"
+      },
+      {
+        "priorities": [],
+        "pronounced": "もちこし",
+        "written": "持越"
+      },
+      {
+        "priorities": [],
+        "pronounced": "もちこし",
+        "written": "持越し"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "throughout (a period of time)",
+          "for"
+        ]
+      },
+      {
+        "glosses": [
+          "across",
+          "over",
+          "beyond",
+          "through",
+          "crossing"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "news1",
+          "nf13"
+        ],
+        "pronounced": "ごし",
+        "written": "越し"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to pass (e.g. car)",
+          "to overtake"
+        ]
+      },
+      {
+        "glosses": [
+          "to surpass",
+          "to outstrip",
+          "to get ahead of",
+          "to outdistance"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "おいこす",
+        "written": "追いこす"
+      },
+      {
+        "priorities": [],
+        "pronounced": "おいこす",
+        "written": "追越す"
+      },
+      {
+        "priorities": [
+          "ichi1",
+          "news2",
+          "nf42"
+        ],
+        "pronounced": "おいこす",
+        "written": "追い越す"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to exceed",
+          "to surpass",
+          "to be more (than)"
+        ]
+      },
+      {
+        "glosses": [
+          "to cross over",
+          "to cross",
+          "to pass through",
+          "to pass over (out of)",
+          "to go beyond",
+          "to go past"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "ichi1"
+        ],
+        "pronounced": "こえる",
+        "written": "超える"
+      },
+      {
+        "priorities": [
+          "ichi1",
+          "news1",
+          "nf11"
+        ],
+        "pronounced": "こえる",
+        "written": "越える"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "Vietnam"
+        ]
+      },
+      {
+        "glosses": [
+          "Yue (kingdom in ancient China; 6th C-334 BCE)"
+        ]
+      },
+      {
+        "glosses": [
+          "Guangdong Province (China)",
+          "Canton",
+          "Kwangtung"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "えつ",
+        "written": "粤"
+      },
+      {
+        "priorities": [],
+        "pronounced": "えつ",
+        "written": "越"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "immediately after one's draw"
+        ]
+      },
+      {
+        "glosses": [
+          "wind blowing down, coming over a mountain"
+        ]
+      },
+      {
+        "glosses": [
+          "winning off a discarded tile from the player to one's right or across the table on the turn after letting one's winning tile go by from the player to one's left"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "やまごし",
+        "written": "山越し"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to climb over",
+          "to get over"
+        ]
+      },
+      {
+        "glosses": [
+          "to overtake (a vehicle)",
+          "to pass"
+        ]
+      },
+      {
+        "glosses": [
+          "to ride past (one's stop)",
+          "to overshoot"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "のりこす",
+        "written": "乗越す"
+      },
+      {
+        "priorities": [
+          "ichi1"
+        ],
+        "pronounced": "のりこす",
+        "written": "乗り越す"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to fly over",
+          "to fly across"
+        ]
+      },
+      {
+        "glosses": [
+          "to jump ahead (of someone)",
+          "to skip over",
+          "to leapfrog"
+        ]
+      },
+      {
+        "glosses": [
+          "to jump over",
+          "to leap over",
+          "to clear"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "とびこえる",
+        "written": "跳び越える"
+      },
+      {
+        "priorities": [],
+        "pronounced": "とびこえる",
+        "written": "飛越える"
+      },
+      {
+        "priorities": [
+          "news2",
+          "nf47"
+        ],
+        "pronounced": "とびこえる",
+        "written": "飛び越える"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to go out",
+          "to come around"
+        ]
+      },
+      {
+        "glosses": [
+          "to rise above",
+          "to transcend"
+        ]
+      },
+      {
+        "glosses": [
+          "to surpass",
+          "to be superior to"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "たちこえる",
+        "written": "立ち越える"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to surpass (a predecessor)",
+          "to overtake"
+        ]
+      },
+      {
+        "glosses": [
+          "to climb over",
+          "to get over",
+          "to cross (a mountain)"
+        ]
+      },
+      {
+        "glosses": [
+          "to overcome (a difficulty, obstacle, etc.)",
+          "to surmount",
+          "to get through (an illness, crisis, etc.)",
+          "to get over (e.g. one's pain)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [],
+        "pronounced": "のりこえる",
+        "written": "乗りこえる"
+      },
+      {
+        "priorities": [],
+        "pronounced": "のりこえる",
+        "written": "乗越える"
+      },
+      {
+        "priorities": [
+          "ichi1",
+          "news1",
+          "nf17"
+        ],
+        "pronounced": "のりこえる",
+        "written": "乗り越える"
+      }
+    ]
+  },
+  {
+    "meanings": [
+      {
+        "glosses": [
+          "to get over (e.g. hardship)"
+        ]
+      },
+      {
+        "glosses": [
+          "to move house"
+        ]
+      },
+      {
+        "glosses": [
+          "to pass time (e.g. a winter)"
+        ]
+      },
+      {
+        "glosses": [
+          "to cross over (e.g. mountain)",
+          "to go across"
+        ]
+      },
+      {
+        "glosses": [
+          "to go",
+          "to come"
+        ]
+      },
+      {
+        "glosses": [
+          "to surpass",
+          "to be better than",
+          "to exceed"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "priorities": [
+          "ichi1",
+          "news2",
+          "nf29"
+        ],
+        "pronounced": "こす",
+        "written": "越す"
+      },
+      {
+        "priorities": [
+          "ichi1",
+          "news2",
+          "nf30"
+        ],
+        "pronounced": "こす",
+        "written": "超す"
+      }
+    ]
+  }
+]

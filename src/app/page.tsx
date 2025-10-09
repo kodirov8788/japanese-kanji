@@ -219,23 +219,23 @@ export default function HomePage() {
       <Header currentLevel={selectedLevel} onLevelChange={handleLevelSelect} />
 
       <div className="container mx-auto px-3 sm:px-4 py-3 sm:py-5 md:py-8">
-        <div className="grid grid-cols-1 lg:grid-cols-3 gap-3 sm:gap-5 md:gap-8">
+        <div className="grid grid-cols-1 lg:grid-cols-3 gap-3 sm:gap-5 md:gap-8 min-h-[calc(100vh-120px)]">
           {/* Main Learning Area */}
-          <div className="lg:col-span-2 order-2 lg:order-1">
-            <div className="space-y-3 sm:space-y-5">
-              {/* Progress Message */}
-              {showProgressMessage && (
-                <Card className="bg-green-50 dark:bg-green-900/20 border-green-200 dark:border-green-800 p-4">
-                  <div className="text-center">
-                    <CheckCircle className="h-6 w-6 sm:h-8 sm:w-8 text-green-600 mx-auto mb-2" />
-                    <p className="text-green-800 dark:text-green-200 text-sm sm:text-base">
-                      Excellent! All examples mastered ✅
-                    </p>
-                  </div>
-                </Card>
-              )}
+          <div className="lg:col-span-2 order-2 lg:order-1 flex flex-col gap-3 sm:gap-5 min-h-[calc(100vh-180px)] sm:min-h-0">
+            {/* Progress Message */}
+            {showProgressMessage && (
+              <Card className="bg-green-50 dark:bg-green-900/20 border-green-200 dark:border-green-800 p-4">
+                <div className="text-center">
+                  <CheckCircle className="h-6 w-6 sm:h-8 sm:w-8 text-green-600 mx-auto mb-2" />
+                  <p className="text-green-800 dark:text-green-200 text-sm sm:text-base">
+                    Excellent! All examples mastered ✅
+                  </p>
+                </div>
+              </Card>
+            )}
 
-              {/* FlashCard */}
+            {/* FlashCard */}
+            <div className="flex-1 flex">
               <FlashCard
                 kanji={stats.currentKanji}
                 currentExampleIndex={currentExampleIndex}
@@ -244,14 +244,16 @@ export default function HomePage() {
                 onSpecificExample={goToSpecificExample}
                 onComplete={handleKanjiComplete}
               />
+            </div>
 
-              {/* Navigation */}
+            {/* Navigation */}
+            <div className="border-t pt-2 sm:pt-3">
               <div className="flex justify-between items-center">
                 <div className="space-y-3 w-full">
                   <div className="flex justify-between items-center">
                     <span className="text-xs sm:text-sm text-muted-foreground font-medium">
                       <span className="hidden sm:inline">
-                        Kanji {progress.currentKanjiIndex + 1} of{" "}
+                        Kanji {progress.currentKanjiIndex + 1} of {" "}
                         {getKanjiByLevel(progress.currentLevel).length}
                       </span>
                       <span className="sm:hidden">
