@@ -1,136 +1,51 @@
-# Japanese Kanji Learner
+# 🎌 Japanese Kanji — Autonomous Learning Enhancement
 
-A comprehensive Next.js application for learning Japanese kanji from JLPT N5 to N1 levels with modern UI design and progress tracking.
+An AI-driven language education platform designed to accelerate Kanji mastery from JLPT N3 to N1 levels. This repository showcases an innovative **Agentic AI Workflow**, featuring automated expansion strategies and autonomous state management.
 
-## Features
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Workflow-Agentic%20AI-orange?style=flat&logo=openai)
+![Level](https://img.shields.io/badge/JLPT-N3%20%E2%86%92%20N1-red)
 
-- 🎯 **JLPT Level Structure**: Organized learning path from N5 to N1
-- 📚 **Comprehensive Kanji Data**: Complete kanji database with readings, meanings, and examples
-- 🎨 **Modern UI**: Built with Next.js, TypeScript, Tailwind CSS, and Shadcn UI
-- 📱 **Mobile-First Design**: Optimized for smartphones with touch-friendly interactions
-- 💡 **Adaptive Interface**: Compact mobile summary cards and expandable desktop views
-- 🌙 **Dark Mode**: Toggle between light and dark themes
-- 📊 **Progress Tracking**: Track your learning journey with statistics
-- 🎵 **Audio Support**: Proper pronunciation guides with romaji
-- 📝 **Example Sentences**: Real-world usage with 5-layer format (Japanese, Spoken Japanese, Romaji, English, Uzbek)
-- 💾 **Local Storage**: Progress automatically saved in your browser
+---
 
-## Sample Output Format
+## 🧠 What Makes This Unique?
 
-The application provides detailed kanji information in this format:
+Unlike standard flashcard apps, this project implements a **Self-Optimizing Learning System**:
 
-```
-Perfect 👍 The next JLPT N4 kanji is 教（きょう・おしえる・おそわる）, meaning teach, instruct.
-We're at Kanji #63 of 167 → 104 left.
-(Progress: about 38% complete ✅)
+- **Autonomous Learning Protocol**: Uses a sophisticated "Long-Term Memory" (LTM) and "Short-Term Memory" (STM) architecture to track learning phases and quality gates.
+- **N1 Expansion Strategy**: A data-driven approach to programmatically enhance N3 vocabulary into N1 proficiency levels using AI agents.
+- **Agentic State Tracking**: Continuous synchronization between local JSON registries (`enhancement_progress.json`) and AI-managed memory files.
+- **Automated Validation**: Integrated scripts (`autonomous.sh`) for verifying Kanji analysis results and maintaining data integrity.
 
-Here are 5 common compounds with example sentences in the 5-layer format:
+---
 
-1. 教える（おしえる） to teach, to tell
-   先生が日本語を教える。
-   せんせいがにほんごをおしえる
-   Romaji: Sensei ga Nihongo o oshieru.
-   English: The teacher teaches Japanese.
-   Uzbek: O'qituvchi yapon tilini o'qitadi.
+## 🏗️ Project Components
 
-2. 教わる（おそわる） to be taught, to learn
-   彼にピアノを教わった。
-   かれにピアノをおそわった
-   Romaji: Kare ni piano o osowatta.
-   English: I learned piano from him.
-   Uzbek: Men undan pianino chalishni o'rgandim.
-```
+- **`src/`**: Modern Next.js frontend for Kanji visualization and practice.
+- **`cursorkleosr/`**: Central "Source of Truth" for the AI Agent, containing project configuration and workflow state.
+- **`scripts/`**: Automation tools for Kanji expansion and analysis.
+- **`kanji_analysis_results.json`**: Real-time registry of Kanji mastered and pending enhancement.
 
-## Installation
+---
 
-1. Clone the repository:
+## 🔄 Autonomous Workflow
 
-```bash
-git clone <repository-url>
-cd japanese-kanji
-```
+The project operates on a rigorous cycle of:
+1. **Context Reading**: Source of truth analysis.
+2. **Rule Coordination**: Aligning with phase goals (N3 to N1).
+3. **Agentic Execution**: Automated coding and data enhancement.
+4. **State Persistence**: Updating progress registries.
 
-2. Install dependencies:
+---
 
-```bash
-npm install
-```
+## 📄 Documentation
 
-3. Run the development server:
+For deep dives into the architecture:
+- [Autonomous Workflow Protocol](./AUTONOMOUS_WORKFLOW.md)
+- [N1 Expansion Strategy](./N1_EXPANSION_STRATEGY.md)
 
-```bash
-npm run dev
-```
+---
 
-## Technology Stack
-
-- **Frontend**: Next.js 15 with App Router
-- **Language**: TypeScript for type safety
-- **Styling**: Tailwind CSS for utility-first styling
-- **UI Components**: Shadcn UI for modern, accessible components
-- **Icons**: Lucide React for beautiful icons
-- **Theme**: Next-themes for dark/light mode support
-- **Data**: JSON-based kanji database
-
-## Project Structure
-
-```
-src/
-├── app/                    # Next.js app router pages
-├── components/             # React components
-│   ├── ui/                # Shadcn UI components
-│   ├── kanji-card.tsx     # Main kanji display component
-│   ├── progress-bar.tsx   # Progress tracking component
-│   ├── level-selector.tsx # JLPT level selection
-│   ├── header.tsx         # Navigation header
-│   └── theme-provider.tsx # Theme management
-├── data/                   # Data files
-│   ├── kanji/            # Kanji JSON files by JLPT level
-│   └── jlpt-levels.ts    # JLPT level definitions
-├── lib/                   # Utility functions
-│   └── kanji-utils.ts   # Kanji data management
-└── types/                 # TypeScript type definitions
-    └── kanji.ts          # Kanji-related types
-```
-
-## Available Scripts
-
-- `npm run dev` - Start development server
-- `npm run build` - Build for production
-- `npm run start` - Start production server
-- `npm run lint` - Run ESLint
-- `npx shadcn add <component>` - Add new Shadcn UI components
-
-## Usage
-
-1. **Select JLPT Level**: Choose from N5 to N1 difficulty levels
-2. **Study Kanji**: View kanji with detailed information including readings, meanings, and examples
-3. **Track Progress**: Monitor your advancement through each level
-4. **View Examples**: Learn kanji through common compounds with example sentences
-5. **Practice Writing**: Use practice mode for stroke order (future feature)
-
-## Contributing
-
-This project follows modern development practices:
-
-- TypeScript strict mode enabled
-- ESLint configuration for code quality
-- Tailwind CSS for consistent styling
-- Component-based architecture
-- Mobile-first responsive design
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Roadmap
-
-Future features planned:
-
-- Audio pronunciation support
-- Stroke order animations
-- Spaced repetition algorithm
-- Progress analytics
-- Export study sessions
-- Offline support with PWA
-- Kanji recognition quizzes
+## 📄 License
+Apache 2.0 — Developed by [Kodirov Dev](https://github.com/kodirov8788)
