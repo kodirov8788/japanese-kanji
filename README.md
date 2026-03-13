@@ -1,51 +1,44 @@
-# 🎌 Japanese Kanji — Autonomous Learning Enhancement
+# Japanese Kanji
 
-An AI-driven language education platform designed to accelerate Kanji mastery from JLPT N3 to N1 levels. This repository showcases an innovative **Agentic AI Workflow**, featuring automated expansion strategies and autonomous state management.
+An AI-assisted language learning platform focused on Kanji mastery, with autonomous workflow conventions for expanding educational content and tracking progress.
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Agentic AI](https://img.shields.io/badge/Workflow-Agentic%20AI-orange?style=flat&logo=openai)
-![Level](https://img.shields.io/badge/JLPT-N3%20%E2%86%92%20N1-red)
+**Live demo:** https://japanese-kanji.vercel.app
 
----
+## What This Project Shows
+- Agentic workflow design applied to a real product domain
+- Modern frontend delivery paired with automation scripts
+- Structured long-term and short-term memory patterns for iterative content generation
 
-## 🧠 What Makes This Unique?
+## Why This Stack / Tooling
+- **Next.js 15 + React 19** were chosen for fast UI delivery and scalable page composition.
+- **TypeScript** keeps the app layer predictable as learning logic and UI components evolve.
+- **Python + Shell utilities** are used where scripting and data processing are more convenient than pushing everything into the frontend stack.
+- **Autonomous workflow files** document how AI-assisted execution should behave over long-running content work.
 
-Unlike standard flashcard apps, this project implements a **Self-Optimizing Learning System**:
+## Stack
+- Next.js 15.5
+- React 19
+- TypeScript
+- Python
+- Shell automation
+- Tailwind CSS
 
-- **Autonomous Learning Protocol**: Uses a sophisticated "Long-Term Memory" (LTM) and "Short-Term Memory" (STM) architecture to track learning phases and quality gates.
-- **N1 Expansion Strategy**: A data-driven approach to programmatically enhance N3 vocabulary into N1 proficiency levels using AI agents.
-- **Agentic State Tracking**: Continuous synchronization between local JSON registries (`enhancement_progress.json`) and AI-managed memory files.
-- **Automated Validation**: Integrated scripts (`autonomous.sh`) for verifying Kanji analysis results and maintaining data integrity.
+## Key Features
+- Kanji learning interface and progress visualization
+- Agent-run scripts for workflow execution
+- Persistent workflow state through project memory files
+- Clear separation between app UI and autonomous content operations
 
----
+## Important Files
+- `AUTONOMOUS_WORKFLOW.md`: operating model for AI-assisted execution
+- `cursorkleosr/`: workflow state and project rules
+- `tools/`: automation utilities
 
-## 🏗️ Project Components
+## Getting Started
+```bash
+npm install
+npm run dev
+```
 
-- **`src/`**: Modern Next.js frontend for Kanji visualization and practice.
-- **`cursorkleosr/`**: Central "Source of Truth" for the AI Agent, containing project configuration and workflow state.
-- **`scripts/`**: Automation tools for Kanji expansion and analysis.
-- **`kanji_analysis_results.json`**: Real-time registry of Kanji mastered and pending enhancement.
-
----
-
-## 🔄 Autonomous Workflow
-
-The project operates on a rigorous cycle of:
-1. **Context Reading**: Source of truth analysis.
-2. **Rule Coordination**: Aligning with phase goals (N3 to N1).
-3. **Agentic Execution**: Automated coding and data enhancement.
-4. **State Persistence**: Updating progress registries.
-
----
-
-## 📄 Documentation
-
-For deep dives into the architecture:
-- [Autonomous Workflow Protocol](./AUTONOMOUS_WORKFLOW.md)
-- [N1 Expansion Strategy](./N1_EXPANSION_STRATEGY.md)
-
----
-
-## 📄 License
-Apache 2.0 — Developed by [Kodirov Dev](https://github.com/kodirov8788)
+## Why It Matters For Hiring
+This repo is unusual in a good way. It combines product UI work with process design for autonomous systems, which makes it stronger than a standard tutorial-style education app.
