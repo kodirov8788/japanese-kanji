@@ -10,13 +10,14 @@ import n5KanjiData from "@/data/kanji/n5-complete.json";
 import n4KanjiData from "@/data/kanji/n4.json";
 import n3KanjiData from "@/data/kanji/n3-complete.json";
 import n2KanjiData from "@/data/kanji/n2-complete.json";
+import n1KanjiData from "@/data/kanji/n1-complete.json";
 
 const kanjiData: Record<JLPTLevel, KanjiData[]> = {
   N5: n5KanjiData as KanjiData[],
   N4: n4KanjiData as KanjiData[],
   N3: n3KanjiData as KanjiData[],
   N2: n2KanjiData as KanjiData[],
-  N1: [], // Placeholder for now
+  N1: n1KanjiData as KanjiData[],
 };
 
 export function getAllKanji(): Record<JLPTLevel, KanjiData[]> {

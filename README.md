@@ -1,44 +1,77 @@
 # Japanese Kanji
 
-An AI-assisted language learning platform focused on Kanji mastery, with autonomous workflow conventions for expanding educational content and tracking progress.
+AI-assisted Kanji learning platform built with Next.js and TypeScript. The app lets learners move through JLPT levels, review example-rich flash cards, and keep progress locally in the browser.
 
-**Live demo:** https://japanese-kanji.vercel.app
+**Live demo:** [japanese-kanji.vercel.app](https://japanese-kanji.vercel.app)
 
 ## What This Project Shows
-- Agentic workflow design applied to a real product domain
-- Modern frontend delivery paired with automation scripts
-- Structured long-term and short-term memory patterns for iterative content generation
+
+- Product-focused frontend delivery for a real learning workflow
+- Structured educational datasets with local validation gates
+- Practical AI-assisted content expansion without making the app depend on a backend
 
 ## Why This Stack / Tooling
-- **Next.js 15 + React 19** were chosen for fast UI delivery and scalable page composition.
-- **TypeScript** keeps the app layer predictable as learning logic and UI components evolve.
-- **Python + Shell utilities** are used where scripting and data processing are more convenient than pushing everything into the frontend stack.
-- **Autonomous workflow files** document how AI-assisted execution should behave over long-running content work.
+
+- **Next.js 15 + React 19** keep the product fast to iterate and easy to deploy as a static-first app.
+- **TypeScript** protects the Kanji dataset and UI state from silent shape drift.
+- **JSON datasets** keep the content portable and easy to validate without introducing database complexity.
+- **Project workflow files** support long-running content operations, but the user-facing app remains simple to run.
 
 ## Stack
-- Next.js 15.5
+
+- Next.js 15
 - React 19
 - TypeScript
-- Python
-- Shell automation
-- Tailwind CSS
+- Tailwind CSS 4
+- Static JSON content
 
-## Key Features
-- Kanji learning interface and progress visualization
-- Agent-run scripts for workflow execution
-- Persistent workflow state through project memory files
-- Clear separation between app UI and autonomous content operations
+## Core Features
 
-## Important Files
-- `AUTONOMOUS_WORKFLOW.md`: operating model for AI-assisted execution
-- `cursorkleosr/`: workflow state and project rules
-- `tools/`: automation utilities
+- JLPT level navigation from N5 through N1
+- Flash-card based learning flow with examples, readings, and meanings
+- Local progress persistence with study streak and completion tracking
+- Dark mode and mobile-friendly layout
+- Dataset validation script for content quality checks
 
 ## Getting Started
+
 ```bash
-npm install
-npm run dev
+yarn install
+yarn dev
 ```
 
+Open [http://localhost:3000](http://localhost:3000).
+
+## Quality Checks
+
+```bash
+yarn validate:data
+yarn typecheck
+yarn lint
+yarn build
+```
+
+Run the full verification pass:
+
+```bash
+yarn qa
+```
+
+## Project Structure
+
+- `src/app/`: application shell and main learning experience
+- `src/components/`: reusable UI and learning components
+- `src/data/kanji/`: JLPT dataset files
+- `src/lib/kanji-utils.ts`: progress logic, dataset access, storage helpers
+- `scripts/validate-kanji-data.mjs`: dataset validation for local and CI use
+- `cursorkleosr/`: workflow memory and autonomous content operations
+
+## Current Status
+
+- N5, N4, N3, N2, and the current N1 dataset are wired into the product
+- The app builds cleanly and can be run locally without external services
+- Content growth is still ongoing, especially for deeper N1 coverage
+
 ## Why It Matters For Hiring
-This repo is unusual in a good way. It combines product UI work with process design for autonomous systems, which makes it stronger than a standard tutorial-style education app.
+
+This repo shows product execution, data modeling, and maintainable frontend architecture in one place. It is stronger than a tutorial app because the core problem is real: delivering structured learning content with a workflow that can keep evolving.
