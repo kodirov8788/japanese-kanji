@@ -172,3 +172,28 @@ export function saveProgressToStorage(progress: UserProgress): void {
     console.error("Failed to save progress:", error);
   }
 }
+
+/**
+ * Returns a consistent "Kanji of the Day" based on the current date.
+ * This ensures all users see the same kanji on a given day.
+ */
+export function getKanjiOfTheDay(): KanjiData {
+  const allLevels = ["N5", "N4", "N3", "N2", "N1"] as JLPTLevel[];
+  const flattenedKanji: KanjiData[] = [];
+  
+  allLevels.forEach(level => {
+    flattenedKanji.push(...(kanjiData[level] || []));
+  });
+
+  if (flattenedKanji.length === 0) {
+    // Fallback if data isn't loaded yet
+    return n5KanjiData[0] as KanjiData;
+  }
+
+  const today = new Date();
+  // Simple deterministic seed based on date (YYYYMMDD)
+  const seed = today.getFullYear() * 10000 + (today.getMonth() + 1) * 100 + today.getDate();
+  const index = seed % flattenedKanji.length;
+  
+  return flattenedKanji[index];
+}

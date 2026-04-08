@@ -1,5 +1,7 @@
-# TODO
-
+- [x] Implement "Kanji of the Day" feature
+  - Added deterministic daily kanji selection in kanji-utils.ts
+  - Created high-impact UI for daily kanji on the home screen
+  - Integrated direct "Study Now" navigation for the daily challenge
 - [x] Complete N2 level (374 total)
   - Fixed N2 data loading issues
   - Resolved runtime errors

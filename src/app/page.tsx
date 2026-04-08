@@ -9,15 +9,18 @@ import {
   getKanjiByLevel,
   getDefaultProgress,
   formatProgressMessage,
+  getKanjiOfTheDay,
 } from "@/lib/kanji-utils";
 import { FlashCard } from "@/components/flash-card";
 import { ProgressBar } from "@/components/progress-bar";
 import { LevelSelector } from "@/components/level-selector";
 import { Header } from "@/components/header";
 import { MobileSummary } from "@/components/mobile-summary";
-import { Card, CardContent } from "@/components/ui/card";
+import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
-import { ArrowLeft, ArrowRight, RotateCcw, CheckCircle } from "lucide-react";
+import { Badge } from "@/components/ui/badge";
+import { ArrowLeft, ArrowRight, RotateCcw, CheckCircle, Calendar, Sparkles } from "lucide-react";
+import { KanjiData } from "@/types/kanji";
 
 type ViewMode = "level-select" | "learning";
 
@@ -28,6 +31,7 @@ export default function HomePage() {
   const [stats, setStats] = useState<LearningStats | null>(null);
   const [showProgressMessage, setShowProgressMessage] = useState(false);
   const [currentExampleIndex, setCurrentExampleIndex] = useState(0);
+  const [kanjiOfTheDay, setKanjiOfTheDay] = useState<KanjiData | null>(null);
 
   // Load progress from localStorage on mount
   useEffect(() => {
@@ -38,6 +42,8 @@ export default function HomePage() {
       setSelectedLevel(savedProgress.currentLevel);
       setViewMode("learning");
     }
+
+    setKanjiOfTheDay(getKanjiOfTheDay());
   }, []);
 
   // Calculate stats when progress or level changes
@@ -183,6 +189,75 @@ export default function HomePage() {
             selectedLevel={selectedLevel}
             onLevelSelect={handleLevelSelect}
           />
+
+          {kanjiOfTheDay && (
+            <div className="mt-12 max-w-4xl mx-auto">
+              <div className="flex items-center gap-2 mb-6">
+                <Calendar className="h-5 w-5 text-primary" />
+                <h2 className="text-xl font-bold">Kanji of the Day</h2>
+                <Badge variant="secondary" className="ml-2">Daily Challenge</Badge>
+              </div>
+
+              <Card className="overflow-hidden border-primary/20 bg-white/50 dark:bg-slate-900/50 backdrop-blur-sm hover:shadow-lg transition-all duration-300 group">
+                <div className="grid grid-cols-1 md:grid-cols-2">
+                  <div className="p-8 flex flex-col items-center justify-center bg-primary/5 border-b md:border-b-0 md:border-r border-primary/10">
+                    <span className="text-sm font-medium text-primary mb-2 uppercase tracking-wider">{kanjiOfTheDay.jlptLevel} Level</span>
+                    <div className="text-9xl font-bold text-slate-900 dark:text-white group-hover:scale-110 transition-transform duration-500">
+                      {kanjiOfTheDay.kanji}
+                    </div>
+                    <div className="mt-4 flex gap-2">
+                      {kanjiOfTheDay.readings.on.slice(0, 2).map((r, i) => (
+                        <Badge key={i} variant="outline" className="bg-white/80 dark:bg-slate-800/80">{r}</Badge>
+                      ))}
+                    </div>
+                  </div>
+                  <div className="p-8 flex flex-col justify-center">
+                    <div className="flex items-start gap-3 mb-4">
+                      <Sparkles className="h-6 w-6 text-amber-500 shrink-0 mt-1" />
+                      <div>
+                        <h3 className="text-2xl font-bold text-slate-800 dark:text-slate-100 mb-1">
+                          {kanjiOfTheDay.meanings.join(", ")}
+                        </h3>
+                        <p className="text-slate-500 dark:text-slate-400">
+                          Master this kanji today to boost your Japanese proficiency.
+                        </p>
+                      </div>
+                    </div>
+                    
+                    <div className="mt-6 space-y-4">
+                      <div className="bg-slate-100 dark:bg-slate-800/80 p-4 rounded-xl">
+                        <p className="text-xs font-bold text-slate-400 mb-2 uppercase tracking-tighter">Example Sentence</p>
+                        <p className="text-lg font-medium mb-1">{kanjiOfTheDay.examples[0].sentence.japanese}</p>
+                        <p className="text-sm text-primary font-mono">{kanjiOfTheDay.examples[0].sentence.romaji}</p>
+                      </div>
+                      
+                      <Button 
+                        className="w-full group/btn py-6 text-lg shadow-md"
+                        onClick={() => {
+                          setSelectedLevel(kanjiOfTheDay.jlptLevel);
+                          // Find index of this kanji in its level
+                          const levelKanji = getKanjiByLevel(kanjiOfTheDay.jlptLevel);
+                          const index = levelKanji.findIndex(k => k.id === kanjiOfTheDay.id);
+                          
+                          const newProgress: UserProgress = {
+                            ...progress,
+                            currentLevel: kanjiOfTheDay.jlptLevel,
+                            currentKanjiIndex: index !== -1 ? index : 0,
+                          };
+                          setProgress(newProgress);
+                          saveProgressToStorage(newProgress);
+                          setViewMode("learning");
+                        }}
+                      >
+                        Study This Kanji Now
+                        <ArrowRight className="ml-2 h-5 w-5 group-hover/btn:translate-x-1 transition-transform" />
+                      </Button>
+                    </div>
+                  </div>
+                </div>
+              </Card>
+            </div>
+          )}
         </div>
       </div>
     );
